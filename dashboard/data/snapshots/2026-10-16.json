@@ -1,11 +1,12 @@
 {
  "date": "2026-10-16",
- "taken_at": "2026-10-16T15:11:08.919525-03:00",
+ "taken_at": "2026-10-16T15:20:20.055189-03:00",
  "metrics": {
   "censo_unique_users": 2592,
   "censo_responses": 2721,
   "ga_users_last7": 871,
   "ga_sessions_last7": 1084,
+  "ga_page_views_last7": 4311,
   "st_users": 4823,
   "st_listings": 1828,
   "st_listings_published": 1739,

@@ -17,7 +17,7 @@
   const sum = (m, a, b) => { let t = 0; for (const k in m) if (k >= a && k <= b) t += m[k]; return t; };
   const S = {
     censo: series(censo && censo.daily, 'new_users'),
-    gaUsers: series(ga && ga.daily, 'users'), gaSess: series(ga && ga.daily, 'sessions'), gaNew: series(ga && ga.daily, 'new_users'),
+    gaUsers: series(ga && ga.daily, 'users'), gaSess: series(ga && ga.daily, 'sessions'), gaNew: series(ga && ga.daily, 'new_users'), gaViews: series(ga && ga.daily, 'page_views'),
     stUsers: series(st && st.daily, 'users'), stList: series(st && st.daily, 'listings'), stInq: series(st && st.daily, 'inquiries'),
   };
   const firstDate = Object.values(S).flatMap(m => Object.keys(m)).sort()[0] || '2023-10-24';
@@ -138,7 +138,8 @@
     document.getElementById('cards-ga').innerHTML =
       flowCard('Usuarios', S.gaUsers, R, { note: 'Suma de usuarios activos diarios (una persona que vuelve otro día cuenta de nuevo)' }) +
       flowCard('Usuarios nuevos', S.gaNew, R) +
-      flowCard('Sesiones', S.gaSess, R);
+      flowCard('Sesiones', S.gaSess, R) +
+      flowCard('Visitas totales (páginas vistas)', S.gaViews, R);
     document.getElementById('cards-st').innerHTML =
       flowCard('Nuevos usuarios', S.stUsers, R, { total: true }) +
       flowCard('Nuevos anuncios', S.stList, R, { total: true, note: st ? `Hoy: ${fmt(st.totals.listings_by_state.published)} publicados · ${fmt(st.totals.listings_by_state.closed)} cerrados · ${fmt(st.totals.listings_by_state.draft)} borradores` : '' }) +
