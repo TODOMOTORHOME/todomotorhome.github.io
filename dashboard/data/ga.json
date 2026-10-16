@@ -1,5 +1,5 @@
 {
- "source": "GA4 property 413106712",
+ "source": "GA4 property 413106712 (zona horaria de la propiedad: America/Buenos_Aires)",
  "daily": [
   {
    "date": "2023-10-24",
@@ -6464,5 +6464,32 @@
    "new_users": 142
   }
  ],
+ "periods": {
+  "m2": {
+   "start": "2026-08-01",
+   "end": "2026-08-31",
+   "users": 3112,
+   "sessions": 4408
+  },
+  "m1": {
+   "start": "2026-09-01",
+   "end": "2026-09-30",
+   "users": 3844,
+   "sessions": 5412
+  },
+  "mtd": {
+   "start": "2026-10-01",
+   "end": "2026-10-16",
+   "users": 1974,
+   "sessions": 2732
+  },
+  "mtd_prev": {
+   "start": "2026-09-01",
+   "end": "2026-09-16",
+   "users": 1553,
+   "sessions": 2079
+  }
+ },
+ "periods_note": "usuarios únicos por período (runReport con ese rango de fechas, sin sumar días)",
  "note": "users = usuarios activos por día (la suma de un período cuenta repetidos); new_users y sessions son exactos al sumar."
 }
