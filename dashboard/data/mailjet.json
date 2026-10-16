@@ -5,12 +5,22 @@
    "id": 10590623,
    "name": "Base de registrados",
    "total": 4825,
-   "subscribed": 4671,
-   "unsubscribed": 154,
+   "subscribed": 4670,
+   "unsubscribed": 155,
    "spam_complaints": 18,
    "blocked": 1652,
    "hard_bounced": 116,
-   "main": true
+   "main": true,
+   "last_campaign": {
+    "id": 7769232198,
+    "name": "Email semanal 22",
+    "subject": "🚐 [[data:firstname:\"\"]], 6 Hallazgos de la semana en Todo Motorhome",
+    "sent_at": "2026-10-15T12:00:02-03:00",
+    "sent_label": "15/10/2026 12:00",
+    "processed": 4659,
+    "blocked": 98,
+    "blocked_rate": 2.1
+   }
   },
   {
    "id": 10607649,
@@ -21,7 +31,17 @@
    "spam_complaints": 0,
    "blocked": 46,
    "hard_bounced": 0,
-   "main": false
+   "main": false,
+   "last_campaign": {
+    "id": 7761460710,
+    "name": "Censo Rodantero a registrados de todomotorhome, no censados",
+    "subject": "¿[[data:firstname:\"\"]]Ya sos parte del Censo Rodantero? 🇦🇷🚐",
+    "sent_at": "2026-06-28T19:30:01-03:00",
+    "sent_label": "28/06/2026 19:30",
+    "processed": 2005,
+    "blocked": 46,
+    "blocked_rate": 2.29
+   }
   },
   {
    "id": 10692387,
@@ -32,7 +52,17 @@
    "spam_complaints": 0,
    "blocked": 0,
    "hard_bounced": 1,
-   "main": false
+   "main": false,
+   "last_campaign": {
+    "id": 7761768838,
+    "name": "Invitación Viaje Expomotorhome 2026 - Tiendas Oficiales",
+    "subject": "🚐 Sumá tu tienda al viaje empresarial a la 10ª Expo Motorhome 2026 (Curitiba, Brasil)",
+    "sent_at": "2026-07-15T09:00:01-03:00",
+    "sent_label": "15/07/2026 09:00",
+    "processed": 114,
+    "blocked": 0,
+    "blocked_rate": 0.0
+   }
   }
  ],
  "main_list_unsub_daily": [
@@ -310,8 +340,8 @@
   },
   {
    "date": "2026-10-16",
-   "unsubscribed": 1
+   "unsubscribed": 2
   }
  ],
- "note": "total/suscriptos/desuscriptos = contactos actuales de la lista. Spam y bloqueados = eventos acumulados de envíos a la lista (liststatistics)."
+ "note": "total/suscriptos/desuscriptos = contactos actuales de la lista. spam_complaints y blocked = eventos acumulados de todos los envíos a la lista (liststatistics; blocked ya no se muestra). last_campaign = última campaña enviada a la lista: blocked / processed de ese envío (campaignstatistics)."
 }

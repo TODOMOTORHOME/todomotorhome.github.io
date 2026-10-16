@@ -13,10 +13,13 @@
    "st_transactions": 671,
    "st_inquiries": 671,
    "mj_total": 4825,
-   "mj_subscribed": 4671,
-   "mj_unsubscribed": 154,
+   "mj_subscribed": 4670,
+   "mj_unsubscribed": 155,
    "mj_spam": 18,
    "mj_blocked": 1652,
+   "mj_blocked_rate_last": 2.1,
+   "mj_blocked_last": 98,
+   "mj_processed_last": 4659,
    "fb_page_followers": 4403,
    "ig_followers": 9941,
    "fb_group_members": 10801
@@ -26,12 +29,22 @@
     "id": 10590623,
     "name": "Base de registrados",
     "total": 4825,
-    "subscribed": 4671,
-    "unsubscribed": 154,
+    "subscribed": 4670,
+    "unsubscribed": 155,
     "spam_complaints": 18,
     "blocked": 1652,
     "hard_bounced": 116,
-    "main": true
+    "main": true,
+    "last_campaign": {
+     "id": 7769232198,
+     "name": "Email semanal 22",
+     "subject": "🚐 [[data:firstname:\"\"]], 6 Hallazgos de la semana en Todo Motorhome",
+     "sent_at": "2026-10-15T12:00:02-03:00",
+     "sent_label": "15/10/2026 12:00",
+     "processed": 4659,
+     "blocked": 98,
+     "blocked_rate": 2.1
+    }
    },
    {
     "id": 10607649,
@@ -42,7 +55,17 @@
     "spam_complaints": 0,
     "blocked": 46,
     "hard_bounced": 0,
-    "main": false
+    "main": false,
+    "last_campaign": {
+     "id": 7761460710,
+     "name": "Censo Rodantero a registrados de todomotorhome, no censados",
+     "subject": "¿[[data:firstname:\"\"]]Ya sos parte del Censo Rodantero? 🇦🇷🚐",
+     "sent_at": "2026-06-28T19:30:01-03:00",
+     "sent_label": "28/06/2026 19:30",
+     "processed": 2005,
+     "blocked": 46,
+     "blocked_rate": 2.29
+    }
    },
    {
     "id": 10692387,
@@ -53,7 +76,17 @@
     "spam_complaints": 0,
     "blocked": 0,
     "hard_bounced": 1,
-    "main": false
+    "main": false,
+    "last_campaign": {
+     "id": 7761768838,
+     "name": "Invitación Viaje Expomotorhome 2026 - Tiendas Oficiales",
+     "subject": "🚐 Sumá tu tienda al viaje empresarial a la 10ª Expo Motorhome 2026 (Curitiba, Brasil)",
+     "sent_at": "2026-07-15T09:00:01-03:00",
+     "sent_label": "15/07/2026 09:00",
+     "processed": 114,
+     "blocked": 0,
+     "blocked_rate": 0.0
+    }
    }
   ]
  }

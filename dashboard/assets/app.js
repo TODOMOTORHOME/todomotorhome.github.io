@@ -9,6 +9,10 @@
   const addDays = (s, n) => { const d = D(s); d.setUTCDate(d.getUTCDate() + n); return iso(d); };
   const days = (a, b) => Math.round((D(b) - D(a)) / 864e5) + 1;
   const dmy = s => s ? s.slice(8, 10) + '/' + s.slice(5, 7) + '/' + s.slice(0, 4) : '—';
+  const pf = new Intl.NumberFormat('es-AR', { minimumFractionDigits: 1, maximumFractionDigits: 1 });
+  const fmtPct = v => v == null ? '—' : pf.format(v) + '%';
+  // blocked rate of the most recent campaign sent to a list: "2,1% (98 de 4.659)"
+  const blockedLast = c => c && c.blocked_rate != null ? `${fmtPct(c.blocked_rate)} <span class="muted small">(${fmt(c.blocked)} de ${fmt(c.processed)})</span>` : '—';
 
   document.getElementById('updated').textContent = 'Actualizado: ' + (meta ? meta.updated_label : '—');
 
@@ -122,6 +126,22 @@
     });
   }
 
+  // Blocked rate of the last campaign sent to "Base de registrados" (replaces the cumulative blocked count)
+  function blockedCard() {
+    const main = mj && (mj.lists || []).find(l => l.main);
+    const c = main && main.last_campaign;
+    if (!c || c.blocked_rate == null) return card('Bloqueados – última campaña', '—', '', 'Sin campañas enviadas a la lista', 'pending');
+    const hist = snapHistory('mj_blocked_rate_last');
+    const prev = hist.filter(x => x.date < today).pop();
+    let d = '<span class="flat">sin campaña anterior medida para comparar</span>';
+    if (prev && prev.v !== c.blocked_rate) {
+      const x = c.blocked_rate - prev.v, cls = x < 0 ? 'up' : 'down';
+      d = `<span class="${cls}">${x > 0 ? '▲ +' : '▼ '}${pf.format(x)} pp</span> <span class="muted small">vs medición del ${dmy(prev.date)}</span>`;
+    }
+    return card('Bloqueados – última campaña', fmtPct(c.blocked_rate), d,
+      `${fmt(c.blocked)} de ${fmt(c.processed)} envíos bloqueados por Mailjet · ${c.name}, ${c.sent_label} (hora de Argentina)`);
+  }
+
   const socialNote = base => social && social.status === 'stale'
     ? base + '. <span class="down">⚠ La conexión con Meta falló en la última corrida; valor del ' + dmy(social.as_of) + '</span>' : base;
 
@@ -155,7 +175,7 @@
       snapCard('Suscriptos', 'mj_subscribed', null, R) +
       snapCard('Desuscriptos', 'mj_unsubscribed', null, R, { invert: true }) +
       snapCard('Quejas por spam (acumulado)', 'mj_spam', null, R, { invert: true }) +
-      snapCard('Bloqueados (acumulado)', 'mj_blocked', null, R, { invert: true });
+      blockedCard();
     snapChart('ch-mj', 'Base de registrados', [['Suscriptos', snapHistory('mj_subscribed')], ['Desuscriptos', snapHistory('mj_unsubscribed')]], 'charts-mj');
 
     document.getElementById('cards-ga').innerHTML =
@@ -167,9 +187,12 @@
   }
 
   // Mailjet table (current state of every list)
-  if (mj) document.getElementById('mj-table').innerHTML = '<table><tr><th>Lista (estado actual)</th><th>Total</th><th>Suscriptos</th><th>Desuscriptos</th><th>Quejas spam*</th><th>Bloqueados*</th></tr>' +
-    mj.lists.map(l => `<tr><td>${l.name}</td><td>${fmt(l.total)}</td><td>${fmt(l.subscribed)}</td><td>${fmt(l.unsubscribed)}</td><td>${fmt(l.spam_complaints)}</td><td>${fmt(l.blocked)}</td></tr>`).join('') +
-    '</table><div class="muted small">* Eventos acumulados de todos los envíos a la lista. Los números de email son fotos semanales: la comparación usa la medición semanal más cercana anterior al período.</div>';
+  if (mj) document.getElementById('mj-table').innerHTML = '<table><tr><th>Lista (estado actual)</th><th>Total</th><th>Suscriptos</th><th>Desuscriptos</th><th>Quejas spam*</th><th>Bloqueados (última campaña)†</th></tr>' +
+    mj.lists.map(l => `<tr><td>${l.name}</td><td>${fmt(l.total)}</td><td>${fmt(l.subscribed)}</td><td>${fmt(l.unsubscribed)}</td><td>${fmt(l.spam_complaints)}</td><td>${blockedLast(l.last_campaign)}</td></tr>`).join('') +
+    '</table><div class="muted small">* Eventos acumulados de todos los envíos a la lista.<br>' +
+    '† Porcentaje de los envíos de la última campaña a la lista que Mailjet bloqueó (direcciones que rebotaron antes, marcaron spam o están excluidas). ' +
+    mj.lists.map(l => l.last_campaign ? `${l.name}: “${l.last_campaign.name}”, ${l.last_campaign.sent_label}` : `${l.name}: sin campañas`).join(' · ') +
+    ' (hora de Argentina).<br>Los números de email son fotos semanales: la comparación usa la medición semanal más cercana anterior al período.</div>';
 
   document.getElementById('notes').innerHTML = [
     'Períodos en fecha de Argentina. La comparación es contra el período anterior de igual duración. Verde = mejora, rojo = empeora.',
