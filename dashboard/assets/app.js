@@ -89,11 +89,11 @@
     for (let d = a; d <= b; d = addDays(d, 1)) { const k = bucketKey(d, g); if (!(k in vals)) { keys.push(k); vals[k] = 0; } vals[k] += m[d] || 0; }
     return keys.map(k => ({ k, v: vals[k] }));
   }
-  function lineChart(id, title, sets, R) {
+  function lineChart(id, title, sets, R, where) {
     const n = days(R.s, R.e); const g = n <= 92 ? 'day' : n <= 730 ? 'week' : 'month';
     const gl = { day: 'diario', week: 'semanal', month: 'mensual' }[g];
     let box = document.getElementById(id);
-    if (!box) { box = document.createElement('div'); box.className = 'chart'; box.id = id; box.innerHTML = '<canvas></canvas>'; document.getElementById('charts').appendChild(box); }
+    if (!box) { box = document.createElement('div'); box.className = 'chart'; box.id = id; box.innerHTML = '<canvas></canvas>'; document.getElementById(where).appendChild(box); }
     const ds = []; let labels = [];
     const colors = ['#1a73e8', '#e37400', '#188038'];
     sets.forEach(([label, m], i) => {
@@ -110,9 +110,9 @@
         scales: { y: { beginAtZero: true, ticks: { callback: v => nf.format(v) } } } }
     });
   }
-  function snapChart(id, title, sets) {
+  function snapChart(id, title, sets, where) {
     let box = document.getElementById(id);
-    if (!box) { box = document.createElement('div'); box.className = 'chart'; box.id = id; box.innerHTML = '<canvas></canvas>'; document.getElementById('charts').appendChild(box); }
+    if (!box) { box = document.createElement('div'); box.className = 'chart'; box.id = id; box.innerHTML = '<canvas></canvas>'; document.getElementById(where).appendChild(box); }
     const dates = [...new Set(sets.flatMap(([, h]) => h.map(x => x.date)))].sort();
     const colors = ['#1a73e8', '#e37400', '#188038', '#a142f4'];
     if (charts[id]) charts[id].destroy();
@@ -132,34 +132,38 @@
     const R = { s, e, pe: addDays(s, -1), ps: addDays(s, -n) };
     document.getElementById('cmpLabel').textContent = `${dmy(s)} – ${dmy(e)} (${n} días) comparado con ${dmy(R.ps)} – ${dmy(R.pe)}`;
 
-    document.getElementById('cards-main').innerHTML =
-      flowCard('Censo Rodantero – nuevos registrados únicos', S.censo, R, { total: true, note: censo ? `Hoy: ${fmt(censo.totals.unique_users)} únicos por usuario · ${fmt(censo.totals.unique_emails)} por email · ${fmt(censo.totals.responses)} respuestas` : '' }) +
-      snapCard('Miembros grupo Facebook', 'fb_group_members', 'facebook_group_members', R, { note: 'Carga manual (vista de admin)' });
-    document.getElementById('cards-ga').innerHTML =
-      flowCard('Usuarios', S.gaUsers, R, { note: 'Suma de usuarios activos diarios (una persona que vuelve otro día cuenta de nuevo)' }) +
-      flowCard('Usuarios nuevos', S.gaNew, R) +
-      flowCard('Sesiones', S.gaSess, R) +
-      flowCard('Visitas totales (páginas vistas)', S.gaViews, R);
+    // Section order: Sharetribe, Redes sociales, Censo Rodantero, Email (Mailjet), Google Analytics
     document.getElementById('cards-st').innerHTML =
       flowCard('Nuevos usuarios', S.stUsers, R, { total: true }) +
       flowCard('Nuevos anuncios', S.stList, R, { total: true, note: st ? `Hoy: ${fmt(st.totals.listings_by_state.published)} publicados · ${fmt(st.totals.listings_by_state.closed)} cerrados · ${fmt(st.totals.listings_by_state.draft)} borradores` : '' }) +
       flowCard('Consultas sin pago', S.stInq, R, { total: true, note: st ? `Transacciones totales: ${fmt(st.totals.transactions)}` : '' });
+    lineChart('ch-st', 'Nuevos usuarios y anuncios', [['Usuarios', S.stUsers], ['Anuncios', S.stList]], R, 'charts-st');
+    lineChart('ch-inq', 'Consultas sin pago', [['Consultas', S.stInq]], R, 'charts-st');
+
+    document.getElementById('cards-social').innerHTML =
+      snapCard('Seguidores página Facebook', 'fb_page_followers', 'facebook_page_followers', R, { note: socialNote('Dato exacto de Meta (Graph API)') }) +
+      snapCard('Seguidores de Instagram', 'ig_followers', 'instagram_followers', R, { note: socialNote('Dato exacto de Meta (Graph API), @' + ((social && social.instagram_followers && social.instagram_followers.username) || 'todomotorhome.ar')) }) +
+      snapCard('Miembros grupo de Facebook', 'fb_group_members', 'facebook_group_members', R, { note: 'Carga manual (vista de admin)' });
+    snapChart('ch-social', 'Seguidores y miembros', [['Página Facebook', snapHistory('fb_page_followers', 'facebook_page_followers')], ['Instagram', snapHistory('ig_followers', 'instagram_followers')], ['Grupo Facebook', snapHistory('fb_group_members', 'facebook_group_members')]], 'charts-social');
+
+    document.getElementById('cards-censo').innerHTML =
+      flowCard('Nuevos registrados únicos', S.censo, R, { total: true, note: censo ? `Hoy: ${fmt(censo.totals.unique_users)} únicos por usuario · ${fmt(censo.totals.unique_emails)} por email · ${fmt(censo.totals.responses)} respuestas` : '' });
+    lineChart('ch-censo', 'Nuevos registrados', [['Nuevos registrados', S.censo]], R, 'charts-censo');
+
     document.getElementById('cards-mj').innerHTML =
       snapCard('Contactos totales – Base de registrados', 'mj_total', null, R) +
       snapCard('Suscriptos', 'mj_subscribed', null, R) +
       snapCard('Desuscriptos', 'mj_unsubscribed', null, R, { invert: true }) +
       snapCard('Quejas por spam (acumulado)', 'mj_spam', null, R, { invert: true }) +
       snapCard('Bloqueados (acumulado)', 'mj_blocked', null, R, { invert: true });
-    document.getElementById('cards-social').innerHTML =
-      snapCard('Seguidores página Facebook', 'fb_page_followers', 'facebook_page_followers', R, { note: socialNote('Dato exacto de Meta (Graph API)') }) +
-      snapCard('Seguidores de Instagram', 'ig_followers', 'instagram_followers', R, { note: socialNote('Dato exacto de Meta (Graph API), @' + ((social && social.instagram_followers && social.instagram_followers.username) || 'todomotorhome.ar')) });
+    snapChart('ch-mj', 'Base de registrados', [['Suscriptos', snapHistory('mj_subscribed')], ['Desuscriptos', snapHistory('mj_unsubscribed')]], 'charts-mj');
 
-    lineChart('ch-ga', 'Web: usuarios y sesiones', [['Usuarios', S.gaUsers], ['Sesiones', S.gaSess]], R);
-    lineChart('ch-censo', 'Censo Rodantero: nuevos registrados', [['Nuevos registrados', S.censo]], R);
-    lineChart('ch-st', 'Sharetribe: nuevos usuarios y anuncios', [['Usuarios', S.stUsers], ['Anuncios', S.stList]], R);
-    lineChart('ch-inq', 'Sharetribe: consultas sin pago', [['Consultas', S.stInq]], R);
-    snapChart('ch-social', 'Redes y comunidad', [['Grupo Facebook', snapHistory('fb_group_members', 'facebook_group_members')], ['Instagram', snapHistory('ig_followers', 'instagram_followers')], ['Página Facebook', snapHistory('fb_page_followers', 'facebook_page_followers')]]);
-    snapChart('ch-mj', 'Email: Base de registrados', [['Suscriptos', snapHistory('mj_subscribed')], ['Desuscriptos', snapHistory('mj_unsubscribed')]]);
+    document.getElementById('cards-ga').innerHTML =
+      flowCard('Visitas totales (páginas vistas)', S.gaViews, R) +
+      flowCard('Sesiones', S.gaSess, R) +
+      flowCard('Usuarios', S.gaUsers, R, { note: 'Suma de usuarios activos diarios (una persona que vuelve otro día cuenta de nuevo)' }) +
+      flowCard('Usuarios nuevos', S.gaNew, R);
+    lineChart('ch-ga', 'Visitas y sesiones', [['Visitas (páginas vistas)', S.gaViews], ['Sesiones', S.gaSess]], R, 'charts-ga');
   }
 
   // Mailjet table (current state of every list)
@@ -169,7 +173,7 @@
 
   document.getElementById('notes').innerHTML = [
     'Períodos en fecha de Argentina. La comparación es contra el período anterior de igual duración. Verde = mejora, rojo = empeora.',
-    'Censo, Google Analytics y Sharetribe tienen historial diario completo. Email, redes y grupo de Facebook son mediciones semanales (historial desde 16/10/2026): se comparan con la medición más cercana anterior.',
+    'Sharetribe, Censo y Google Analytics tienen historial diario completo. Email, redes y grupo de Facebook son mediciones semanales (historial desde 16/10/2026): se comparan con la medición más cercana anterior.',
     st ? 'Consultas sin pago: ' + st.inquiry_rule : '',
     'Sharetribe cuenta solo usuarios y anuncios que existen hoy (los eliminados no aparecen en la API).',
     meta && meta.errors && meta.errors.length ? '⚠ Fuentes no actualizadas en la última corrida: ' + meta.errors.join(', ') : ''
