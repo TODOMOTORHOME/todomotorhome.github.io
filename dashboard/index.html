@@ -1,0 +1,38 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Todo Motorhome – Dashboard</title>
+<meta name="robots" content="noindex">
+<link rel="stylesheet" href="assets/style.css">
+<script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.4/dist/chart.umd.min.js"></script>
+</head>
+<body>
+<header>
+  <div>
+    <h1>Todo Motorhome · Métricas</h1>
+    <div id="updated" class="muted">Cargando…</div>
+  </div>
+  <div class="range">
+    <div class="presets" id="presets"></div>
+    <div class="dates">
+      <label><span>Fecha de inicio</span><input type="date" id="start"></label>
+      <span class="dash">—</span>
+      <label><span>Fecha de fin</span><input type="date" id="end"></label>
+    </div>
+    <div class="muted small" id="cmpLabel"></div>
+  </div>
+</header>
+<main>
+  <section><h2>Comunidad y registros</h2><div class="cards" id="cards-main"></div></section>
+  <section><h2>Web (Google Analytics)</h2><div class="cards" id="cards-ga"></div></section>
+  <section><h2>Marketplace (Sharetribe)</h2><div class="cards" id="cards-st"></div></section>
+  <section><h2>Email (Mailjet)</h2><div class="cards" id="cards-mj"></div><div id="mj-table"></div></section>
+  <section><h2>Redes sociales</h2><div class="cards" id="cards-social"></div></section>
+  <section><h2>Evolución</h2><div class="charts" id="charts"></div></section>
+  <footer class="muted small" id="notes"></footer>
+</main>
+<script src="assets/app.js"></script>
+</body>
+</html>

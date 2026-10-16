@@ -1,0 +1,6468 @@
+{
+ "source": "GA4 property 413106712",
+ "daily": [
+  {
+   "date": "2023-10-24",
+   "users": 4,
+   "sessions": 9,
+   "new_users": 4
+  },
+  {
+   "date": "2023-10-25",
+   "users": 11,
+   "sessions": 14,
+   "new_users": 9
+  },
+  {
+   "date": "2023-10-26",
+   "users": 12,
+   "sessions": 21,
+   "new_users": 10
+  },
+  {
+   "date": "2023-10-27",
+   "users": 19,
+   "sessions": 23,
+   "new_users": 16
+  },
+  {
+   "date": "2023-10-28",
+   "users": 80,
+   "sessions": 108,
+   "new_users": 77
+  },
+  {
+   "date": "2023-10-29",
+   "users": 82,
+   "sessions": 98,
+   "new_users": 73
+  },
+  {
+   "date": "2023-10-30",
+   "users": 46,
+   "sessions": 66,
+   "new_users": 37
+  },
+  {
+   "date": "2023-10-31",
+   "users": 22,
+   "sessions": 40,
+   "new_users": 15
+  },
+  {
+   "date": "2023-11-01",
+   "users": 45,
+   "sessions": 57,
+   "new_users": 37
+  },
+  {
+   "date": "2023-11-02",
+   "users": 25,
+   "sessions": 39,
+   "new_users": 17
+  },
+  {
+   "date": "2023-11-03",
+   "users": 14,
+   "sessions": 27,
+   "new_users": 5
+  },
+  {
+   "date": "2023-11-04",
+   "users": 5,
+   "sessions": 10,
+   "new_users": 4
+  },
+  {
+   "date": "2023-11-05",
+   "users": 9,
+   "sessions": 10,
+   "new_users": 7
+  },
+  {
+   "date": "2023-11-06",
+   "users": 8,
+   "sessions": 14,
+   "new_users": 3
+  },
+  {
+   "date": "2023-11-07",
+   "users": 10,
+   "sessions": 18,
+   "new_users": 7
+  },
+  {
+   "date": "2023-11-08",
+   "users": 25,
+   "sessions": 45,
+   "new_users": 19
+  },
+  {
+   "date": "2023-11-09",
+   "users": 19,
+   "sessions": 38,
+   "new_users": 7
+  },
+  {
+   "date": "2023-11-10",
+   "users": 6,
+   "sessions": 13,
+   "new_users": 4
+  },
+  {
+   "date": "2023-11-11",
+   "users": 1,
+   "sessions": 3,
+   "new_users": 1
+  },
+  {
+   "date": "2023-11-12",
+   "users": 3,
+   "sessions": 5,
+   "new_users": 3
+  },
+  {
+   "date": "2023-11-13",
+   "users": 10,
+   "sessions": 18,
+   "new_users": 8
+  },
+  {
+   "date": "2023-11-14",
+   "users": 14,
+   "sessions": 21,
+   "new_users": 9
+  },
+  {
+   "date": "2023-11-15",
+   "users": 5,
+   "sessions": 8,
+   "new_users": 3
+  },
+  {
+   "date": "2023-11-16",
+   "users": 4,
+   "sessions": 12,
+   "new_users": 3
+  },
+  {
+   "date": "2023-11-17",
+   "users": 3,
+   "sessions": 5,
+   "new_users": 2
+  },
+  {
+   "date": "2023-11-20",
+   "users": 3,
+   "sessions": 4,
+   "new_users": 1
+  },
+  {
+   "date": "2023-11-21",
+   "users": 6,
+   "sessions": 11,
+   "new_users": 4
+  },
+  {
+   "date": "2023-11-22",
+   "users": 4,
+   "sessions": 6,
+   "new_users": 2
+  },
+  {
+   "date": "2023-11-23",
+   "users": 5,
+   "sessions": 10,
+   "new_users": 0
+  },
+  {
+   "date": "2023-11-24",
+   "users": 5,
+   "sessions": 10,
+   "new_users": 2
+  },
+  {
+   "date": "2023-11-25",
+   "users": 1,
+   "sessions": 1,
+   "new_users": 1
+  },
+  {
+   "date": "2023-11-26",
+   "users": 3,
+   "sessions": 4,
+   "new_users": 2
+  },
+  {
+   "date": "2023-11-27",
+   "users": 5,
+   "sessions": 10,
+   "new_users": 1
+  },
+  {
+   "date": "2023-11-28",
+   "users": 3,
+   "sessions": 6,
+   "new_users": 1
+  },
+  {
+   "date": "2023-11-29",
+   "users": 1,
+   "sessions": 3,
+   "new_users": 1
+  },
+  {
+   "date": "2023-11-30",
+   "users": 2,
+   "sessions": 4,
+   "new_users": 1
+  },
+  {
+   "date": "2023-12-01",
+   "users": 1,
+   "sessions": 1,
+   "new_users": 0
+  },
+  {
+   "date": "2023-12-03",
+   "users": 1,
+   "sessions": 1,
+   "new_users": 0
+  },
+  {
+   "date": "2023-12-04",
+   "users": 3,
+   "sessions": 3,
+   "new_users": 0
+  },
+  {
+   "date": "2023-12-05",
+   "users": 5,
+   "sessions": 7,
+   "new_users": 2
+  },
+  {
+   "date": "2023-12-06",
+   "users": 3,
+   "sessions": 10,
+   "new_users": 2
+  },
+  {
+   "date": "2023-12-07",
+   "users": 8,
+   "sessions": 13,
+   "new_users": 3
+  },
+  {
+   "date": "2023-12-09",
+   "users": 2,
+   "sessions": 2,
+   "new_users": 2
+  },
+  {
+   "date": "2023-12-11",
+   "users": 3,
+   "sessions": 6,
+   "new_users": 2
+  },
+  {
+   "date": "2023-12-12",
+   "users": 2,
+   "sessions": 8,
+   "new_users": 1
+  },
+  {
+   "date": "2023-12-13",
+   "users": 6,
+   "sessions": 9,
+   "new_users": 3
+  },
+  {
+   "date": "2023-12-14",
+   "users": 9,
+   "sessions": 21,
+   "new_users": 6
+  },
+  {
+   "date": "2023-12-15",
+   "users": 6,
+   "sessions": 17,
+   "new_users": 3
+  },
+  {
+   "date": "2023-12-18",
+   "users": 3,
+   "sessions": 5,
+   "new_users": 1
+  },
+  {
+   "date": "2023-12-19",
+   "users": 3,
+   "sessions": 10,
+   "new_users": 3
+  },
+  {
+   "date": "2023-12-20",
+   "users": 2,
+   "sessions": 5,
+   "new_users": 2
+  },
+  {
+   "date": "2023-12-21",
+   "users": 1,
+   "sessions": 1,
+   "new_users": 0
+  },
+  {
+   "date": "2023-12-22",
+   "users": 2,
+   "sessions": 2,
+   "new_users": 2
+  },
+  {
+   "date": "2023-12-25",
+   "users": 1,
+   "sessions": 1,
+   "new_users": 1
+  },
+  {
+   "date": "2023-12-26",
+   "users": 1,
+   "sessions": 1,
+   "new_users": 0
+  },
+  {
+   "date": "2023-12-27",
+   "users": 3,
+   "sessions": 5,
+   "new_users": 1
+  },
+  {
+   "date": "2023-12-28",
+   "users": 1,
+   "sessions": 1,
+   "new_users": 0
+  },
+  {
+   "date": "2023-12-29",
+   "users": 2,
+   "sessions": 2,
+   "new_users": 1
+  },
+  {
+   "date": "2023-12-30",
+   "users": 1,
+   "sessions": 1,
+   "new_users": 1
+  },
+  {
+   "date": "2024-01-01",
+   "users": 1,
+   "sessions": 4,
+   "new_users": 1
+  },
+  {
+   "date": "2024-01-02",
+   "users": 13,
+   "sessions": 23,
+   "new_users": 10
+  },
+  {
+   "date": "2024-01-03",
+   "users": 5,
+   "sessions": 17,
+   "new_users": 4
+  },
+  {
+   "date": "2024-01-04",
+   "users": 9,
+   "sessions": 18,
+   "new_users": 7
+  },
+  {
+   "date": "2024-01-05",
+   "users": 12,
+   "sessions": 22,
+   "new_users": 8
+  },
+  {
+   "date": "2024-01-06",
+   "users": 1,
+   "sessions": 1,
+   "new_users": 0
+  },
+  {
+   "date": "2024-01-07",
+   "users": 1,
+   "sessions": 1,
+   "new_users": 1
+  },
+  {
+   "date": "2024-01-08",
+   "users": 2,
+   "sessions": 2,
+   "new_users": 0
+  },
+  {
+   "date": "2024-01-09",
+   "users": 9,
+   "sessions": 16,
+   "new_users": 6
+  },
+  {
+   "date": "2024-01-10",
+   "users": 6,
+   "sessions": 11,
+   "new_users": 5
+  },
+  {
+   "date": "2024-01-11",
+   "users": 7,
+   "sessions": 7,
+   "new_users": 6
+  },
+  {
+   "date": "2024-01-12",
+   "users": 4,
+   "sessions": 6,
+   "new_users": 3
+  },
+  {
+   "date": "2024-01-13",
+   "users": 1,
+   "sessions": 1,
+   "new_users": 0
+  },
+  {
+   "date": "2024-01-14",
+   "users": 2,
+   "sessions": 2,
+   "new_users": 2
+  },
+  {
+   "date": "2024-01-15",
+   "users": 4,
+   "sessions": 7,
+   "new_users": 3
+  },
+  {
+   "date": "2024-01-16",
+   "users": 7,
+   "sessions": 8,
+   "new_users": 6
+  },
+  {
+   "date": "2024-01-17",
+   "users": 1,
+   "sessions": 2,
+   "new_users": 1
+  },
+  {
+   "date": "2024-01-18",
+   "users": 11,
+   "sessions": 16,
+   "new_users": 9
+  },
+  {
+   "date": "2024-01-19",
+   "users": 11,
+   "sessions": 14,
+   "new_users": 8
+  },
+  {
+   "date": "2024-01-21",
+   "users": 1,
+   "sessions": 1,
+   "new_users": 1
+  },
+  {
+   "date": "2024-01-22",
+   "users": 30,
+   "sessions": 42,
+   "new_users": 27
+  },
+  {
+   "date": "2024-01-23",
+   "users": 37,
+   "sessions": 56,
+   "new_users": 31
+  },
+  {
+   "date": "2024-01-24",
+   "users": 18,
+   "sessions": 35,
+   "new_users": 15
+  },
+  {
+   "date": "2024-01-25",
+   "users": 32,
+   "sessions": 34,
+   "new_users": 31
+  },
+  {
+   "date": "2024-01-26",
+   "users": 12,
+   "sessions": 19,
+   "new_users": 11
+  },
+  {
+   "date": "2024-01-27",
+   "users": 15,
+   "sessions": 16,
+   "new_users": 14
+  },
+  {
+   "date": "2024-01-28",
+   "users": 29,
+   "sessions": 35,
+   "new_users": 27
+  },
+  {
+   "date": "2024-01-29",
+   "users": 13,
+   "sessions": 14,
+   "new_users": 11
+  },
+  {
+   "date": "2024-01-30",
+   "users": 62,
+   "sessions": 65,
+   "new_users": 56
+  },
+  {
+   "date": "2024-01-31",
+   "users": 83,
+   "sessions": 97,
+   "new_users": 76
+  },
+  {
+   "date": "2024-02-01",
+   "users": 167,
+   "sessions": 190,
+   "new_users": 162
+  },
+  {
+   "date": "2024-02-02",
+   "users": 142,
+   "sessions": 165,
+   "new_users": 137
+  },
+  {
+   "date": "2024-02-03",
+   "users": 250,
+   "sessions": 284,
+   "new_users": 244
+  },
+  {
+   "date": "2024-02-04",
+   "users": 170,
+   "sessions": 199,
+   "new_users": 160
+  },
+  {
+   "date": "2024-02-05",
+   "users": 245,
+   "sessions": 279,
+   "new_users": 238
+  },
+  {
+   "date": "2024-02-06",
+   "users": 221,
+   "sessions": 274,
+   "new_users": 208
+  },
+  {
+   "date": "2024-02-07",
+   "users": 146,
+   "sessions": 193,
+   "new_users": 141
+  },
+  {
+   "date": "2024-02-08",
+   "users": 57,
+   "sessions": 90,
+   "new_users": 45
+  },
+  {
+   "date": "2024-02-09",
+   "users": 35,
+   "sessions": 62,
+   "new_users": 26
+  },
+  {
+   "date": "2024-02-10",
+   "users": 30,
+   "sessions": 47,
+   "new_users": 24
+  },
+  {
+   "date": "2024-02-11",
+   "users": 39,
+   "sessions": 48,
+   "new_users": 34
+  },
+  {
+   "date": "2024-02-12",
+   "users": 53,
+   "sessions": 62,
+   "new_users": 49
+  },
+  {
+   "date": "2024-02-13",
+   "users": 49,
+   "sessions": 62,
+   "new_users": 43
+  },
+  {
+   "date": "2024-02-14",
+   "users": 41,
+   "sessions": 54,
+   "new_users": 35
+  },
+  {
+   "date": "2024-02-15",
+   "users": 57,
+   "sessions": 66,
+   "new_users": 54
+  },
+  {
+   "date": "2024-02-16",
+   "users": 49,
+   "sessions": 60,
+   "new_users": 45
+  },
+  {
+   "date": "2024-02-17",
+   "users": 41,
+   "sessions": 54,
+   "new_users": 38
+  },
+  {
+   "date": "2024-02-18",
+   "users": 54,
+   "sessions": 58,
+   "new_users": 51
+  },
+  {
+   "date": "2024-02-19",
+   "users": 61,
+   "sessions": 77,
+   "new_users": 53
+  },
+  {
+   "date": "2024-02-20",
+   "users": 55,
+   "sessions": 62,
+   "new_users": 51
+  },
+  {
+   "date": "2024-02-21",
+   "users": 66,
+   "sessions": 77,
+   "new_users": 58
+  },
+  {
+   "date": "2024-02-22",
+   "users": 46,
+   "sessions": 54,
+   "new_users": 45
+  },
+  {
+   "date": "2024-02-23",
+   "users": 37,
+   "sessions": 48,
+   "new_users": 34
+  },
+  {
+   "date": "2024-02-24",
+   "users": 37,
+   "sessions": 43,
+   "new_users": 34
+  },
+  {
+   "date": "2024-02-25",
+   "users": 37,
+   "sessions": 42,
+   "new_users": 33
+  },
+  {
+   "date": "2024-02-26",
+   "users": 98,
+   "sessions": 112,
+   "new_users": 85
+  },
+  {
+   "date": "2024-02-27",
+   "users": 92,
+   "sessions": 105,
+   "new_users": 83
+  },
+  {
+   "date": "2024-02-28",
+   "users": 74,
+   "sessions": 82,
+   "new_users": 64
+  },
+  {
+   "date": "2024-02-29",
+   "users": 49,
+   "sessions": 57,
+   "new_users": 43
+  },
+  {
+   "date": "2024-03-01",
+   "users": 63,
+   "sessions": 72,
+   "new_users": 55
+  },
+  {
+   "date": "2024-03-02",
+   "users": 37,
+   "sessions": 44,
+   "new_users": 32
+  },
+  {
+   "date": "2024-03-03",
+   "users": 45,
+   "sessions": 48,
+   "new_users": 39
+  },
+  {
+   "date": "2024-03-04",
+   "users": 57,
+   "sessions": 70,
+   "new_users": 53
+  },
+  {
+   "date": "2024-03-05",
+   "users": 53,
+   "sessions": 63,
+   "new_users": 49
+  },
+  {
+   "date": "2024-03-06",
+   "users": 50,
+   "sessions": 60,
+   "new_users": 45
+  },
+  {
+   "date": "2024-03-07",
+   "users": 30,
+   "sessions": 39,
+   "new_users": 29
+  },
+  {
+   "date": "2024-03-08",
+   "users": 53,
+   "sessions": 62,
+   "new_users": 46
+  },
+  {
+   "date": "2024-03-09",
+   "users": 31,
+   "sessions": 39,
+   "new_users": 26
+  },
+  {
+   "date": "2024-03-10",
+   "users": 38,
+   "sessions": 43,
+   "new_users": 35
+  },
+  {
+   "date": "2024-03-11",
+   "users": 60,
+   "sessions": 70,
+   "new_users": 58
+  },
+  {
+   "date": "2024-03-12",
+   "users": 51,
+   "sessions": 64,
+   "new_users": 45
+  },
+  {
+   "date": "2024-03-13",
+   "users": 79,
+   "sessions": 93,
+   "new_users": 68
+  },
+  {
+   "date": "2024-03-14",
+   "users": 110,
+   "sessions": 128,
+   "new_users": 100
+  },
+  {
+   "date": "2024-03-15",
+   "users": 129,
+   "sessions": 143,
+   "new_users": 115
+  },
+  {
+   "date": "2024-03-16",
+   "users": 86,
+   "sessions": 99,
+   "new_users": 75
+  },
+  {
+   "date": "2024-03-17",
+   "users": 108,
+   "sessions": 117,
+   "new_users": 101
+  },
+  {
+   "date": "2024-03-18",
+   "users": 151,
+   "sessions": 185,
+   "new_users": 132
+  },
+  {
+   "date": "2024-03-19",
+   "users": 131,
+   "sessions": 165,
+   "new_users": 111
+  },
+  {
+   "date": "2024-03-20",
+   "users": 136,
+   "sessions": 157,
+   "new_users": 120
+  },
+  {
+   "date": "2024-03-21",
+   "users": 120,
+   "sessions": 125,
+   "new_users": 108
+  },
+  {
+   "date": "2024-03-22",
+   "users": 117,
+   "sessions": 125,
+   "new_users": 99
+  },
+  {
+   "date": "2024-03-23",
+   "users": 82,
+   "sessions": 93,
+   "new_users": 71
+  },
+  {
+   "date": "2024-03-24",
+   "users": 128,
+   "sessions": 141,
+   "new_users": 112
+  },
+  {
+   "date": "2024-03-25",
+   "users": 115,
+   "sessions": 126,
+   "new_users": 97
+  },
+  {
+   "date": "2024-03-26",
+   "users": 111,
+   "sessions": 123,
+   "new_users": 94
+  },
+  {
+   "date": "2024-03-27",
+   "users": 115,
+   "sessions": 132,
+   "new_users": 96
+  },
+  {
+   "date": "2024-03-28",
+   "users": 93,
+   "sessions": 106,
+   "new_users": 82
+  },
+  {
+   "date": "2024-03-29",
+   "users": 90,
+   "sessions": 97,
+   "new_users": 76
+  },
+  {
+   "date": "2024-03-30",
+   "users": 121,
+   "sessions": 133,
+   "new_users": 103
+  },
+  {
+   "date": "2024-03-31",
+   "users": 145,
+   "sessions": 155,
+   "new_users": 130
+  },
+  {
+   "date": "2024-04-01",
+   "users": 135,
+   "sessions": 144,
+   "new_users": 117
+  },
+  {
+   "date": "2024-04-02",
+   "users": 171,
+   "sessions": 191,
+   "new_users": 146
+  },
+  {
+   "date": "2024-04-03",
+   "users": 154,
+   "sessions": 178,
+   "new_users": 129
+  },
+  {
+   "date": "2024-04-04",
+   "users": 93,
+   "sessions": 115,
+   "new_users": 81
+  },
+  {
+   "date": "2024-04-05",
+   "users": 114,
+   "sessions": 133,
+   "new_users": 93
+  },
+  {
+   "date": "2024-04-06",
+   "users": 114,
+   "sessions": 126,
+   "new_users": 96
+  },
+  {
+   "date": "2024-04-07",
+   "users": 106,
+   "sessions": 114,
+   "new_users": 92
+  },
+  {
+   "date": "2024-04-08",
+   "users": 156,
+   "sessions": 183,
+   "new_users": 126
+  },
+  {
+   "date": "2024-04-09",
+   "users": 120,
+   "sessions": 143,
+   "new_users": 102
+  },
+  {
+   "date": "2024-04-10",
+   "users": 90,
+   "sessions": 107,
+   "new_users": 71
+  },
+  {
+   "date": "2024-04-11",
+   "users": 26,
+   "sessions": 37,
+   "new_users": 15
+  },
+  {
+   "date": "2024-04-12",
+   "users": 24,
+   "sessions": 33,
+   "new_users": 14
+  },
+  {
+   "date": "2024-04-13",
+   "users": 26,
+   "sessions": 29,
+   "new_users": 22
+  },
+  {
+   "date": "2024-04-14",
+   "users": 15,
+   "sessions": 20,
+   "new_users": 15
+  },
+  {
+   "date": "2024-04-15",
+   "users": 60,
+   "sessions": 65,
+   "new_users": 52
+  },
+  {
+   "date": "2024-04-16",
+   "users": 121,
+   "sessions": 144,
+   "new_users": 88
+  },
+  {
+   "date": "2024-04-17",
+   "users": 151,
+   "sessions": 182,
+   "new_users": 119
+  },
+  {
+   "date": "2024-04-18",
+   "users": 116,
+   "sessions": 145,
+   "new_users": 85
+  },
+  {
+   "date": "2024-04-19",
+   "users": 123,
+   "sessions": 147,
+   "new_users": 105
+  },
+  {
+   "date": "2024-04-20",
+   "users": 128,
+   "sessions": 143,
+   "new_users": 110
+  },
+  {
+   "date": "2024-04-21",
+   "users": 160,
+   "sessions": 179,
+   "new_users": 144
+  },
+  {
+   "date": "2024-04-22",
+   "users": 157,
+   "sessions": 178,
+   "new_users": 128
+  },
+  {
+   "date": "2024-04-23",
+   "users": 146,
+   "sessions": 168,
+   "new_users": 120
+  },
+  {
+   "date": "2024-04-24",
+   "users": 179,
+   "sessions": 198,
+   "new_users": 158
+  },
+  {
+   "date": "2024-04-25",
+   "users": 127,
+   "sessions": 142,
+   "new_users": 96
+  },
+  {
+   "date": "2024-04-26",
+   "users": 139,
+   "sessions": 159,
+   "new_users": 124
+  },
+  {
+   "date": "2024-04-27",
+   "users": 137,
+   "sessions": 150,
+   "new_users": 117
+  },
+  {
+   "date": "2024-04-28",
+   "users": 151,
+   "sessions": 163,
+   "new_users": 132
+  },
+  {
+   "date": "2024-04-29",
+   "users": 154,
+   "sessions": 170,
+   "new_users": 126
+  },
+  {
+   "date": "2024-04-30",
+   "users": 185,
+   "sessions": 199,
+   "new_users": 167
+  },
+  {
+   "date": "2024-05-01",
+   "users": 172,
+   "sessions": 190,
+   "new_users": 146
+  },
+  {
+   "date": "2024-05-02",
+   "users": 162,
+   "sessions": 173,
+   "new_users": 134
+  },
+  {
+   "date": "2024-05-03",
+   "users": 133,
+   "sessions": 144,
+   "new_users": 113
+  },
+  {
+   "date": "2024-05-04",
+   "users": 49,
+   "sessions": 54,
+   "new_users": 39
+  },
+  {
+   "date": "2024-05-05",
+   "users": 32,
+   "sessions": 32,
+   "new_users": 26
+  },
+  {
+   "date": "2024-05-06",
+   "users": 25,
+   "sessions": 40,
+   "new_users": 20
+  },
+  {
+   "date": "2024-05-07",
+   "users": 26,
+   "sessions": 35,
+   "new_users": 21
+  },
+  {
+   "date": "2024-05-08",
+   "users": 78,
+   "sessions": 92,
+   "new_users": 58
+  },
+  {
+   "date": "2024-05-09",
+   "users": 99,
+   "sessions": 107,
+   "new_users": 77
+  },
+  {
+   "date": "2024-05-10",
+   "users": 51,
+   "sessions": 58,
+   "new_users": 43
+  },
+  {
+   "date": "2024-05-11",
+   "users": 10,
+   "sessions": 10,
+   "new_users": 9
+  },
+  {
+   "date": "2024-05-12",
+   "users": 12,
+   "sessions": 12,
+   "new_users": 12
+  },
+  {
+   "date": "2024-05-13",
+   "users": 14,
+   "sessions": 15,
+   "new_users": 10
+  },
+  {
+   "date": "2024-05-14",
+   "users": 8,
+   "sessions": 13,
+   "new_users": 4
+  },
+  {
+   "date": "2024-05-15",
+   "users": 11,
+   "sessions": 14,
+   "new_users": 5
+  },
+  {
+   "date": "2024-05-16",
+   "users": 15,
+   "sessions": 25,
+   "new_users": 8
+  },
+  {
+   "date": "2024-05-17",
+   "users": 24,
+   "sessions": 36,
+   "new_users": 9
+  },
+  {
+   "date": "2024-05-18",
+   "users": 6,
+   "sessions": 6,
+   "new_users": 5
+  },
+  {
+   "date": "2024-05-19",
+   "users": 9,
+   "sessions": 11,
+   "new_users": 7
+  },
+  {
+   "date": "2024-05-20",
+   "users": 17,
+   "sessions": 21,
+   "new_users": 9
+  },
+  {
+   "date": "2024-05-21",
+   "users": 17,
+   "sessions": 22,
+   "new_users": 9
+  },
+  {
+   "date": "2024-05-22",
+   "users": 21,
+   "sessions": 30,
+   "new_users": 11
+  },
+  {
+   "date": "2024-05-23",
+   "users": 18,
+   "sessions": 23,
+   "new_users": 11
+  },
+  {
+   "date": "2024-05-24",
+   "users": 25,
+   "sessions": 36,
+   "new_users": 13
+  },
+  {
+   "date": "2024-05-25",
+   "users": 19,
+   "sessions": 21,
+   "new_users": 16
+  },
+  {
+   "date": "2024-05-26",
+   "users": 23,
+   "sessions": 24,
+   "new_users": 22
+  },
+  {
+   "date": "2024-05-27",
+   "users": 25,
+   "sessions": 30,
+   "new_users": 20
+  },
+  {
+   "date": "2024-05-28",
+   "users": 27,
+   "sessions": 33,
+   "new_users": 19
+  },
+  {
+   "date": "2024-05-29",
+   "users": 29,
+   "sessions": 36,
+   "new_users": 19
+  },
+  {
+   "date": "2024-05-30",
+   "users": 26,
+   "sessions": 27,
+   "new_users": 22
+  },
+  {
+   "date": "2024-05-31",
+   "users": 22,
+   "sessions": 29,
+   "new_users": 14
+  },
+  {
+   "date": "2024-06-01",
+   "users": 19,
+   "sessions": 20,
+   "new_users": 14
+  },
+  {
+   "date": "2024-06-02",
+   "users": 19,
+   "sessions": 20,
+   "new_users": 15
+  },
+  {
+   "date": "2024-06-03",
+   "users": 32,
+   "sessions": 61,
+   "new_users": 20
+  },
+  {
+   "date": "2024-06-04",
+   "users": 129,
+   "sessions": 161,
+   "new_users": 112
+  },
+  {
+   "date": "2024-06-05",
+   "users": 93,
+   "sessions": 104,
+   "new_users": 84
+  },
+  {
+   "date": "2024-06-06",
+   "users": 153,
+   "sessions": 183,
+   "new_users": 147
+  },
+  {
+   "date": "2024-06-07",
+   "users": 156,
+   "sessions": 187,
+   "new_users": 142
+  },
+  {
+   "date": "2024-06-08",
+   "users": 106,
+   "sessions": 120,
+   "new_users": 100
+  },
+  {
+   "date": "2024-06-09",
+   "users": 72,
+   "sessions": 79,
+   "new_users": 68
+  },
+  {
+   "date": "2024-06-10",
+   "users": 47,
+   "sessions": 63,
+   "new_users": 34
+  },
+  {
+   "date": "2024-06-11",
+   "users": 64,
+   "sessions": 95,
+   "new_users": 47
+  },
+  {
+   "date": "2024-06-12",
+   "users": 124,
+   "sessions": 137,
+   "new_users": 113
+  },
+  {
+   "date": "2024-06-13",
+   "users": 156,
+   "sessions": 178,
+   "new_users": 135
+  },
+  {
+   "date": "2024-06-14",
+   "users": 113,
+   "sessions": 142,
+   "new_users": 78
+  },
+  {
+   "date": "2024-06-15",
+   "users": 64,
+   "sessions": 74,
+   "new_users": 57
+  },
+  {
+   "date": "2024-06-16",
+   "users": 56,
+   "sessions": 65,
+   "new_users": 47
+  },
+  {
+   "date": "2024-06-17",
+   "users": 85,
+   "sessions": 97,
+   "new_users": 79
+  },
+  {
+   "date": "2024-06-18",
+   "users": 124,
+   "sessions": 162,
+   "new_users": 101
+  },
+  {
+   "date": "2024-06-19",
+   "users": 146,
+   "sessions": 178,
+   "new_users": 120
+  },
+  {
+   "date": "2024-06-20",
+   "users": 148,
+   "sessions": 176,
+   "new_users": 122
+  },
+  {
+   "date": "2024-06-21",
+   "users": 113,
+   "sessions": 126,
+   "new_users": 104
+  },
+  {
+   "date": "2024-06-22",
+   "users": 141,
+   "sessions": 169,
+   "new_users": 126
+  },
+  {
+   "date": "2024-06-23",
+   "users": 140,
+   "sessions": 151,
+   "new_users": 130
+  },
+  {
+   "date": "2024-06-24",
+   "users": 151,
+   "sessions": 186,
+   "new_users": 121
+  },
+  {
+   "date": "2024-06-25",
+   "users": 167,
+   "sessions": 216,
+   "new_users": 128
+  },
+  {
+   "date": "2024-06-26",
+   "users": 283,
+   "sessions": 321,
+   "new_users": 240
+  },
+  {
+   "date": "2024-06-27",
+   "users": 350,
+   "sessions": 402,
+   "new_users": 313
+  },
+  {
+   "date": "2024-06-28",
+   "users": 176,
+   "sessions": 215,
+   "new_users": 151
+  },
+  {
+   "date": "2024-06-29",
+   "users": 169,
+   "sessions": 195,
+   "new_users": 150
+  },
+  {
+   "date": "2024-06-30",
+   "users": 190,
+   "sessions": 208,
+   "new_users": 167
+  },
+  {
+   "date": "2024-07-01",
+   "users": 204,
+   "sessions": 235,
+   "new_users": 178
+  },
+  {
+   "date": "2024-07-02",
+   "users": 201,
+   "sessions": 226,
+   "new_users": 177
+  },
+  {
+   "date": "2024-07-03",
+   "users": 238,
+   "sessions": 279,
+   "new_users": 203
+  },
+  {
+   "date": "2024-07-04",
+   "users": 224,
+   "sessions": 278,
+   "new_users": 185
+  },
+  {
+   "date": "2024-07-05",
+   "users": 187,
+   "sessions": 239,
+   "new_users": 144
+  },
+  {
+   "date": "2024-07-06",
+   "users": 162,
+   "sessions": 179,
+   "new_users": 138
+  },
+  {
+   "date": "2024-07-07",
+   "users": 159,
+   "sessions": 178,
+   "new_users": 136
+  },
+  {
+   "date": "2024-07-08",
+   "users": 225,
+   "sessions": 280,
+   "new_users": 194
+  },
+  {
+   "date": "2024-07-09",
+   "users": 206,
+   "sessions": 236,
+   "new_users": 179
+  },
+  {
+   "date": "2024-07-10",
+   "users": 237,
+   "sessions": 269,
+   "new_users": 197
+  },
+  {
+   "date": "2024-07-11",
+   "users": 268,
+   "sessions": 303,
+   "new_users": 237
+  },
+  {
+   "date": "2024-07-12",
+   "users": 191,
+   "sessions": 220,
+   "new_users": 159
+  },
+  {
+   "date": "2024-07-13",
+   "users": 193,
+   "sessions": 209,
+   "new_users": 172
+  },
+  {
+   "date": "2024-07-14",
+   "users": 180,
+   "sessions": 202,
+   "new_users": 151
+  },
+  {
+   "date": "2024-07-15",
+   "users": 182,
+   "sessions": 215,
+   "new_users": 157
+  },
+  {
+   "date": "2024-07-16",
+   "users": 179,
+   "sessions": 198,
+   "new_users": 158
+  },
+  {
+   "date": "2024-07-17",
+   "users": 179,
+   "sessions": 211,
+   "new_users": 144
+  },
+  {
+   "date": "2024-07-18",
+   "users": 164,
+   "sessions": 212,
+   "new_users": 127
+  },
+  {
+   "date": "2024-07-19",
+   "users": 140,
+   "sessions": 172,
+   "new_users": 106
+  },
+  {
+   "date": "2024-07-20",
+   "users": 143,
+   "sessions": 155,
+   "new_users": 117
+  },
+  {
+   "date": "2024-07-21",
+   "users": 258,
+   "sessions": 294,
+   "new_users": 228
+  },
+  {
+   "date": "2024-07-22",
+   "users": 186,
+   "sessions": 228,
+   "new_users": 145
+  },
+  {
+   "date": "2024-07-23",
+   "users": 193,
+   "sessions": 233,
+   "new_users": 164
+  },
+  {
+   "date": "2024-07-24",
+   "users": 116,
+   "sessions": 157,
+   "new_users": 94
+  },
+  {
+   "date": "2024-07-25",
+   "users": 158,
+   "sessions": 205,
+   "new_users": 118
+  },
+  {
+   "date": "2024-07-26",
+   "users": 169,
+   "sessions": 208,
+   "new_users": 140
+  },
+  {
+   "date": "2024-07-27",
+   "users": 163,
+   "sessions": 194,
+   "new_users": 133
+  },
+  {
+   "date": "2024-07-28",
+   "users": 108,
+   "sessions": 119,
+   "new_users": 97
+  },
+  {
+   "date": "2024-07-29",
+   "users": 216,
+   "sessions": 275,
+   "new_users": 163
+  },
+  {
+   "date": "2024-07-30",
+   "users": 225,
+   "sessions": 260,
+   "new_users": 195
+  },
+  {
+   "date": "2024-07-31",
+   "users": 212,
+   "sessions": 259,
+   "new_users": 177
+  },
+  {
+   "date": "2024-08-01",
+   "users": 229,
+   "sessions": 274,
+   "new_users": 178
+  },
+  {
+   "date": "2024-08-02",
+   "users": 191,
+   "sessions": 239,
+   "new_users": 148
+  },
+  {
+   "date": "2024-08-03",
+   "users": 201,
+   "sessions": 226,
+   "new_users": 170
+  },
+  {
+   "date": "2024-08-04",
+   "users": 241,
+   "sessions": 274,
+   "new_users": 204
+  },
+  {
+   "date": "2024-08-05",
+   "users": 241,
+   "sessions": 283,
+   "new_users": 188
+  },
+  {
+   "date": "2024-08-06",
+   "users": 214,
+   "sessions": 262,
+   "new_users": 168
+  },
+  {
+   "date": "2024-08-07",
+   "users": 212,
+   "sessions": 253,
+   "new_users": 170
+  },
+  {
+   "date": "2024-08-08",
+   "users": 173,
+   "sessions": 223,
+   "new_users": 136
+  },
+  {
+   "date": "2024-08-09",
+   "users": 168,
+   "sessions": 204,
+   "new_users": 114
+  },
+  {
+   "date": "2024-08-10",
+   "users": 175,
+   "sessions": 204,
+   "new_users": 146
+  },
+  {
+   "date": "2024-08-11",
+   "users": 258,
+   "sessions": 291,
+   "new_users": 215
+  },
+  {
+   "date": "2024-08-12",
+   "users": 233,
+   "sessions": 296,
+   "new_users": 168
+  },
+  {
+   "date": "2024-08-13",
+   "users": 230,
+   "sessions": 282,
+   "new_users": 180
+  },
+  {
+   "date": "2024-08-14",
+   "users": 201,
+   "sessions": 240,
+   "new_users": 143
+  },
+  {
+   "date": "2024-08-15",
+   "users": 189,
+   "sessions": 227,
+   "new_users": 132
+  },
+  {
+   "date": "2024-08-16",
+   "users": 177,
+   "sessions": 212,
+   "new_users": 145
+  },
+  {
+   "date": "2024-08-17",
+   "users": 179,
+   "sessions": 208,
+   "new_users": 150
+  },
+  {
+   "date": "2024-08-18",
+   "users": 177,
+   "sessions": 209,
+   "new_users": 140
+  },
+  {
+   "date": "2024-08-19",
+   "users": 198,
+   "sessions": 243,
+   "new_users": 158
+  },
+  {
+   "date": "2024-08-20",
+   "users": 179,
+   "sessions": 215,
+   "new_users": 139
+  },
+  {
+   "date": "2024-08-21",
+   "users": 212,
+   "sessions": 246,
+   "new_users": 182
+  },
+  {
+   "date": "2024-08-22",
+   "users": 186,
+   "sessions": 205,
+   "new_users": 148
+  },
+  {
+   "date": "2024-08-23",
+   "users": 197,
+   "sessions": 228,
+   "new_users": 156
+  },
+  {
+   "date": "2024-08-24",
+   "users": 161,
+   "sessions": 180,
+   "new_users": 139
+  },
+  {
+   "date": "2024-08-25",
+   "users": 178,
+   "sessions": 212,
+   "new_users": 146
+  },
+  {
+   "date": "2024-08-26",
+   "users": 224,
+   "sessions": 272,
+   "new_users": 180
+  },
+  {
+   "date": "2024-08-27",
+   "users": 204,
+   "sessions": 255,
+   "new_users": 152
+  },
+  {
+   "date": "2024-08-28",
+   "users": 225,
+   "sessions": 269,
+   "new_users": 186
+  },
+  {
+   "date": "2024-08-29",
+   "users": 188,
+   "sessions": 235,
+   "new_users": 146
+  },
+  {
+   "date": "2024-08-30",
+   "users": 190,
+   "sessions": 247,
+   "new_users": 135
+  },
+  {
+   "date": "2024-08-31",
+   "users": 168,
+   "sessions": 191,
+   "new_users": 134
+  },
+  {
+   "date": "2024-09-01",
+   "users": 216,
+   "sessions": 244,
+   "new_users": 179
+  },
+  {
+   "date": "2024-09-02",
+   "users": 195,
+   "sessions": 236,
+   "new_users": 151
+  },
+  {
+   "date": "2024-09-03",
+   "users": 165,
+   "sessions": 199,
+   "new_users": 128
+  },
+  {
+   "date": "2024-09-04",
+   "users": 176,
+   "sessions": 210,
+   "new_users": 137
+  },
+  {
+   "date": "2024-09-05",
+   "users": 174,
+   "sessions": 199,
+   "new_users": 128
+  },
+  {
+   "date": "2024-09-06",
+   "users": 154,
+   "sessions": 185,
+   "new_users": 113
+  },
+  {
+   "date": "2024-09-07",
+   "users": 138,
+   "sessions": 159,
+   "new_users": 113
+  },
+  {
+   "date": "2024-09-08",
+   "users": 173,
+   "sessions": 198,
+   "new_users": 145
+  },
+  {
+   "date": "2024-09-09",
+   "users": 188,
+   "sessions": 232,
+   "new_users": 145
+  },
+  {
+   "date": "2024-09-10",
+   "users": 168,
+   "sessions": 202,
+   "new_users": 124
+  },
+  {
+   "date": "2024-09-11",
+   "users": 194,
+   "sessions": 231,
+   "new_users": 147
+  },
+  {
+   "date": "2024-09-12",
+   "users": 176,
+   "sessions": 212,
+   "new_users": 132
+  },
+  {
+   "date": "2024-09-13",
+   "users": 134,
+   "sessions": 179,
+   "new_users": 105
+  },
+  {
+   "date": "2024-09-14",
+   "users": 144,
+   "sessions": 172,
+   "new_users": 112
+  },
+  {
+   "date": "2024-09-15",
+   "users": 167,
+   "sessions": 203,
+   "new_users": 133
+  },
+  {
+   "date": "2024-09-16",
+   "users": 212,
+   "sessions": 257,
+   "new_users": 141
+  },
+  {
+   "date": "2024-09-17",
+   "users": 215,
+   "sessions": 263,
+   "new_users": 154
+  },
+  {
+   "date": "2024-09-18",
+   "users": 222,
+   "sessions": 276,
+   "new_users": 167
+  },
+  {
+   "date": "2024-09-19",
+   "users": 158,
+   "sessions": 189,
+   "new_users": 101
+  },
+  {
+   "date": "2024-09-20",
+   "users": 173,
+   "sessions": 207,
+   "new_users": 117
+  },
+  {
+   "date": "2024-09-21",
+   "users": 131,
+   "sessions": 169,
+   "new_users": 104
+  },
+  {
+   "date": "2024-09-22",
+   "users": 149,
+   "sessions": 173,
+   "new_users": 103
+  },
+  {
+   "date": "2024-09-23",
+   "users": 157,
+   "sessions": 192,
+   "new_users": 111
+  },
+  {
+   "date": "2024-09-24",
+   "users": 159,
+   "sessions": 198,
+   "new_users": 107
+  },
+  {
+   "date": "2024-09-25",
+   "users": 148,
+   "sessions": 183,
+   "new_users": 100
+  },
+  {
+   "date": "2024-09-26",
+   "users": 164,
+   "sessions": 199,
+   "new_users": 121
+  },
+  {
+   "date": "2024-09-27",
+   "users": 133,
+   "sessions": 165,
+   "new_users": 106
+  },
+  {
+   "date": "2024-09-28",
+   "users": 92,
+   "sessions": 109,
+   "new_users": 71
+  },
+  {
+   "date": "2024-09-29",
+   "users": 150,
+   "sessions": 175,
+   "new_users": 103
+  },
+  {
+   "date": "2024-09-30",
+   "users": 174,
+   "sessions": 200,
+   "new_users": 120
+  },
+  {
+   "date": "2024-10-01",
+   "users": 198,
+   "sessions": 237,
+   "new_users": 142
+  },
+  {
+   "date": "2024-10-02",
+   "users": 170,
+   "sessions": 192,
+   "new_users": 125
+  },
+  {
+   "date": "2024-10-03",
+   "users": 163,
+   "sessions": 197,
+   "new_users": 131
+  },
+  {
+   "date": "2024-10-04",
+   "users": 156,
+   "sessions": 188,
+   "new_users": 116
+  },
+  {
+   "date": "2024-10-05",
+   "users": 152,
+   "sessions": 177,
+   "new_users": 115
+  },
+  {
+   "date": "2024-10-06",
+   "users": 210,
+   "sessions": 246,
+   "new_users": 167
+  },
+  {
+   "date": "2024-10-07",
+   "users": 246,
+   "sessions": 302,
+   "new_users": 193
+  },
+  {
+   "date": "2024-10-08",
+   "users": 212,
+   "sessions": 249,
+   "new_users": 153
+  },
+  {
+   "date": "2024-10-09",
+   "users": 192,
+   "sessions": 224,
+   "new_users": 144
+  },
+  {
+   "date": "2024-10-10",
+   "users": 174,
+   "sessions": 212,
+   "new_users": 126
+  },
+  {
+   "date": "2024-10-11",
+   "users": 178,
+   "sessions": 215,
+   "new_users": 133
+  },
+  {
+   "date": "2024-10-12",
+   "users": 85,
+   "sessions": 109,
+   "new_users": 61
+  },
+  {
+   "date": "2024-10-13",
+   "users": 21,
+   "sessions": 26,
+   "new_users": 14
+  },
+  {
+   "date": "2024-10-14",
+   "users": 160,
+   "sessions": 185,
+   "new_users": 112
+  },
+  {
+   "date": "2024-10-15",
+   "users": 207,
+   "sessions": 242,
+   "new_users": 156
+  },
+  {
+   "date": "2024-10-16",
+   "users": 194,
+   "sessions": 230,
+   "new_users": 142
+  },
+  {
+   "date": "2024-10-17",
+   "users": 164,
+   "sessions": 209,
+   "new_users": 122
+  },
+  {
+   "date": "2024-10-18",
+   "users": 176,
+   "sessions": 212,
+   "new_users": 124
+  },
+  {
+   "date": "2024-10-19",
+   "users": 175,
+   "sessions": 203,
+   "new_users": 128
+  },
+  {
+   "date": "2024-10-20",
+   "users": 172,
+   "sessions": 185,
+   "new_users": 144
+  },
+  {
+   "date": "2024-10-21",
+   "users": 197,
+   "sessions": 236,
+   "new_users": 154
+  },
+  {
+   "date": "2024-10-22",
+   "users": 183,
+   "sessions": 219,
+   "new_users": 115
+  },
+  {
+   "date": "2024-10-23",
+   "users": 243,
+   "sessions": 280,
+   "new_users": 197
+  },
+  {
+   "date": "2024-10-24",
+   "users": 228,
+   "sessions": 274,
+   "new_users": 170
+  },
+  {
+   "date": "2024-10-25",
+   "users": 215,
+   "sessions": 261,
+   "new_users": 135
+  },
+  {
+   "date": "2024-10-26",
+   "users": 221,
+   "sessions": 267,
+   "new_users": 148
+  },
+  {
+   "date": "2024-10-27",
+   "users": 234,
+   "sessions": 285,
+   "new_users": 173
+  },
+  {
+   "date": "2024-10-28",
+   "users": 209,
+   "sessions": 252,
+   "new_users": 142
+  },
+  {
+   "date": "2024-10-29",
+   "users": 169,
+   "sessions": 197,
+   "new_users": 123
+  },
+  {
+   "date": "2024-10-30",
+   "users": 232,
+   "sessions": 273,
+   "new_users": 172
+  },
+  {
+   "date": "2024-10-31",
+   "users": 221,
+   "sessions": 258,
+   "new_users": 151
+  },
+  {
+   "date": "2024-11-01",
+   "users": 180,
+   "sessions": 219,
+   "new_users": 133
+  },
+  {
+   "date": "2024-11-02",
+   "users": 177,
+   "sessions": 201,
+   "new_users": 130
+  },
+  {
+   "date": "2024-11-03",
+   "users": 230,
+   "sessions": 262,
+   "new_users": 176
+  },
+  {
+   "date": "2024-11-04",
+   "users": 301,
+   "sessions": 358,
+   "new_users": 232
+  },
+  {
+   "date": "2024-11-05",
+   "users": 201,
+   "sessions": 249,
+   "new_users": 142
+  },
+  {
+   "date": "2024-11-06",
+   "users": 171,
+   "sessions": 198,
+   "new_users": 139
+  },
+  {
+   "date": "2024-11-07",
+   "users": 177,
+   "sessions": 211,
+   "new_users": 121
+  },
+  {
+   "date": "2024-11-08",
+   "users": 151,
+   "sessions": 168,
+   "new_users": 106
+  },
+  {
+   "date": "2024-11-09",
+   "users": 164,
+   "sessions": 195,
+   "new_users": 110
+  },
+  {
+   "date": "2024-11-10",
+   "users": 175,
+   "sessions": 192,
+   "new_users": 137
+  },
+  {
+   "date": "2024-11-11",
+   "users": 218,
+   "sessions": 253,
+   "new_users": 162
+  },
+  {
+   "date": "2024-11-12",
+   "users": 201,
+   "sessions": 228,
+   "new_users": 160
+  },
+  {
+   "date": "2024-11-13",
+   "users": 179,
+   "sessions": 199,
+   "new_users": 147
+  },
+  {
+   "date": "2024-11-14",
+   "users": 143,
+   "sessions": 163,
+   "new_users": 85
+  },
+  {
+   "date": "2024-11-15",
+   "users": 155,
+   "sessions": 174,
+   "new_users": 101
+  },
+  {
+   "date": "2024-11-16",
+   "users": 163,
+   "sessions": 181,
+   "new_users": 119
+  },
+  {
+   "date": "2024-11-17",
+   "users": 267,
+   "sessions": 301,
+   "new_users": 190
+  },
+  {
+   "date": "2024-11-18",
+   "users": 213,
+   "sessions": 241,
+   "new_users": 168
+  },
+  {
+   "date": "2024-11-19",
+   "users": 232,
+   "sessions": 262,
+   "new_users": 177
+  },
+  {
+   "date": "2024-11-20",
+   "users": 208,
+   "sessions": 247,
+   "new_users": 154
+  },
+  {
+   "date": "2024-11-21",
+   "users": 196,
+   "sessions": 227,
+   "new_users": 147
+  },
+  {
+   "date": "2024-11-22",
+   "users": 183,
+   "sessions": 207,
+   "new_users": 138
+  },
+  {
+   "date": "2024-11-23",
+   "users": 148,
+   "sessions": 170,
+   "new_users": 106
+  },
+  {
+   "date": "2024-11-24",
+   "users": 218,
+   "sessions": 234,
+   "new_users": 179
+  },
+  {
+   "date": "2024-11-25",
+   "users": 216,
+   "sessions": 254,
+   "new_users": 168
+  },
+  {
+   "date": "2024-11-26",
+   "users": 195,
+   "sessions": 235,
+   "new_users": 131
+  },
+  {
+   "date": "2024-11-27",
+   "users": 234,
+   "sessions": 266,
+   "new_users": 159
+  },
+  {
+   "date": "2024-11-28",
+   "users": 199,
+   "sessions": 225,
+   "new_users": 143
+  },
+  {
+   "date": "2024-11-29",
+   "users": 210,
+   "sessions": 245,
+   "new_users": 154
+  },
+  {
+   "date": "2024-11-30",
+   "users": 167,
+   "sessions": 177,
+   "new_users": 137
+  },
+  {
+   "date": "2024-12-01",
+   "users": 239,
+   "sessions": 268,
+   "new_users": 193
+  },
+  {
+   "date": "2024-12-02",
+   "users": 268,
+   "sessions": 304,
+   "new_users": 201
+  },
+  {
+   "date": "2024-12-03",
+   "users": 331,
+   "sessions": 377,
+   "new_users": 255
+  },
+  {
+   "date": "2024-12-04",
+   "users": 322,
+   "sessions": 364,
+   "new_users": 254
+  },
+  {
+   "date": "2024-12-05",
+   "users": 295,
+   "sessions": 346,
+   "new_users": 236
+  },
+  {
+   "date": "2024-12-06",
+   "users": 273,
+   "sessions": 319,
+   "new_users": 215
+  },
+  {
+   "date": "2024-12-07",
+   "users": 244,
+   "sessions": 265,
+   "new_users": 192
+  },
+  {
+   "date": "2024-12-08",
+   "users": 299,
+   "sessions": 337,
+   "new_users": 243
+  },
+  {
+   "date": "2024-12-09",
+   "users": 301,
+   "sessions": 351,
+   "new_users": 229
+  },
+  {
+   "date": "2024-12-10",
+   "users": 301,
+   "sessions": 334,
+   "new_users": 236
+  },
+  {
+   "date": "2024-12-11",
+   "users": 284,
+   "sessions": 318,
+   "new_users": 206
+  },
+  {
+   "date": "2024-12-12",
+   "users": 280,
+   "sessions": 310,
+   "new_users": 209
+  },
+  {
+   "date": "2024-12-13",
+   "users": 236,
+   "sessions": 277,
+   "new_users": 187
+  },
+  {
+   "date": "2024-12-14",
+   "users": 244,
+   "sessions": 282,
+   "new_users": 174
+  },
+  {
+   "date": "2024-12-15",
+   "users": 271,
+   "sessions": 310,
+   "new_users": 215
+  },
+  {
+   "date": "2024-12-16",
+   "users": 284,
+   "sessions": 331,
+   "new_users": 215
+  },
+  {
+   "date": "2024-12-17",
+   "users": 248,
+   "sessions": 294,
+   "new_users": 184
+  },
+  {
+   "date": "2024-12-18",
+   "users": 256,
+   "sessions": 293,
+   "new_users": 183
+  },
+  {
+   "date": "2024-12-19",
+   "users": 232,
+   "sessions": 263,
+   "new_users": 176
+  },
+  {
+   "date": "2024-12-20",
+   "users": 228,
+   "sessions": 269,
+   "new_users": 172
+  },
+  {
+   "date": "2024-12-21",
+   "users": 229,
+   "sessions": 252,
+   "new_users": 187
+  },
+  {
+   "date": "2024-12-22",
+   "users": 270,
+   "sessions": 301,
+   "new_users": 211
+  },
+  {
+   "date": "2024-12-23",
+   "users": 260,
+   "sessions": 304,
+   "new_users": 208
+  },
+  {
+   "date": "2024-12-24",
+   "users": 203,
+   "sessions": 224,
+   "new_users": 173
+  },
+  {
+   "date": "2024-12-25",
+   "users": 237,
+   "sessions": 266,
+   "new_users": 197
+  },
+  {
+   "date": "2024-12-26",
+   "users": 272,
+   "sessions": 319,
+   "new_users": 218
+  },
+  {
+   "date": "2024-12-27",
+   "users": 293,
+   "sessions": 344,
+   "new_users": 220
+  },
+  {
+   "date": "2024-12-28",
+   "users": 262,
+   "sessions": 287,
+   "new_users": 212
+  },
+  {
+   "date": "2024-12-29",
+   "users": 297,
+   "sessions": 340,
+   "new_users": 238
+  },
+  {
+   "date": "2024-12-30",
+   "users": 268,
+   "sessions": 302,
+   "new_users": 211
+  },
+  {
+   "date": "2024-12-31",
+   "users": 211,
+   "sessions": 244,
+   "new_users": 169
+  },
+  {
+   "date": "2025-01-01",
+   "users": 271,
+   "sessions": 297,
+   "new_users": 229
+  },
+  {
+   "date": "2025-01-02",
+   "users": 326,
+   "sessions": 386,
+   "new_users": 266
+  },
+  {
+   "date": "2025-01-03",
+   "users": 313,
+   "sessions": 349,
+   "new_users": 245
+  },
+  {
+   "date": "2025-01-04",
+   "users": 336,
+   "sessions": 387,
+   "new_users": 285
+  },
+  {
+   "date": "2025-01-05",
+   "users": 376,
+   "sessions": 421,
+   "new_users": 300
+  },
+  {
+   "date": "2025-01-06",
+   "users": 270,
+   "sessions": 324,
+   "new_users": 200
+  },
+  {
+   "date": "2025-01-07",
+   "users": 208,
+   "sessions": 233,
+   "new_users": 163
+  },
+  {
+   "date": "2025-01-08",
+   "users": 216,
+   "sessions": 260,
+   "new_users": 170
+  },
+  {
+   "date": "2025-01-09",
+   "users": 265,
+   "sessions": 303,
+   "new_users": 203
+  },
+  {
+   "date": "2025-01-10",
+   "users": 277,
+   "sessions": 332,
+   "new_users": 208
+  },
+  {
+   "date": "2025-01-11",
+   "users": 278,
+   "sessions": 301,
+   "new_users": 228
+  },
+  {
+   "date": "2025-01-12",
+   "users": 348,
+   "sessions": 394,
+   "new_users": 268
+  },
+  {
+   "date": "2025-01-13",
+   "users": 316,
+   "sessions": 360,
+   "new_users": 247
+  },
+  {
+   "date": "2025-01-14",
+   "users": 306,
+   "sessions": 352,
+   "new_users": 230
+  },
+  {
+   "date": "2025-01-15",
+   "users": 266,
+   "sessions": 293,
+   "new_users": 214
+  },
+  {
+   "date": "2025-01-16",
+   "users": 293,
+   "sessions": 338,
+   "new_users": 249
+  },
+  {
+   "date": "2025-01-17",
+   "users": 302,
+   "sessions": 366,
+   "new_users": 235
+  },
+  {
+   "date": "2025-01-18",
+   "users": 285,
+   "sessions": 319,
+   "new_users": 227
+  },
+  {
+   "date": "2025-01-19",
+   "users": 368,
+   "sessions": 414,
+   "new_users": 307
+  },
+  {
+   "date": "2025-01-20",
+   "users": 345,
+   "sessions": 396,
+   "new_users": 282
+  },
+  {
+   "date": "2025-01-21",
+   "users": 325,
+   "sessions": 377,
+   "new_users": 254
+  },
+  {
+   "date": "2025-01-22",
+   "users": 338,
+   "sessions": 385,
+   "new_users": 270
+  },
+  {
+   "date": "2025-01-23",
+   "users": 326,
+   "sessions": 382,
+   "new_users": 253
+  },
+  {
+   "date": "2025-01-24",
+   "users": 291,
+   "sessions": 333,
+   "new_users": 220
+  },
+  {
+   "date": "2025-01-25",
+   "users": 228,
+   "sessions": 260,
+   "new_users": 162
+  },
+  {
+   "date": "2025-01-26",
+   "users": 281,
+   "sessions": 318,
+   "new_users": 212
+  },
+  {
+   "date": "2025-01-27",
+   "users": 300,
+   "sessions": 348,
+   "new_users": 218
+  },
+  {
+   "date": "2025-01-28",
+   "users": 269,
+   "sessions": 321,
+   "new_users": 214
+  },
+  {
+   "date": "2025-01-29",
+   "users": 250,
+   "sessions": 293,
+   "new_users": 178
+  },
+  {
+   "date": "2025-01-30",
+   "users": 239,
+   "sessions": 299,
+   "new_users": 168
+  },
+  {
+   "date": "2025-01-31",
+   "users": 236,
+   "sessions": 277,
+   "new_users": 178
+  },
+  {
+   "date": "2025-02-01",
+   "users": 247,
+   "sessions": 269,
+   "new_users": 185
+  },
+  {
+   "date": "2025-02-02",
+   "users": 274,
+   "sessions": 307,
+   "new_users": 205
+  },
+  {
+   "date": "2025-02-03",
+   "users": 275,
+   "sessions": 317,
+   "new_users": 216
+  },
+  {
+   "date": "2025-02-04",
+   "users": 253,
+   "sessions": 297,
+   "new_users": 195
+  },
+  {
+   "date": "2025-02-05",
+   "users": 231,
+   "sessions": 263,
+   "new_users": 168
+  },
+  {
+   "date": "2025-02-06",
+   "users": 192,
+   "sessions": 224,
+   "new_users": 139
+  },
+  {
+   "date": "2025-02-07",
+   "users": 210,
+   "sessions": 248,
+   "new_users": 159
+  },
+  {
+   "date": "2025-02-08",
+   "users": 188,
+   "sessions": 210,
+   "new_users": 151
+  },
+  {
+   "date": "2025-02-09",
+   "users": 249,
+   "sessions": 293,
+   "new_users": 180
+  },
+  {
+   "date": "2025-02-10",
+   "users": 248,
+   "sessions": 310,
+   "new_users": 182
+  },
+  {
+   "date": "2025-02-11",
+   "users": 275,
+   "sessions": 332,
+   "new_users": 203
+  },
+  {
+   "date": "2025-02-12",
+   "users": 222,
+   "sessions": 286,
+   "new_users": 146
+  },
+  {
+   "date": "2025-02-13",
+   "users": 233,
+   "sessions": 296,
+   "new_users": 164
+  },
+  {
+   "date": "2025-02-14",
+   "users": 201,
+   "sessions": 255,
+   "new_users": 134
+  },
+  {
+   "date": "2025-02-15",
+   "users": 223,
+   "sessions": 260,
+   "new_users": 158
+  },
+  {
+   "date": "2025-02-16",
+   "users": 310,
+   "sessions": 361,
+   "new_users": 249
+  },
+  {
+   "date": "2025-02-17",
+   "users": 322,
+   "sessions": 423,
+   "new_users": 211
+  },
+  {
+   "date": "2025-02-18",
+   "users": 209,
+   "sessions": 254,
+   "new_users": 149
+  },
+  {
+   "date": "2025-02-19",
+   "users": 253,
+   "sessions": 314,
+   "new_users": 179
+  },
+  {
+   "date": "2025-02-20",
+   "users": 216,
+   "sessions": 286,
+   "new_users": 147
+  },
+  {
+   "date": "2025-02-21",
+   "users": 227,
+   "sessions": 274,
+   "new_users": 151
+  },
+  {
+   "date": "2025-02-22",
+   "users": 222,
+   "sessions": 255,
+   "new_users": 166
+  },
+  {
+   "date": "2025-02-23",
+   "users": 247,
+   "sessions": 288,
+   "new_users": 188
+  },
+  {
+   "date": "2025-02-24",
+   "users": 257,
+   "sessions": 314,
+   "new_users": 185
+  },
+  {
+   "date": "2025-02-25",
+   "users": 248,
+   "sessions": 297,
+   "new_users": 170
+  },
+  {
+   "date": "2025-02-26",
+   "users": 232,
+   "sessions": 279,
+   "new_users": 161
+  },
+  {
+   "date": "2025-02-27",
+   "users": 236,
+   "sessions": 289,
+   "new_users": 168
+  },
+  {
+   "date": "2025-02-28",
+   "users": 183,
+   "sessions": 227,
+   "new_users": 124
+  },
+  {
+   "date": "2025-03-01",
+   "users": 151,
+   "sessions": 169,
+   "new_users": 112
+  },
+  {
+   "date": "2025-03-02",
+   "users": 199,
+   "sessions": 239,
+   "new_users": 142
+  },
+  {
+   "date": "2025-03-03",
+   "users": 285,
+   "sessions": 344,
+   "new_users": 209
+  },
+  {
+   "date": "2025-03-04",
+   "users": 254,
+   "sessions": 300,
+   "new_users": 193
+  },
+  {
+   "date": "2025-03-05",
+   "users": 693,
+   "sessions": 760,
+   "new_users": 604
+  },
+  {
+   "date": "2025-03-06",
+   "users": 531,
+   "sessions": 637,
+   "new_users": 423
+  },
+  {
+   "date": "2025-03-07",
+   "users": 206,
+   "sessions": 258,
+   "new_users": 144
+  },
+  {
+   "date": "2025-03-08",
+   "users": 179,
+   "sessions": 210,
+   "new_users": 131
+  },
+  {
+   "date": "2025-03-09",
+   "users": 245,
+   "sessions": 289,
+   "new_users": 166
+  },
+  {
+   "date": "2025-03-10",
+   "users": 221,
+   "sessions": 263,
+   "new_users": 158
+  },
+  {
+   "date": "2025-03-11",
+   "users": 198,
+   "sessions": 256,
+   "new_users": 117
+  },
+  {
+   "date": "2025-03-12",
+   "users": 254,
+   "sessions": 309,
+   "new_users": 177
+  },
+  {
+   "date": "2025-03-13",
+   "users": 171,
+   "sessions": 211,
+   "new_users": 115
+  },
+  {
+   "date": "2025-03-14",
+   "users": 185,
+   "sessions": 252,
+   "new_users": 119
+  },
+  {
+   "date": "2025-03-15",
+   "users": 194,
+   "sessions": 228,
+   "new_users": 139
+  },
+  {
+   "date": "2025-03-16",
+   "users": 247,
+   "sessions": 294,
+   "new_users": 176
+  },
+  {
+   "date": "2025-03-17",
+   "users": 261,
+   "sessions": 317,
+   "new_users": 189
+  },
+  {
+   "date": "2025-03-18",
+   "users": 200,
+   "sessions": 263,
+   "new_users": 139
+  },
+  {
+   "date": "2025-03-19",
+   "users": 202,
+   "sessions": 247,
+   "new_users": 135
+  },
+  {
+   "date": "2025-03-20",
+   "users": 179,
+   "sessions": 221,
+   "new_users": 124
+  },
+  {
+   "date": "2025-03-21",
+   "users": 187,
+   "sessions": 240,
+   "new_users": 114
+  },
+  {
+   "date": "2025-03-22",
+   "users": 220,
+   "sessions": 261,
+   "new_users": 148
+  },
+  {
+   "date": "2025-03-23",
+   "users": 294,
+   "sessions": 367,
+   "new_users": 195
+  },
+  {
+   "date": "2025-03-24",
+   "users": 306,
+   "sessions": 384,
+   "new_users": 215
+  },
+  {
+   "date": "2025-03-25",
+   "users": 245,
+   "sessions": 333,
+   "new_users": 152
+  },
+  {
+   "date": "2025-03-26",
+   "users": 217,
+   "sessions": 269,
+   "new_users": 154
+  },
+  {
+   "date": "2025-03-27",
+   "users": 223,
+   "sessions": 277,
+   "new_users": 140
+  },
+  {
+   "date": "2025-03-28",
+   "users": 211,
+   "sessions": 266,
+   "new_users": 138
+  },
+  {
+   "date": "2025-03-29",
+   "users": 191,
+   "sessions": 231,
+   "new_users": 138
+  },
+  {
+   "date": "2025-03-30",
+   "users": 235,
+   "sessions": 280,
+   "new_users": 163
+  },
+  {
+   "date": "2025-03-31",
+   "users": 249,
+   "sessions": 302,
+   "new_users": 170
+  },
+  {
+   "date": "2025-04-01",
+   "users": 258,
+   "sessions": 325,
+   "new_users": 183
+  },
+  {
+   "date": "2025-04-02",
+   "users": 223,
+   "sessions": 259,
+   "new_users": 174
+  },
+  {
+   "date": "2025-04-03",
+   "users": 220,
+   "sessions": 280,
+   "new_users": 146
+  },
+  {
+   "date": "2025-04-04",
+   "users": 208,
+   "sessions": 253,
+   "new_users": 148
+  },
+  {
+   "date": "2025-04-05",
+   "users": 210,
+   "sessions": 240,
+   "new_users": 158
+  },
+  {
+   "date": "2025-04-06",
+   "users": 213,
+   "sessions": 255,
+   "new_users": 147
+  },
+  {
+   "date": "2025-04-07",
+   "users": 275,
+   "sessions": 330,
+   "new_users": 189
+  },
+  {
+   "date": "2025-04-08",
+   "users": 260,
+   "sessions": 314,
+   "new_users": 178
+  },
+  {
+   "date": "2025-04-09",
+   "users": 227,
+   "sessions": 289,
+   "new_users": 157
+  },
+  {
+   "date": "2025-04-10",
+   "users": 195,
+   "sessions": 253,
+   "new_users": 120
+  },
+  {
+   "date": "2025-04-11",
+   "users": 133,
+   "sessions": 173,
+   "new_users": 79
+  },
+  {
+   "date": "2025-04-12",
+   "users": 89,
+   "sessions": 118,
+   "new_users": 52
+  },
+  {
+   "date": "2025-04-13",
+   "users": 110,
+   "sessions": 143,
+   "new_users": 67
+  },
+  {
+   "date": "2025-04-14",
+   "users": 119,
+   "sessions": 155,
+   "new_users": 74
+  },
+  {
+   "date": "2025-04-15",
+   "users": 98,
+   "sessions": 125,
+   "new_users": 67
+  },
+  {
+   "date": "2025-04-16",
+   "users": 101,
+   "sessions": 133,
+   "new_users": 71
+  },
+  {
+   "date": "2025-04-17",
+   "users": 102,
+   "sessions": 135,
+   "new_users": 72
+  },
+  {
+   "date": "2025-04-18",
+   "users": 2427,
+   "sessions": 2853,
+   "new_users": 1831
+  },
+  {
+   "date": "2025-04-19",
+   "users": 1158,
+   "sessions": 1376,
+   "new_users": 872
+  },
+  {
+   "date": "2025-04-20",
+   "users": 185,
+   "sessions": 212,
+   "new_users": 150
+  },
+  {
+   "date": "2025-04-21",
+   "users": 156,
+   "sessions": 195,
+   "new_users": 103
+  },
+  {
+   "date": "2025-04-22",
+   "users": 129,
+   "sessions": 166,
+   "new_users": 79
+  },
+  {
+   "date": "2025-04-23",
+   "users": 124,
+   "sessions": 164,
+   "new_users": 82
+  },
+  {
+   "date": "2025-04-24",
+   "users": 117,
+   "sessions": 157,
+   "new_users": 79
+  },
+  {
+   "date": "2025-04-25",
+   "users": 125,
+   "sessions": 169,
+   "new_users": 79
+  },
+  {
+   "date": "2025-04-26",
+   "users": 113,
+   "sessions": 142,
+   "new_users": 74
+  },
+  {
+   "date": "2025-04-27",
+   "users": 101,
+   "sessions": 127,
+   "new_users": 62
+  },
+  {
+   "date": "2025-04-28",
+   "users": 122,
+   "sessions": 166,
+   "new_users": 63
+  },
+  {
+   "date": "2025-04-29",
+   "users": 121,
+   "sessions": 153,
+   "new_users": 72
+  },
+  {
+   "date": "2025-04-30",
+   "users": 97,
+   "sessions": 127,
+   "new_users": 64
+  },
+  {
+   "date": "2025-05-01",
+   "users": 87,
+   "sessions": 115,
+   "new_users": 56
+  },
+  {
+   "date": "2025-05-02",
+   "users": 99,
+   "sessions": 127,
+   "new_users": 64
+  },
+  {
+   "date": "2025-05-03",
+   "users": 117,
+   "sessions": 141,
+   "new_users": 87
+  },
+  {
+   "date": "2025-05-04",
+   "users": 114,
+   "sessions": 142,
+   "new_users": 77
+  },
+  {
+   "date": "2025-05-05",
+   "users": 152,
+   "sessions": 216,
+   "new_users": 88
+  },
+  {
+   "date": "2025-05-06",
+   "users": 135,
+   "sessions": 173,
+   "new_users": 95
+  },
+  {
+   "date": "2025-05-07",
+   "users": 110,
+   "sessions": 145,
+   "new_users": 73
+  },
+  {
+   "date": "2025-05-08",
+   "users": 124,
+   "sessions": 161,
+   "new_users": 76
+  },
+  {
+   "date": "2025-05-09",
+   "users": 137,
+   "sessions": 171,
+   "new_users": 83
+  },
+  {
+   "date": "2025-05-10",
+   "users": 81,
+   "sessions": 109,
+   "new_users": 55
+  },
+  {
+   "date": "2025-05-11",
+   "users": 121,
+   "sessions": 161,
+   "new_users": 81
+  },
+  {
+   "date": "2025-05-12",
+   "users": 134,
+   "sessions": 173,
+   "new_users": 89
+  },
+  {
+   "date": "2025-05-13",
+   "users": 104,
+   "sessions": 143,
+   "new_users": 68
+  },
+  {
+   "date": "2025-05-14",
+   "users": 105,
+   "sessions": 156,
+   "new_users": 62
+  },
+  {
+   "date": "2025-05-15",
+   "users": 128,
+   "sessions": 161,
+   "new_users": 91
+  },
+  {
+   "date": "2025-05-16",
+   "users": 93,
+   "sessions": 129,
+   "new_users": 58
+  },
+  {
+   "date": "2025-05-17",
+   "users": 87,
+   "sessions": 107,
+   "new_users": 63
+  },
+  {
+   "date": "2025-05-18",
+   "users": 119,
+   "sessions": 140,
+   "new_users": 85
+  },
+  {
+   "date": "2025-05-19",
+   "users": 155,
+   "sessions": 204,
+   "new_users": 103
+  },
+  {
+   "date": "2025-05-20",
+   "users": 147,
+   "sessions": 178,
+   "new_users": 100
+  },
+  {
+   "date": "2025-05-21",
+   "users": 149,
+   "sessions": 184,
+   "new_users": 108
+  },
+  {
+   "date": "2025-05-22",
+   "users": 139,
+   "sessions": 176,
+   "new_users": 97
+  },
+  {
+   "date": "2025-05-23",
+   "users": 95,
+   "sessions": 112,
+   "new_users": 72
+  },
+  {
+   "date": "2025-05-24",
+   "users": 107,
+   "sessions": 125,
+   "new_users": 74
+  },
+  {
+   "date": "2025-05-25",
+   "users": 107,
+   "sessions": 120,
+   "new_users": 73
+  },
+  {
+   "date": "2025-05-26",
+   "users": 167,
+   "sessions": 197,
+   "new_users": 123
+  },
+  {
+   "date": "2025-05-27",
+   "users": 194,
+   "sessions": 259,
+   "new_users": 122
+  },
+  {
+   "date": "2025-05-28",
+   "users": 118,
+   "sessions": 134,
+   "new_users": 81
+  },
+  {
+   "date": "2025-05-29",
+   "users": 110,
+   "sessions": 131,
+   "new_users": 72
+  },
+  {
+   "date": "2025-05-30",
+   "users": 93,
+   "sessions": 110,
+   "new_users": 69
+  },
+  {
+   "date": "2025-05-31",
+   "users": 121,
+   "sessions": 154,
+   "new_users": 91
+  },
+  {
+   "date": "2025-06-01",
+   "users": 112,
+   "sessions": 138,
+   "new_users": 88
+  },
+  {
+   "date": "2025-06-02",
+   "users": 131,
+   "sessions": 161,
+   "new_users": 90
+  },
+  {
+   "date": "2025-06-03",
+   "users": 124,
+   "sessions": 158,
+   "new_users": 88
+  },
+  {
+   "date": "2025-06-04",
+   "users": 101,
+   "sessions": 128,
+   "new_users": 74
+  },
+  {
+   "date": "2025-06-05",
+   "users": 94,
+   "sessions": 115,
+   "new_users": 69
+  },
+  {
+   "date": "2025-06-06",
+   "users": 106,
+   "sessions": 130,
+   "new_users": 68
+  },
+  {
+   "date": "2025-06-07",
+   "users": 99,
+   "sessions": 112,
+   "new_users": 80
+  },
+  {
+   "date": "2025-06-08",
+   "users": 110,
+   "sessions": 131,
+   "new_users": 80
+  },
+  {
+   "date": "2025-06-09",
+   "users": 121,
+   "sessions": 142,
+   "new_users": 89
+  },
+  {
+   "date": "2025-06-10",
+   "users": 104,
+   "sessions": 118,
+   "new_users": 74
+  },
+  {
+   "date": "2025-06-11",
+   "users": 145,
+   "sessions": 170,
+   "new_users": 102
+  },
+  {
+   "date": "2025-06-12",
+   "users": 179,
+   "sessions": 223,
+   "new_users": 124
+  },
+  {
+   "date": "2025-06-13",
+   "users": 189,
+   "sessions": 233,
+   "new_users": 131
+  },
+  {
+   "date": "2025-06-14",
+   "users": 203,
+   "sessions": 247,
+   "new_users": 143
+  },
+  {
+   "date": "2025-06-15",
+   "users": 158,
+   "sessions": 175,
+   "new_users": 123
+  },
+  {
+   "date": "2025-06-16",
+   "users": 186,
+   "sessions": 209,
+   "new_users": 144
+  },
+  {
+   "date": "2025-06-17",
+   "users": 155,
+   "sessions": 195,
+   "new_users": 110
+  },
+  {
+   "date": "2025-06-18",
+   "users": 60,
+   "sessions": 72,
+   "new_users": 35
+  },
+  {
+   "date": "2025-06-19",
+   "users": 42,
+   "sessions": 58,
+   "new_users": 21
+  },
+  {
+   "date": "2025-06-20",
+   "users": 33,
+   "sessions": 76,
+   "new_users": 0
+  },
+  {
+   "date": "2025-06-21",
+   "users": 34,
+   "sessions": 78,
+   "new_users": 0
+  },
+  {
+   "date": "2025-06-22",
+   "users": 33,
+   "sessions": 76,
+   "new_users": 0
+  },
+  {
+   "date": "2025-06-23",
+   "users": 52,
+   "sessions": 118,
+   "new_users": 1
+  },
+  {
+   "date": "2025-06-24",
+   "users": 44,
+   "sessions": 105,
+   "new_users": 1
+  },
+  {
+   "date": "2025-06-25",
+   "users": 44,
+   "sessions": 93,
+   "new_users": 1
+  },
+  {
+   "date": "2025-06-26",
+   "users": 27,
+   "sessions": 63,
+   "new_users": 1
+  },
+  {
+   "date": "2025-06-27",
+   "users": 22,
+   "sessions": 59,
+   "new_users": 1
+  },
+  {
+   "date": "2025-06-28",
+   "users": 20,
+   "sessions": 56,
+   "new_users": 0
+  },
+  {
+   "date": "2025-06-29",
+   "users": 34,
+   "sessions": 83,
+   "new_users": 1
+  },
+  {
+   "date": "2025-06-30",
+   "users": 35,
+   "sessions": 82,
+   "new_users": 0
+  },
+  {
+   "date": "2025-07-01",
+   "users": 38,
+   "sessions": 82,
+   "new_users": 0
+  },
+  {
+   "date": "2025-07-02",
+   "users": 35,
+   "sessions": 75,
+   "new_users": 0
+  },
+  {
+   "date": "2025-07-03",
+   "users": 29,
+   "sessions": 64,
+   "new_users": 0
+  },
+  {
+   "date": "2025-07-04",
+   "users": 15,
+   "sessions": 38,
+   "new_users": 0
+  },
+  {
+   "date": "2025-07-05",
+   "users": 20,
+   "sessions": 55,
+   "new_users": 2
+  },
+  {
+   "date": "2025-07-06",
+   "users": 32,
+   "sessions": 64,
+   "new_users": 0
+  },
+  {
+   "date": "2025-07-07",
+   "users": 37,
+   "sessions": 86,
+   "new_users": 0
+  },
+  {
+   "date": "2025-07-08",
+   "users": 34,
+   "sessions": 80,
+   "new_users": 1
+  },
+  {
+   "date": "2025-07-09",
+   "users": 24,
+   "sessions": 53,
+   "new_users": 0
+  },
+  {
+   "date": "2025-07-10",
+   "users": 29,
+   "sessions": 64,
+   "new_users": 0
+  },
+  {
+   "date": "2025-07-11",
+   "users": 27,
+   "sessions": 62,
+   "new_users": 0
+  },
+  {
+   "date": "2025-07-12",
+   "users": 20,
+   "sessions": 52,
+   "new_users": 0
+  },
+  {
+   "date": "2025-07-13",
+   "users": 31,
+   "sessions": 78,
+   "new_users": 0
+  },
+  {
+   "date": "2025-07-14",
+   "users": 62,
+   "sessions": 148,
+   "new_users": 1
+  },
+  {
+   "date": "2025-07-15",
+   "users": 32,
+   "sessions": 101,
+   "new_users": 0
+  },
+  {
+   "date": "2025-07-16",
+   "users": 116,
+   "sessions": 296,
+   "new_users": 1
+  },
+  {
+   "date": "2025-07-17",
+   "users": 94,
+   "sessions": 308,
+   "new_users": 0
+  },
+  {
+   "date": "2025-07-18",
+   "users": 110,
+   "sessions": 353,
+   "new_users": 0
+  },
+  {
+   "date": "2025-07-19",
+   "users": 92,
+   "sessions": 344,
+   "new_users": 0
+  },
+  {
+   "date": "2025-07-20",
+   "users": 118,
+   "sessions": 425,
+   "new_users": 0
+  },
+  {
+   "date": "2025-07-21",
+   "users": 112,
+   "sessions": 419,
+   "new_users": 0
+  },
+  {
+   "date": "2025-07-22",
+   "users": 56,
+   "sessions": 188,
+   "new_users": 0
+  },
+  {
+   "date": "2025-07-23",
+   "users": 236,
+   "sessions": 651,
+   "new_users": 1
+  },
+  {
+   "date": "2025-07-24",
+   "users": 191,
+   "sessions": 626,
+   "new_users": 0
+  },
+  {
+   "date": "2025-07-25",
+   "users": 157,
+   "sessions": 530,
+   "new_users": 1
+  },
+  {
+   "date": "2025-07-26",
+   "users": 141,
+   "sessions": 525,
+   "new_users": 1
+  },
+  {
+   "date": "2025-07-27",
+   "users": 183,
+   "sessions": 629,
+   "new_users": 5
+  },
+  {
+   "date": "2025-07-28",
+   "users": 143,
+   "sessions": 506,
+   "new_users": 1
+  },
+  {
+   "date": "2025-07-29",
+   "users": 155,
+   "sessions": 520,
+   "new_users": 0
+  },
+  {
+   "date": "2025-07-30",
+   "users": 161,
+   "sessions": 537,
+   "new_users": 1
+  },
+  {
+   "date": "2025-07-31",
+   "users": 148,
+   "sessions": 514,
+   "new_users": 1
+  },
+  {
+   "date": "2025-08-01",
+   "users": 112,
+   "sessions": 382,
+   "new_users": 0
+  },
+  {
+   "date": "2025-08-02",
+   "users": 85,
+   "sessions": 272,
+   "new_users": 1
+  },
+  {
+   "date": "2025-08-03",
+   "users": 111,
+   "sessions": 363,
+   "new_users": 0
+  },
+  {
+   "date": "2025-08-04",
+   "users": 87,
+   "sessions": 284,
+   "new_users": 0
+  },
+  {
+   "date": "2025-08-05",
+   "users": 113,
+   "sessions": 338,
+   "new_users": 0
+  },
+  {
+   "date": "2025-08-06",
+   "users": 113,
+   "sessions": 335,
+   "new_users": 2
+  },
+  {
+   "date": "2025-08-07",
+   "users": 83,
+   "sessions": 278,
+   "new_users": 1
+  },
+  {
+   "date": "2025-08-08",
+   "users": 111,
+   "sessions": 304,
+   "new_users": 2
+  },
+  {
+   "date": "2025-08-09",
+   "users": 94,
+   "sessions": 287,
+   "new_users": 0
+  },
+  {
+   "date": "2025-08-10",
+   "users": 95,
+   "sessions": 315,
+   "new_users": 0
+  },
+  {
+   "date": "2025-08-11",
+   "users": 98,
+   "sessions": 299,
+   "new_users": 1
+  },
+  {
+   "date": "2025-08-12",
+   "users": 119,
+   "sessions": 364,
+   "new_users": 2
+  },
+  {
+   "date": "2025-08-13",
+   "users": 125,
+   "sessions": 379,
+   "new_users": 0
+  },
+  {
+   "date": "2025-08-14",
+   "users": 107,
+   "sessions": 304,
+   "new_users": 0
+  },
+  {
+   "date": "2025-08-15",
+   "users": 113,
+   "sessions": 323,
+   "new_users": 0
+  },
+  {
+   "date": "2025-08-16",
+   "users": 106,
+   "sessions": 307,
+   "new_users": 0
+  },
+  {
+   "date": "2025-08-17",
+   "users": 136,
+   "sessions": 394,
+   "new_users": 0
+  },
+  {
+   "date": "2025-08-18",
+   "users": 147,
+   "sessions": 445,
+   "new_users": 0
+  },
+  {
+   "date": "2025-08-19",
+   "users": 146,
+   "sessions": 450,
+   "new_users": 1
+  },
+  {
+   "date": "2025-08-20",
+   "users": 118,
+   "sessions": 360,
+   "new_users": 0
+  },
+  {
+   "date": "2025-08-21",
+   "users": 108,
+   "sessions": 325,
+   "new_users": 0
+  },
+  {
+   "date": "2025-08-22",
+   "users": 99,
+   "sessions": 321,
+   "new_users": 2
+  },
+  {
+   "date": "2025-08-23",
+   "users": 89,
+   "sessions": 281,
+   "new_users": 1
+  },
+  {
+   "date": "2025-08-24",
+   "users": 110,
+   "sessions": 331,
+   "new_users": 0
+  },
+  {
+   "date": "2025-08-25",
+   "users": 99,
+   "sessions": 287,
+   "new_users": 1
+  },
+  {
+   "date": "2025-08-26",
+   "users": 108,
+   "sessions": 299,
+   "new_users": 4
+  },
+  {
+   "date": "2025-08-27",
+   "users": 107,
+   "sessions": 313,
+   "new_users": 1
+  },
+  {
+   "date": "2025-08-28",
+   "users": 97,
+   "sessions": 288,
+   "new_users": 3
+  },
+  {
+   "date": "2025-08-29",
+   "users": 116,
+   "sessions": 302,
+   "new_users": 1
+  },
+  {
+   "date": "2025-08-30",
+   "users": 166,
+   "sessions": 417,
+   "new_users": 4
+  },
+  {
+   "date": "2025-08-31",
+   "users": 163,
+   "sessions": 439,
+   "new_users": 4
+  },
+  {
+   "date": "2025-09-01",
+   "users": 132,
+   "sessions": 354,
+   "new_users": 0
+  },
+  {
+   "date": "2025-09-02",
+   "users": 122,
+   "sessions": 341,
+   "new_users": 2
+  },
+  {
+   "date": "2025-09-03",
+   "users": 110,
+   "sessions": 326,
+   "new_users": 1
+  },
+  {
+   "date": "2025-09-04",
+   "users": 107,
+   "sessions": 283,
+   "new_users": 0
+  },
+  {
+   "date": "2025-09-05",
+   "users": 98,
+   "sessions": 293,
+   "new_users": 3
+  },
+  {
+   "date": "2025-09-06",
+   "users": 105,
+   "sessions": 296,
+   "new_users": 1
+  },
+  {
+   "date": "2025-09-07",
+   "users": 111,
+   "sessions": 319,
+   "new_users": 2
+  },
+  {
+   "date": "2025-09-08",
+   "users": 104,
+   "sessions": 294,
+   "new_users": 2
+  },
+  {
+   "date": "2025-09-09",
+   "users": 95,
+   "sessions": 273,
+   "new_users": 1
+  },
+  {
+   "date": "2025-09-10",
+   "users": 125,
+   "sessions": 344,
+   "new_users": 0
+  },
+  {
+   "date": "2025-09-11",
+   "users": 99,
+   "sessions": 274,
+   "new_users": 2
+  },
+  {
+   "date": "2025-09-12",
+   "users": 96,
+   "sessions": 266,
+   "new_users": 1
+  },
+  {
+   "date": "2025-09-13",
+   "users": 109,
+   "sessions": 309,
+   "new_users": 0
+  },
+  {
+   "date": "2025-09-14",
+   "users": 109,
+   "sessions": 301,
+   "new_users": 3
+  },
+  {
+   "date": "2025-09-15",
+   "users": 131,
+   "sessions": 355,
+   "new_users": 1
+  },
+  {
+   "date": "2025-09-16",
+   "users": 129,
+   "sessions": 341,
+   "new_users": 0
+  },
+  {
+   "date": "2025-09-17",
+   "users": 117,
+   "sessions": 290,
+   "new_users": 1
+  },
+  {
+   "date": "2025-09-18",
+   "users": 111,
+   "sessions": 302,
+   "new_users": 2
+  },
+  {
+   "date": "2025-09-19",
+   "users": 106,
+   "sessions": 308,
+   "new_users": 0
+  },
+  {
+   "date": "2025-09-20",
+   "users": 114,
+   "sessions": 318,
+   "new_users": 1
+  },
+  {
+   "date": "2025-09-21",
+   "users": 170,
+   "sessions": 426,
+   "new_users": 0
+  },
+  {
+   "date": "2025-09-22",
+   "users": 139,
+   "sessions": 363,
+   "new_users": 0
+  },
+  {
+   "date": "2025-09-23",
+   "users": 117,
+   "sessions": 314,
+   "new_users": 1
+  },
+  {
+   "date": "2025-09-24",
+   "users": 105,
+   "sessions": 289,
+   "new_users": 3
+  },
+  {
+   "date": "2025-09-25",
+   "users": 169,
+   "sessions": 419,
+   "new_users": 1
+  },
+  {
+   "date": "2025-09-26",
+   "users": 135,
+   "sessions": 349,
+   "new_users": 2
+  },
+  {
+   "date": "2025-09-27",
+   "users": 120,
+   "sessions": 316,
+   "new_users": 1
+  },
+  {
+   "date": "2025-09-28",
+   "users": 119,
+   "sessions": 325,
+   "new_users": 3
+  },
+  {
+   "date": "2025-09-29",
+   "users": 138,
+   "sessions": 371,
+   "new_users": 0
+  },
+  {
+   "date": "2025-09-30",
+   "users": 159,
+   "sessions": 385,
+   "new_users": 7
+  },
+  {
+   "date": "2025-10-01",
+   "users": 142,
+   "sessions": 384,
+   "new_users": 4
+  },
+  {
+   "date": "2025-10-02",
+   "users": 104,
+   "sessions": 276,
+   "new_users": 1
+  },
+  {
+   "date": "2025-10-03",
+   "users": 108,
+   "sessions": 282,
+   "new_users": 0
+  },
+  {
+   "date": "2025-10-04",
+   "users": 102,
+   "sessions": 266,
+   "new_users": 3
+  },
+  {
+   "date": "2025-10-05",
+   "users": 127,
+   "sessions": 330,
+   "new_users": 2
+  },
+  {
+   "date": "2025-10-06",
+   "users": 158,
+   "sessions": 359,
+   "new_users": 1
+  },
+  {
+   "date": "2025-10-07",
+   "users": 103,
+   "sessions": 281,
+   "new_users": 1
+  },
+  {
+   "date": "2025-10-08",
+   "users": 106,
+   "sessions": 280,
+   "new_users": 1
+  },
+  {
+   "date": "2025-10-09",
+   "users": 79,
+   "sessions": 209,
+   "new_users": 2
+  },
+  {
+   "date": "2025-10-10",
+   "users": 74,
+   "sessions": 181,
+   "new_users": 2
+  },
+  {
+   "date": "2025-10-11",
+   "users": 90,
+   "sessions": 227,
+   "new_users": 2
+  },
+  {
+   "date": "2025-10-12",
+   "users": 116,
+   "sessions": 317,
+   "new_users": 3
+  },
+  {
+   "date": "2025-10-13",
+   "users": 148,
+   "sessions": 348,
+   "new_users": 1
+  },
+  {
+   "date": "2025-10-14",
+   "users": 150,
+   "sessions": 337,
+   "new_users": 4
+  },
+  {
+   "date": "2025-10-15",
+   "users": 98,
+   "sessions": 268,
+   "new_users": 3
+  },
+  {
+   "date": "2025-10-16",
+   "users": 89,
+   "sessions": 225,
+   "new_users": 4
+  },
+  {
+   "date": "2025-10-17",
+   "users": 107,
+   "sessions": 250,
+   "new_users": 2
+  },
+  {
+   "date": "2025-10-18",
+   "users": 79,
+   "sessions": 198,
+   "new_users": 3
+  },
+  {
+   "date": "2025-10-19",
+   "users": 72,
+   "sessions": 195,
+   "new_users": 2
+  },
+  {
+   "date": "2025-10-20",
+   "users": 108,
+   "sessions": 278,
+   "new_users": 2
+  },
+  {
+   "date": "2025-10-21",
+   "users": 93,
+   "sessions": 228,
+   "new_users": 2
+  },
+  {
+   "date": "2025-10-22",
+   "users": 115,
+   "sessions": 301,
+   "new_users": 5
+  },
+  {
+   "date": "2025-10-23",
+   "users": 109,
+   "sessions": 277,
+   "new_users": 4
+  },
+  {
+   "date": "2025-10-24",
+   "users": 106,
+   "sessions": 281,
+   "new_users": 2
+  },
+  {
+   "date": "2025-10-25",
+   "users": 102,
+   "sessions": 255,
+   "new_users": 4
+  },
+  {
+   "date": "2025-10-26",
+   "users": 100,
+   "sessions": 243,
+   "new_users": 2
+  },
+  {
+   "date": "2025-10-27",
+   "users": 139,
+   "sessions": 360,
+   "new_users": 1
+  },
+  {
+   "date": "2025-10-28",
+   "users": 133,
+   "sessions": 349,
+   "new_users": 5
+  },
+  {
+   "date": "2025-10-29",
+   "users": 120,
+   "sessions": 294,
+   "new_users": 3
+  },
+  {
+   "date": "2025-10-30",
+   "users": 163,
+   "sessions": 200,
+   "new_users": 127
+  },
+  {
+   "date": "2025-10-31",
+   "users": 208,
+   "sessions": 256,
+   "new_users": 176
+  },
+  {
+   "date": "2025-11-01",
+   "users": 178,
+   "sessions": 216,
+   "new_users": 152
+  },
+  {
+   "date": "2025-11-02",
+   "users": 207,
+   "sessions": 248,
+   "new_users": 184
+  },
+  {
+   "date": "2025-11-03",
+   "users": 247,
+   "sessions": 305,
+   "new_users": 213
+  },
+  {
+   "date": "2025-11-04",
+   "users": 1344,
+   "sessions": 1513,
+   "new_users": 1266
+  },
+  {
+   "date": "2025-11-05",
+   "users": 1994,
+   "sessions": 2431,
+   "new_users": 1776
+  },
+  {
+   "date": "2025-11-06",
+   "users": 1114,
+   "sessions": 1369,
+   "new_users": 961
+  },
+  {
+   "date": "2025-11-07",
+   "users": 461,
+   "sessions": 572,
+   "new_users": 383
+  },
+  {
+   "date": "2025-11-08",
+   "users": 278,
+   "sessions": 357,
+   "new_users": 238
+  },
+  {
+   "date": "2025-11-09",
+   "users": 263,
+   "sessions": 325,
+   "new_users": 222
+  },
+  {
+   "date": "2025-11-10",
+   "users": 219,
+   "sessions": 314,
+   "new_users": 172
+  },
+  {
+   "date": "2025-11-11",
+   "users": 201,
+   "sessions": 284,
+   "new_users": 157
+  },
+  {
+   "date": "2025-11-12",
+   "users": 259,
+   "sessions": 311,
+   "new_users": 227
+  },
+  {
+   "date": "2025-11-13",
+   "users": 191,
+   "sessions": 257,
+   "new_users": 158
+  },
+  {
+   "date": "2025-11-14",
+   "users": 148,
+   "sessions": 193,
+   "new_users": 119
+  },
+  {
+   "date": "2025-11-15",
+   "users": 178,
+   "sessions": 220,
+   "new_users": 155
+  },
+  {
+   "date": "2025-11-16",
+   "users": 184,
+   "sessions": 234,
+   "new_users": 165
+  },
+  {
+   "date": "2025-11-17",
+   "users": 176,
+   "sessions": 222,
+   "new_users": 150
+  },
+  {
+   "date": "2025-11-18",
+   "users": 151,
+   "sessions": 190,
+   "new_users": 128
+  },
+  {
+   "date": "2025-11-19",
+   "users": 148,
+   "sessions": 188,
+   "new_users": 114
+  },
+  {
+   "date": "2025-11-20",
+   "users": 152,
+   "sessions": 186,
+   "new_users": 128
+  },
+  {
+   "date": "2025-11-21",
+   "users": 130,
+   "sessions": 154,
+   "new_users": 108
+  },
+  {
+   "date": "2025-11-22",
+   "users": 144,
+   "sessions": 176,
+   "new_users": 123
+  },
+  {
+   "date": "2025-11-23",
+   "users": 117,
+   "sessions": 138,
+   "new_users": 95
+  },
+  {
+   "date": "2025-11-24",
+   "users": 155,
+   "sessions": 193,
+   "new_users": 128
+  },
+  {
+   "date": "2025-11-25",
+   "users": 167,
+   "sessions": 213,
+   "new_users": 146
+  },
+  {
+   "date": "2025-11-26",
+   "users": 151,
+   "sessions": 192,
+   "new_users": 122
+  },
+  {
+   "date": "2025-11-27",
+   "users": 144,
+   "sessions": 187,
+   "new_users": 112
+  },
+  {
+   "date": "2025-11-28",
+   "users": 115,
+   "sessions": 143,
+   "new_users": 89
+  },
+  {
+   "date": "2025-11-29",
+   "users": 126,
+   "sessions": 174,
+   "new_users": 114
+  },
+  {
+   "date": "2025-11-30",
+   "users": 146,
+   "sessions": 184,
+   "new_users": 128
+  },
+  {
+   "date": "2025-12-01",
+   "users": 164,
+   "sessions": 203,
+   "new_users": 137
+  },
+  {
+   "date": "2025-12-02",
+   "users": 152,
+   "sessions": 191,
+   "new_users": 133
+  },
+  {
+   "date": "2025-12-03",
+   "users": 176,
+   "sessions": 214,
+   "new_users": 157
+  },
+  {
+   "date": "2025-12-04",
+   "users": 180,
+   "sessions": 229,
+   "new_users": 149
+  },
+  {
+   "date": "2025-12-05",
+   "users": 113,
+   "sessions": 149,
+   "new_users": 92
+  },
+  {
+   "date": "2025-12-06",
+   "users": 75,
+   "sessions": 94,
+   "new_users": 61
+  },
+  {
+   "date": "2025-12-07",
+   "users": 66,
+   "sessions": 86,
+   "new_users": 51
+  },
+  {
+   "date": "2025-12-08",
+   "users": 84,
+   "sessions": 107,
+   "new_users": 63
+  },
+  {
+   "date": "2025-12-09",
+   "users": 135,
+   "sessions": 172,
+   "new_users": 110
+  },
+  {
+   "date": "2025-12-10",
+   "users": 69,
+   "sessions": 90,
+   "new_users": 53
+  },
+  {
+   "date": "2025-12-11",
+   "users": 72,
+   "sessions": 101,
+   "new_users": 51
+  },
+  {
+   "date": "2025-12-12",
+   "users": 70,
+   "sessions": 94,
+   "new_users": 51
+  },
+  {
+   "date": "2025-12-13",
+   "users": 72,
+   "sessions": 85,
+   "new_users": 59
+  },
+  {
+   "date": "2025-12-14",
+   "users": 86,
+   "sessions": 100,
+   "new_users": 75
+  },
+  {
+   "date": "2025-12-15",
+   "users": 87,
+   "sessions": 112,
+   "new_users": 69
+  },
+  {
+   "date": "2025-12-16",
+   "users": 74,
+   "sessions": 99,
+   "new_users": 58
+  },
+  {
+   "date": "2025-12-17",
+   "users": 67,
+   "sessions": 91,
+   "new_users": 52
+  },
+  {
+   "date": "2025-12-18",
+   "users": 60,
+   "sessions": 80,
+   "new_users": 39
+  },
+  {
+   "date": "2025-12-19",
+   "users": 59,
+   "sessions": 72,
+   "new_users": 47
+  },
+  {
+   "date": "2025-12-20",
+   "users": 57,
+   "sessions": 69,
+   "new_users": 44
+  },
+  {
+   "date": "2025-12-21",
+   "users": 56,
+   "sessions": 72,
+   "new_users": 47
+  },
+  {
+   "date": "2025-12-22",
+   "users": 59,
+   "sessions": 83,
+   "new_users": 47
+  },
+  {
+   "date": "2025-12-23",
+   "users": 47,
+   "sessions": 64,
+   "new_users": 35
+  },
+  {
+   "date": "2025-12-24",
+   "users": 43,
+   "sessions": 52,
+   "new_users": 31
+  },
+  {
+   "date": "2025-12-25",
+   "users": 37,
+   "sessions": 46,
+   "new_users": 30
+  },
+  {
+   "date": "2025-12-26",
+   "users": 64,
+   "sessions": 80,
+   "new_users": 49
+  },
+  {
+   "date": "2025-12-27",
+   "users": 42,
+   "sessions": 54,
+   "new_users": 35
+  },
+  {
+   "date": "2025-12-28",
+   "users": 79,
+   "sessions": 91,
+   "new_users": 67
+  },
+  {
+   "date": "2025-12-29",
+   "users": 68,
+   "sessions": 78,
+   "new_users": 55
+  },
+  {
+   "date": "2025-12-30",
+   "users": 63,
+   "sessions": 75,
+   "new_users": 50
+  },
+  {
+   "date": "2025-12-31",
+   "users": 33,
+   "sessions": 45,
+   "new_users": 28
+  },
+  {
+   "date": "2026-01-01",
+   "users": 59,
+   "sessions": 75,
+   "new_users": 50
+  },
+  {
+   "date": "2026-01-02",
+   "users": 65,
+   "sessions": 90,
+   "new_users": 48
+  },
+  {
+   "date": "2026-01-03",
+   "users": 43,
+   "sessions": 59,
+   "new_users": 34
+  },
+  {
+   "date": "2026-01-04",
+   "users": 71,
+   "sessions": 82,
+   "new_users": 60
+  },
+  {
+   "date": "2026-01-05",
+   "users": 67,
+   "sessions": 85,
+   "new_users": 53
+  },
+  {
+   "date": "2026-01-06",
+   "users": 57,
+   "sessions": 74,
+   "new_users": 46
+  },
+  {
+   "date": "2026-01-07",
+   "users": 72,
+   "sessions": 90,
+   "new_users": 53
+  },
+  {
+   "date": "2026-01-08",
+   "users": 54,
+   "sessions": 77,
+   "new_users": 40
+  },
+  {
+   "date": "2026-01-09",
+   "users": 77,
+   "sessions": 100,
+   "new_users": 62
+  },
+  {
+   "date": "2026-01-10",
+   "users": 71,
+   "sessions": 92,
+   "new_users": 57
+  },
+  {
+   "date": "2026-01-11",
+   "users": 66,
+   "sessions": 82,
+   "new_users": 57
+  },
+  {
+   "date": "2026-01-12",
+   "users": 82,
+   "sessions": 105,
+   "new_users": 71
+  },
+  {
+   "date": "2026-01-13",
+   "users": 60,
+   "sessions": 76,
+   "new_users": 53
+  },
+  {
+   "date": "2026-01-14",
+   "users": 69,
+   "sessions": 81,
+   "new_users": 57
+  },
+  {
+   "date": "2026-01-15",
+   "users": 59,
+   "sessions": 84,
+   "new_users": 46
+  },
+  {
+   "date": "2026-01-16",
+   "users": 72,
+   "sessions": 87,
+   "new_users": 57
+  },
+  {
+   "date": "2026-01-17",
+   "users": 67,
+   "sessions": 80,
+   "new_users": 59
+  },
+  {
+   "date": "2026-01-18",
+   "users": 82,
+   "sessions": 97,
+   "new_users": 72
+  },
+  {
+   "date": "2026-01-19",
+   "users": 90,
+   "sessions": 112,
+   "new_users": 75
+  },
+  {
+   "date": "2026-01-20",
+   "users": 86,
+   "sessions": 104,
+   "new_users": 70
+  },
+  {
+   "date": "2026-01-21",
+   "users": 108,
+   "sessions": 134,
+   "new_users": 95
+  },
+  {
+   "date": "2026-01-22",
+   "users": 86,
+   "sessions": 104,
+   "new_users": 71
+  },
+  {
+   "date": "2026-01-23",
+   "users": 68,
+   "sessions": 85,
+   "new_users": 54
+  },
+  {
+   "date": "2026-01-24",
+   "users": 71,
+   "sessions": 91,
+   "new_users": 55
+  },
+  {
+   "date": "2026-01-25",
+   "users": 64,
+   "sessions": 81,
+   "new_users": 51
+  },
+  {
+   "date": "2026-01-26",
+   "users": 81,
+   "sessions": 109,
+   "new_users": 55
+  },
+  {
+   "date": "2026-01-27",
+   "users": 96,
+   "sessions": 114,
+   "new_users": 79
+  },
+  {
+   "date": "2026-01-28",
+   "users": 76,
+   "sessions": 87,
+   "new_users": 63
+  },
+  {
+   "date": "2026-01-29",
+   "users": 64,
+   "sessions": 70,
+   "new_users": 51
+  },
+  {
+   "date": "2026-01-30",
+   "users": 69,
+   "sessions": 84,
+   "new_users": 58
+  },
+  {
+   "date": "2026-01-31",
+   "users": 50,
+   "sessions": 55,
+   "new_users": 44
+  },
+  {
+   "date": "2026-02-01",
+   "users": 92,
+   "sessions": 102,
+   "new_users": 85
+  },
+  {
+   "date": "2026-02-02",
+   "users": 93,
+   "sessions": 105,
+   "new_users": 77
+  },
+  {
+   "date": "2026-02-03",
+   "users": 74,
+   "sessions": 90,
+   "new_users": 69
+  },
+  {
+   "date": "2026-02-04",
+   "users": 92,
+   "sessions": 104,
+   "new_users": 81
+  },
+  {
+   "date": "2026-02-05",
+   "users": 87,
+   "sessions": 100,
+   "new_users": 77
+  },
+  {
+   "date": "2026-02-06",
+   "users": 107,
+   "sessions": 115,
+   "new_users": 100
+  },
+  {
+   "date": "2026-02-07",
+   "users": 43,
+   "sessions": 48,
+   "new_users": 38
+  },
+  {
+   "date": "2026-02-08",
+   "users": 57,
+   "sessions": 75,
+   "new_users": 51
+  },
+  {
+   "date": "2026-02-09",
+   "users": 63,
+   "sessions": 82,
+   "new_users": 47
+  },
+  {
+   "date": "2026-02-10",
+   "users": 68,
+   "sessions": 78,
+   "new_users": 57
+  },
+  {
+   "date": "2026-02-11",
+   "users": 69,
+   "sessions": 91,
+   "new_users": 51
+  },
+  {
+   "date": "2026-02-12",
+   "users": 94,
+   "sessions": 128,
+   "new_users": 77
+  },
+  {
+   "date": "2026-02-13",
+   "users": 142,
+   "sessions": 172,
+   "new_users": 125
+  },
+  {
+   "date": "2026-02-14",
+   "users": 76,
+   "sessions": 90,
+   "new_users": 69
+  },
+  {
+   "date": "2026-02-15",
+   "users": 67,
+   "sessions": 73,
+   "new_users": 60
+  },
+  {
+   "date": "2026-02-16",
+   "users": 50,
+   "sessions": 65,
+   "new_users": 42
+  },
+  {
+   "date": "2026-02-17",
+   "users": 61,
+   "sessions": 71,
+   "new_users": 49
+  },
+  {
+   "date": "2026-02-18",
+   "users": 152,
+   "sessions": 195,
+   "new_users": 133
+  },
+  {
+   "date": "2026-02-19",
+   "users": 134,
+   "sessions": 160,
+   "new_users": 114
+  },
+  {
+   "date": "2026-02-20",
+   "users": 61,
+   "sessions": 78,
+   "new_users": 48
+  },
+  {
+   "date": "2026-02-21",
+   "users": 78,
+   "sessions": 93,
+   "new_users": 67
+  },
+  {
+   "date": "2026-02-22",
+   "users": 154,
+   "sessions": 166,
+   "new_users": 137
+  },
+  {
+   "date": "2026-02-23",
+   "users": 162,
+   "sessions": 193,
+   "new_users": 144
+  },
+  {
+   "date": "2026-02-24",
+   "users": 102,
+   "sessions": 139,
+   "new_users": 78
+  },
+  {
+   "date": "2026-02-25",
+   "users": 70,
+   "sessions": 88,
+   "new_users": 58
+  },
+  {
+   "date": "2026-02-26",
+   "users": 91,
+   "sessions": 115,
+   "new_users": 69
+  },
+  {
+   "date": "2026-02-27",
+   "users": 83,
+   "sessions": 99,
+   "new_users": 66
+  },
+  {
+   "date": "2026-02-28",
+   "users": 54,
+   "sessions": 71,
+   "new_users": 46
+  },
+  {
+   "date": "2026-03-01",
+   "users": 60,
+   "sessions": 65,
+   "new_users": 49
+  },
+  {
+   "date": "2026-03-02",
+   "users": 284,
+   "sessions": 328,
+   "new_users": 264
+  },
+  {
+   "date": "2026-03-03",
+   "users": 222,
+   "sessions": 263,
+   "new_users": 195
+  },
+  {
+   "date": "2026-03-04",
+   "users": 151,
+   "sessions": 178,
+   "new_users": 124
+  },
+  {
+   "date": "2026-03-05",
+   "users": 112,
+   "sessions": 132,
+   "new_users": 90
+  },
+  {
+   "date": "2026-03-06",
+   "users": 174,
+   "sessions": 202,
+   "new_users": 150
+  },
+  {
+   "date": "2026-03-07",
+   "users": 243,
+   "sessions": 275,
+   "new_users": 228
+  },
+  {
+   "date": "2026-03-08",
+   "users": 288,
+   "sessions": 318,
+   "new_users": 271
+  },
+  {
+   "date": "2026-03-09",
+   "users": 181,
+   "sessions": 216,
+   "new_users": 152
+  },
+  {
+   "date": "2026-03-10",
+   "users": 81,
+   "sessions": 111,
+   "new_users": 57
+  },
+  {
+   "date": "2026-03-11",
+   "users": 74,
+   "sessions": 88,
+   "new_users": 65
+  },
+  {
+   "date": "2026-03-12",
+   "users": 82,
+   "sessions": 109,
+   "new_users": 62
+  },
+  {
+   "date": "2026-03-13",
+   "users": 328,
+   "sessions": 369,
+   "new_users": 311
+  },
+  {
+   "date": "2026-03-14",
+   "users": 120,
+   "sessions": 141,
+   "new_users": 113
+  },
+  {
+   "date": "2026-03-15",
+   "users": 139,
+   "sessions": 163,
+   "new_users": 130
+  },
+  {
+   "date": "2026-03-16",
+   "users": 112,
+   "sessions": 139,
+   "new_users": 96
+  },
+  {
+   "date": "2026-03-17",
+   "users": 157,
+   "sessions": 200,
+   "new_users": 129
+  },
+  {
+   "date": "2026-03-18",
+   "users": 130,
+   "sessions": 164,
+   "new_users": 113
+  },
+  {
+   "date": "2026-03-19",
+   "users": 217,
+   "sessions": 239,
+   "new_users": 201
+  },
+  {
+   "date": "2026-03-20",
+   "users": 185,
+   "sessions": 204,
+   "new_users": 172
+  },
+  {
+   "date": "2026-03-21",
+   "users": 159,
+   "sessions": 177,
+   "new_users": 147
+  },
+  {
+   "date": "2026-03-22",
+   "users": 109,
+   "sessions": 125,
+   "new_users": 99
+  },
+  {
+   "date": "2026-03-23",
+   "users": 128,
+   "sessions": 146,
+   "new_users": 109
+  },
+  {
+   "date": "2026-03-24",
+   "users": 89,
+   "sessions": 106,
+   "new_users": 79
+  },
+  {
+   "date": "2026-03-25",
+   "users": 101,
+   "sessions": 119,
+   "new_users": 82
+  },
+  {
+   "date": "2026-03-26",
+   "users": 86,
+   "sessions": 104,
+   "new_users": 72
+  },
+  {
+   "date": "2026-03-27",
+   "users": 89,
+   "sessions": 103,
+   "new_users": 79
+  },
+  {
+   "date": "2026-03-28",
+   "users": 90,
+   "sessions": 103,
+   "new_users": 75
+  },
+  {
+   "date": "2026-03-29",
+   "users": 200,
+   "sessions": 220,
+   "new_users": 176
+  },
+  {
+   "date": "2026-03-30",
+   "users": 198,
+   "sessions": 232,
+   "new_users": 169
+  },
+  {
+   "date": "2026-03-31",
+   "users": 92,
+   "sessions": 104,
+   "new_users": 77
+  },
+  {
+   "date": "2026-04-01",
+   "users": 107,
+   "sessions": 119,
+   "new_users": 91
+  },
+  {
+   "date": "2026-04-02",
+   "users": 100,
+   "sessions": 108,
+   "new_users": 88
+  },
+  {
+   "date": "2026-04-03",
+   "users": 77,
+   "sessions": 87,
+   "new_users": 68
+  },
+  {
+   "date": "2026-04-04",
+   "users": 40,
+   "sessions": 49,
+   "new_users": 30
+  },
+  {
+   "date": "2026-04-05",
+   "users": 68,
+   "sessions": 79,
+   "new_users": 54
+  },
+  {
+   "date": "2026-04-06",
+   "users": 85,
+   "sessions": 114,
+   "new_users": 65
+  },
+  {
+   "date": "2026-04-07",
+   "users": 266,
+   "sessions": 296,
+   "new_users": 227
+  },
+  {
+   "date": "2026-04-08",
+   "users": 111,
+   "sessions": 149,
+   "new_users": 84
+  },
+  {
+   "date": "2026-04-09",
+   "users": 88,
+   "sessions": 116,
+   "new_users": 88
+  },
+  {
+   "date": "2026-04-10",
+   "users": 68,
+   "sessions": 79,
+   "new_users": 57
+  },
+  {
+   "date": "2026-04-11",
+   "users": 60,
+   "sessions": 72,
+   "new_users": 44
+  },
+  {
+   "date": "2026-04-12",
+   "users": 80,
+   "sessions": 89,
+   "new_users": 70
+  },
+  {
+   "date": "2026-04-13",
+   "users": 94,
+   "sessions": 106,
+   "new_users": 75
+  },
+  {
+   "date": "2026-04-14",
+   "users": 90,
+   "sessions": 111,
+   "new_users": 70
+  },
+  {
+   "date": "2026-04-15",
+   "users": 87,
+   "sessions": 98,
+   "new_users": 72
+  },
+  {
+   "date": "2026-04-16",
+   "users": 276,
+   "sessions": 319,
+   "new_users": 218
+  },
+  {
+   "date": "2026-04-17",
+   "users": 114,
+   "sessions": 130,
+   "new_users": 88
+  },
+  {
+   "date": "2026-04-18",
+   "users": 89,
+   "sessions": 112,
+   "new_users": 89
+  },
+  {
+   "date": "2026-04-19",
+   "users": 82,
+   "sessions": 95,
+   "new_users": 71
+  },
+  {
+   "date": "2026-04-20",
+   "users": 91,
+   "sessions": 114,
+   "new_users": 72
+  },
+  {
+   "date": "2026-04-21",
+   "users": 200,
+   "sessions": 230,
+   "new_users": 162
+  },
+  {
+   "date": "2026-04-22",
+   "users": 387,
+   "sessions": 443,
+   "new_users": 328
+  },
+  {
+   "date": "2026-04-23",
+   "users": 119,
+   "sessions": 159,
+   "new_users": 86
+  },
+  {
+   "date": "2026-04-24",
+   "users": 89,
+   "sessions": 109,
+   "new_users": 90
+  },
+  {
+   "date": "2026-04-25",
+   "users": 74,
+   "sessions": 82,
+   "new_users": 62
+  },
+  {
+   "date": "2026-04-26",
+   "users": 77,
+   "sessions": 91,
+   "new_users": 65
+  },
+  {
+   "date": "2026-04-27",
+   "users": 85,
+   "sessions": 115,
+   "new_users": 62
+  },
+  {
+   "date": "2026-04-28",
+   "users": 68,
+   "sessions": 85,
+   "new_users": 57
+  },
+  {
+   "date": "2026-04-29",
+   "users": 170,
+   "sessions": 214,
+   "new_users": 118
+  },
+  {
+   "date": "2026-04-30",
+   "users": 94,
+   "sessions": 119,
+   "new_users": 70
+  },
+  {
+   "date": "2026-05-01",
+   "users": 170,
+   "sessions": 194,
+   "new_users": 169
+  },
+  {
+   "date": "2026-05-02",
+   "users": 189,
+   "sessions": 231,
+   "new_users": 137
+  },
+  {
+   "date": "2026-05-03",
+   "users": 185,
+   "sessions": 222,
+   "new_users": 144
+  },
+  {
+   "date": "2026-05-04",
+   "users": 123,
+   "sessions": 162,
+   "new_users": 89
+  },
+  {
+   "date": "2026-05-05",
+   "users": 89,
+   "sessions": 124,
+   "new_users": 59
+  },
+  {
+   "date": "2026-05-06",
+   "users": 95,
+   "sessions": 116,
+   "new_users": 72
+  },
+  {
+   "date": "2026-05-07",
+   "users": 248,
+   "sessions": 308,
+   "new_users": 168
+  },
+  {
+   "date": "2026-05-08",
+   "users": 101,
+   "sessions": 130,
+   "new_users": 76
+  },
+  {
+   "date": "2026-05-09",
+   "users": 76,
+   "sessions": 88,
+   "new_users": 76
+  },
+  {
+   "date": "2026-05-10",
+   "users": 105,
+   "sessions": 130,
+   "new_users": 87
+  },
+  {
+   "date": "2026-05-11",
+   "users": 113,
+   "sessions": 147,
+   "new_users": 78
+  },
+  {
+   "date": "2026-05-12",
+   "users": 72,
+   "sessions": 97,
+   "new_users": 56
+  },
+  {
+   "date": "2026-05-13",
+   "users": 54,
+   "sessions": 71,
+   "new_users": 42
+  },
+  {
+   "date": "2026-05-14",
+   "users": 67,
+   "sessions": 93,
+   "new_users": 46
+  },
+  {
+   "date": "2026-05-15",
+   "users": 62,
+   "sessions": 77,
+   "new_users": 47
+  },
+  {
+   "date": "2026-05-16",
+   "users": 126,
+   "sessions": 151,
+   "new_users": 86
+  },
+  {
+   "date": "2026-05-17",
+   "users": 104,
+   "sessions": 121,
+   "new_users": 82
+  },
+  {
+   "date": "2026-05-18",
+   "users": 88,
+   "sessions": 109,
+   "new_users": 63
+  },
+  {
+   "date": "2026-05-19",
+   "users": 106,
+   "sessions": 125,
+   "new_users": 87
+  },
+  {
+   "date": "2026-05-20",
+   "users": 86,
+   "sessions": 103,
+   "new_users": 69
+  },
+  {
+   "date": "2026-05-21",
+   "users": 183,
+   "sessions": 222,
+   "new_users": 126
+  },
+  {
+   "date": "2026-05-22",
+   "users": 91,
+   "sessions": 112,
+   "new_users": 65
+  },
+  {
+   "date": "2026-05-23",
+   "users": 186,
+   "sessions": 213,
+   "new_users": 160
+  },
+  {
+   "date": "2026-05-24",
+   "users": 189,
+   "sessions": 225,
+   "new_users": 168
+  },
+  {
+   "date": "2026-05-25",
+   "users": 158,
+   "sessions": 216,
+   "new_users": 128
+  },
+  {
+   "date": "2026-05-26",
+   "users": 139,
+   "sessions": 176,
+   "new_users": 113
+  },
+  {
+   "date": "2026-05-27",
+   "users": 102,
+   "sessions": 130,
+   "new_users": 91
+  },
+  {
+   "date": "2026-05-28",
+   "users": 190,
+   "sessions": 243,
+   "new_users": 143
+  },
+  {
+   "date": "2026-05-29",
+   "users": 126,
+   "sessions": 161,
+   "new_users": 95
+  },
+  {
+   "date": "2026-05-30",
+   "users": 75,
+   "sessions": 93,
+   "new_users": 53
+  },
+  {
+   "date": "2026-05-31",
+   "users": 96,
+   "sessions": 110,
+   "new_users": 80
+  },
+  {
+   "date": "2026-06-01",
+   "users": 80,
+   "sessions": 108,
+   "new_users": 65
+  },
+  {
+   "date": "2026-06-02",
+   "users": 75,
+   "sessions": 91,
+   "new_users": 69
+  },
+  {
+   "date": "2026-06-03",
+   "users": 74,
+   "sessions": 94,
+   "new_users": 63
+  },
+  {
+   "date": "2026-06-04",
+   "users": 79,
+   "sessions": 98,
+   "new_users": 60
+  },
+  {
+   "date": "2026-06-05",
+   "users": 178,
+   "sessions": 223,
+   "new_users": 129
+  },
+  {
+   "date": "2026-06-06",
+   "users": 94,
+   "sessions": 112,
+   "new_users": 67
+  },
+  {
+   "date": "2026-06-07",
+   "users": 80,
+   "sessions": 89,
+   "new_users": 66
+  },
+  {
+   "date": "2026-06-08",
+   "users": 91,
+   "sessions": 111,
+   "new_users": 67
+  },
+  {
+   "date": "2026-06-09",
+   "users": 108,
+   "sessions": 139,
+   "new_users": 91
+  },
+  {
+   "date": "2026-06-10",
+   "users": 69,
+   "sessions": 86,
+   "new_users": 53
+  },
+  {
+   "date": "2026-06-11",
+   "users": 73,
+   "sessions": 97,
+   "new_users": 60
+  },
+  {
+   "date": "2026-06-12",
+   "users": 70,
+   "sessions": 91,
+   "new_users": 52
+  },
+  {
+   "date": "2026-06-13",
+   "users": 66,
+   "sessions": 80,
+   "new_users": 59
+  },
+  {
+   "date": "2026-06-14",
+   "users": 68,
+   "sessions": 88,
+   "new_users": 54
+  },
+  {
+   "date": "2026-06-15",
+   "users": 73,
+   "sessions": 90,
+   "new_users": 64
+  },
+  {
+   "date": "2026-06-16",
+   "users": 99,
+   "sessions": 122,
+   "new_users": 80
+  },
+  {
+   "date": "2026-06-17",
+   "users": 78,
+   "sessions": 92,
+   "new_users": 64
+  },
+  {
+   "date": "2026-06-18",
+   "users": 63,
+   "sessions": 79,
+   "new_users": 48
+  },
+  {
+   "date": "2026-06-19",
+   "users": 134,
+   "sessions": 173,
+   "new_users": 86
+  },
+  {
+   "date": "2026-06-20",
+   "users": 80,
+   "sessions": 91,
+   "new_users": 81
+  },
+  {
+   "date": "2026-06-21",
+   "users": 114,
+   "sessions": 132,
+   "new_users": 101
+  },
+  {
+   "date": "2026-06-22",
+   "users": 109,
+   "sessions": 133,
+   "new_users": 92
+  },
+  {
+   "date": "2026-06-23",
+   "users": 72,
+   "sessions": 87,
+   "new_users": 61
+  },
+  {
+   "date": "2026-06-24",
+   "users": 99,
+   "sessions": 113,
+   "new_users": 85
+  },
+  {
+   "date": "2026-06-25",
+   "users": 83,
+   "sessions": 97,
+   "new_users": 71
+  },
+  {
+   "date": "2026-06-26",
+   "users": 80,
+   "sessions": 103,
+   "new_users": 65
+  },
+  {
+   "date": "2026-06-27",
+   "users": 156,
+   "sessions": 195,
+   "new_users": 121
+  },
+  {
+   "date": "2026-06-28",
+   "users": 141,
+   "sessions": 175,
+   "new_users": 115
+  },
+  {
+   "date": "2026-06-29",
+   "users": 123,
+   "sessions": 164,
+   "new_users": 92
+  },
+  {
+   "date": "2026-06-30",
+   "users": 88,
+   "sessions": 114,
+   "new_users": 68
+  },
+  {
+   "date": "2026-07-01",
+   "users": 69,
+   "sessions": 89,
+   "new_users": 49
+  },
+  {
+   "date": "2026-07-02",
+   "users": 63,
+   "sessions": 80,
+   "new_users": 47
+  },
+  {
+   "date": "2026-07-03",
+   "users": 53,
+   "sessions": 66,
+   "new_users": 40
+  },
+  {
+   "date": "2026-07-04",
+   "users": 38,
+   "sessions": 48,
+   "new_users": 31
+  },
+  {
+   "date": "2026-07-05",
+   "users": 128,
+   "sessions": 157,
+   "new_users": 99
+  },
+  {
+   "date": "2026-07-06",
+   "users": 143,
+   "sessions": 181,
+   "new_users": 92
+  },
+  {
+   "date": "2026-07-07",
+   "users": 52,
+   "sessions": 70,
+   "new_users": 32
+  },
+  {
+   "date": "2026-07-08",
+   "users": 62,
+   "sessions": 79,
+   "new_users": 47
+  },
+  {
+   "date": "2026-07-09",
+   "users": 62,
+   "sessions": 82,
+   "new_users": 51
+  },
+  {
+   "date": "2026-07-10",
+   "users": 96,
+   "sessions": 117,
+   "new_users": 83
+  },
+  {
+   "date": "2026-07-11",
+   "users": 65,
+   "sessions": 77,
+   "new_users": 55
+  },
+  {
+   "date": "2026-07-12",
+   "users": 64,
+   "sessions": 79,
+   "new_users": 50
+  },
+  {
+   "date": "2026-07-13",
+   "users": 79,
+   "sessions": 101,
+   "new_users": 61
+  },
+  {
+   "date": "2026-07-14",
+   "users": 116,
+   "sessions": 143,
+   "new_users": 95
+  },
+  {
+   "date": "2026-07-15",
+   "users": 130,
+   "sessions": 155,
+   "new_users": 107
+  },
+  {
+   "date": "2026-07-16",
+   "users": 88,
+   "sessions": 129,
+   "new_users": 76
+  },
+  {
+   "date": "2026-07-17",
+   "users": 76,
+   "sessions": 107,
+   "new_users": 61
+  },
+  {
+   "date": "2026-07-18",
+   "users": 131,
+   "sessions": 158,
+   "new_users": 126
+  },
+  {
+   "date": "2026-07-19",
+   "users": 62,
+   "sessions": 74,
+   "new_users": 52
+  },
+  {
+   "date": "2026-07-20",
+   "users": 105,
+   "sessions": 130,
+   "new_users": 86
+  },
+  {
+   "date": "2026-07-21",
+   "users": 89,
+   "sessions": 115,
+   "new_users": 74
+  },
+  {
+   "date": "2026-07-22",
+   "users": 78,
+   "sessions": 104,
+   "new_users": 58
+  },
+  {
+   "date": "2026-07-23",
+   "users": 79,
+   "sessions": 103,
+   "new_users": 60
+  },
+  {
+   "date": "2026-07-24",
+   "users": 76,
+   "sessions": 103,
+   "new_users": 57
+  },
+  {
+   "date": "2026-07-25",
+   "users": 74,
+   "sessions": 89,
+   "new_users": 58
+  },
+  {
+   "date": "2026-07-26",
+   "users": 145,
+   "sessions": 185,
+   "new_users": 113
+  },
+  {
+   "date": "2026-07-27",
+   "users": 171,
+   "sessions": 228,
+   "new_users": 127
+  },
+  {
+   "date": "2026-07-28",
+   "users": 133,
+   "sessions": 166,
+   "new_users": 103
+  },
+  {
+   "date": "2026-07-29",
+   "users": 88,
+   "sessions": 121,
+   "new_users": 64
+  },
+  {
+   "date": "2026-07-30",
+   "users": 74,
+   "sessions": 92,
+   "new_users": 67
+  },
+  {
+   "date": "2026-07-31",
+   "users": 86,
+   "sessions": 105,
+   "new_users": 74
+  },
+  {
+   "date": "2026-08-01",
+   "users": 58,
+   "sessions": 67,
+   "new_users": 45
+  },
+  {
+   "date": "2026-08-02",
+   "users": 141,
+   "sessions": 172,
+   "new_users": 111
+  },
+  {
+   "date": "2026-08-03",
+   "users": 163,
+   "sessions": 195,
+   "new_users": 119
+  },
+  {
+   "date": "2026-08-04",
+   "users": 100,
+   "sessions": 133,
+   "new_users": 76
+  },
+  {
+   "date": "2026-08-05",
+   "users": 99,
+   "sessions": 128,
+   "new_users": 76
+  },
+  {
+   "date": "2026-08-06",
+   "users": 89,
+   "sessions": 121,
+   "new_users": 62
+  },
+  {
+   "date": "2026-08-07",
+   "users": 77,
+   "sessions": 99,
+   "new_users": 60
+  },
+  {
+   "date": "2026-08-08",
+   "users": 103,
+   "sessions": 126,
+   "new_users": 82
+  },
+  {
+   "date": "2026-08-09",
+   "users": 167,
+   "sessions": 203,
+   "new_users": 117
+  },
+  {
+   "date": "2026-08-10",
+   "users": 155,
+   "sessions": 201,
+   "new_users": 111
+  },
+  {
+   "date": "2026-08-11",
+   "users": 124,
+   "sessions": 145,
+   "new_users": 96
+  },
+  {
+   "date": "2026-08-12",
+   "users": 104,
+   "sessions": 129,
+   "new_users": 81
+  },
+  {
+   "date": "2026-08-13",
+   "users": 72,
+   "sessions": 85,
+   "new_users": 56
+  },
+  {
+   "date": "2026-08-14",
+   "users": 92,
+   "sessions": 118,
+   "new_users": 71
+  },
+  {
+   "date": "2026-08-15",
+   "users": 92,
+   "sessions": 115,
+   "new_users": 80
+  },
+  {
+   "date": "2026-08-16",
+   "users": 149,
+   "sessions": 166,
+   "new_users": 114
+  },
+  {
+   "date": "2026-08-17",
+   "users": 138,
+   "sessions": 174,
+   "new_users": 111
+  },
+  {
+   "date": "2026-08-18",
+   "users": 154,
+   "sessions": 184,
+   "new_users": 130
+  },
+  {
+   "date": "2026-08-19",
+   "users": 143,
+   "sessions": 169,
+   "new_users": 118
+  },
+  {
+   "date": "2026-08-20",
+   "users": 93,
+   "sessions": 111,
+   "new_users": 77
+  },
+  {
+   "date": "2026-08-21",
+   "users": 94,
+   "sessions": 123,
+   "new_users": 77
+  },
+  {
+   "date": "2026-08-22",
+   "users": 83,
+   "sessions": 107,
+   "new_users": 69
+  },
+  {
+   "date": "2026-08-23",
+   "users": 97,
+   "sessions": 108,
+   "new_users": 84
+  },
+  {
+   "date": "2026-08-24",
+   "users": 143,
+   "sessions": 176,
+   "new_users": 116
+  },
+  {
+   "date": "2026-08-25",
+   "users": 139,
+   "sessions": 175,
+   "new_users": 111
+  },
+  {
+   "date": "2026-08-26",
+   "users": 113,
+   "sessions": 152,
+   "new_users": 88
+  },
+  {
+   "date": "2026-08-27",
+   "users": 202,
+   "sessions": 263,
+   "new_users": 118
+  },
+  {
+   "date": "2026-08-28",
+   "users": 139,
+   "sessions": 179,
+   "new_users": 108
+  },
+  {
+   "date": "2026-08-29",
+   "users": 66,
+   "sessions": 86,
+   "new_users": 60
+  },
+  {
+   "date": "2026-08-30",
+   "users": 86,
+   "sessions": 100,
+   "new_users": 67
+  },
+  {
+   "date": "2026-08-31",
+   "users": 107,
+   "sessions": 132,
+   "new_users": 84
+  },
+  {
+   "date": "2026-09-01",
+   "users": 82,
+   "sessions": 104,
+   "new_users": 68
+  },
+  {
+   "date": "2026-09-02",
+   "users": 105,
+   "sessions": 130,
+   "new_users": 84
+  },
+  {
+   "date": "2026-09-03",
+   "users": 223,
+   "sessions": 281,
+   "new_users": 151
+  },
+  {
+   "date": "2026-09-04",
+   "users": 125,
+   "sessions": 181,
+   "new_users": 93
+  },
+  {
+   "date": "2026-09-05",
+   "users": 93,
+   "sessions": 121,
+   "new_users": 97
+  },
+  {
+   "date": "2026-09-06",
+   "users": 91,
+   "sessions": 113,
+   "new_users": 76
+  },
+  {
+   "date": "2026-09-07",
+   "users": 111,
+   "sessions": 148,
+   "new_users": 82
+  },
+  {
+   "date": "2026-09-08",
+   "users": 101,
+   "sessions": 131,
+   "new_users": 83
+  },
+  {
+   "date": "2026-09-09",
+   "users": 82,
+   "sessions": 102,
+   "new_users": 72
+  },
+  {
+   "date": "2026-09-10",
+   "users": 59,
+   "sessions": 73,
+   "new_users": 50
+  },
+  {
+   "date": "2026-09-11",
+   "users": 107,
+   "sessions": 129,
+   "new_users": 86
+  },
+  {
+   "date": "2026-09-12",
+   "users": 101,
+   "sessions": 110,
+   "new_users": 87
+  },
+  {
+   "date": "2026-09-13",
+   "users": 83,
+   "sessions": 101,
+   "new_users": 75
+  },
+  {
+   "date": "2026-09-14",
+   "users": 108,
+   "sessions": 124,
+   "new_users": 88
+  },
+  {
+   "date": "2026-09-15",
+   "users": 97,
+   "sessions": 113,
+   "new_users": 83
+  },
+  {
+   "date": "2026-09-16",
+   "users": 102,
+   "sessions": 122,
+   "new_users": 88
+  },
+  {
+   "date": "2026-09-17",
+   "users": 157,
+   "sessions": 192,
+   "new_users": 98
+  },
+  {
+   "date": "2026-09-18",
+   "users": 137,
+   "sessions": 172,
+   "new_users": 100
+  },
+  {
+   "date": "2026-09-19",
+   "users": 153,
+   "sessions": 174,
+   "new_users": 143
+  },
+  {
+   "date": "2026-09-20",
+   "users": 107,
+   "sessions": 121,
+   "new_users": 91
+  },
+  {
+   "date": "2026-09-21",
+   "users": 125,
+   "sessions": 151,
+   "new_users": 94
+  },
+  {
+   "date": "2026-09-22",
+   "users": 250,
+   "sessions": 287,
+   "new_users": 216
+  },
+  {
+   "date": "2026-09-23",
+   "users": 128,
+   "sessions": 161,
+   "new_users": 108
+  },
+  {
+   "date": "2026-09-24",
+   "users": 226,
+   "sessions": 308,
+   "new_users": 153
+  },
+  {
+   "date": "2026-09-25",
+   "users": 221,
+   "sessions": 281,
+   "new_users": 167
+  },
+  {
+   "date": "2026-09-26",
+   "users": 235,
+   "sessions": 294,
+   "new_users": 215
+  },
+  {
+   "date": "2026-09-27",
+   "users": 249,
+   "sessions": 316,
+   "new_users": 214
+  },
+  {
+   "date": "2026-09-28",
+   "users": 220,
+   "sessions": 271,
+   "new_users": 172
+  },
+  {
+   "date": "2026-09-29",
+   "users": 255,
+   "sessions": 331,
+   "new_users": 200
+  },
+  {
+   "date": "2026-09-30",
+   "users": 189,
+   "sessions": 252,
+   "new_users": 157
+  },
+  {
+   "date": "2026-10-01",
+   "users": 195,
+   "sessions": 254,
+   "new_users": 162
+  },
+  {
+   "date": "2026-10-02",
+   "users": 263,
+   "sessions": 345,
+   "new_users": 173
+  },
+  {
+   "date": "2026-10-03",
+   "users": 173,
+   "sessions": 222,
+   "new_users": 159
+  },
+  {
+   "date": "2026-10-04",
+   "users": 153,
+   "sessions": 193,
+   "new_users": 122
+  },
+  {
+   "date": "2026-10-05",
+   "users": 132,
+   "sessions": 165,
+   "new_users": 99
+  },
+  {
+   "date": "2026-10-06",
+   "users": 145,
+   "sessions": 178,
+   "new_users": 112
+  },
+  {
+   "date": "2026-10-07",
+   "users": 113,
+   "sessions": 139,
+   "new_users": 84
+  },
+  {
+   "date": "2026-10-08",
+   "users": 119,
+   "sessions": 151,
+   "new_users": 89
+  },
+  {
+   "date": "2026-10-09",
+   "users": 103,
+   "sessions": 130,
+   "new_users": 88
+  },
+  {
+   "date": "2026-10-10",
+   "users": 80,
+   "sessions": 96,
+   "new_users": 65
+  },
+  {
+   "date": "2026-10-11",
+   "users": 116,
+   "sessions": 142,
+   "new_users": 97
+  },
+  {
+   "date": "2026-10-12",
+   "users": 135,
+   "sessions": 163,
+   "new_users": 121
+  },
+  {
+   "date": "2026-10-13",
+   "users": 94,
+   "sessions": 121,
+   "new_users": 78
+  },
+  {
+   "date": "2026-10-14",
+   "users": 112,
+   "sessions": 148,
+   "new_users": 95
+  },
+  {
+   "date": "2026-10-15",
+   "users": 231,
+   "sessions": 284,
+   "new_users": 142
+  }
+ ],
+ "note": "users = usuarios activos por día (la suma de un período cuenta repetidos); new_users y sessions son exactos al sumar."
+}

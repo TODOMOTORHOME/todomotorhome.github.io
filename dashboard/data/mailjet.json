@@ -1,0 +1,317 @@
+{
+ "source": "Mailjet REST v3",
+ "lists": [
+  {
+   "id": 10590623,
+   "name": "Base de registrados",
+   "total": 4825,
+   "subscribed": 4671,
+   "unsubscribed": 154,
+   "spam_complaints": 18,
+   "blocked": 1652,
+   "hard_bounced": 116,
+   "main": true
+  },
+  {
+   "id": 10607649,
+   "name": "Base de No censados (Sharetribe menos supabase)",
+   "total": 2005,
+   "subscribed": 1997,
+   "unsubscribed": 8,
+   "spam_complaints": 0,
+   "blocked": 46,
+   "hard_bounced": 0,
+   "main": false
+  },
+  {
+   "id": 10692387,
+   "name": "Tiendas Oficiales - Expomotorhome 2026",
+   "total": 114,
+   "subscribed": 114,
+   "unsubscribed": 0,
+   "spam_complaints": 0,
+   "blocked": 0,
+   "hard_bounced": 1,
+   "main": false
+  }
+ ],
+ "main_list_unsub_daily": [
+  {
+   "date": "2026-04-07",
+   "unsubscribed": 13
+  },
+  {
+   "date": "2026-04-08",
+   "unsubscribed": 2
+  },
+  {
+   "date": "2026-04-09",
+   "unsubscribed": 1
+  },
+  {
+   "date": "2026-04-10",
+   "unsubscribed": 1
+  },
+  {
+   "date": "2026-04-13",
+   "unsubscribed": 1
+  },
+  {
+   "date": "2026-04-16",
+   "unsubscribed": 3
+  },
+  {
+   "date": "2026-04-19",
+   "unsubscribed": 1
+  },
+  {
+   "date": "2026-04-22",
+   "unsubscribed": 6
+  },
+  {
+   "date": "2026-04-24",
+   "unsubscribed": 1
+  },
+  {
+   "date": "2026-04-25",
+   "unsubscribed": 1
+  },
+  {
+   "date": "2026-04-27",
+   "unsubscribed": 3
+  },
+  {
+   "date": "2026-04-29",
+   "unsubscribed": 6
+  },
+  {
+   "date": "2026-04-30",
+   "unsubscribed": 1
+  },
+  {
+   "date": "2026-05-01",
+   "unsubscribed": 2
+  },
+  {
+   "date": "2026-05-04",
+   "unsubscribed": 1
+  },
+  {
+   "date": "2026-05-05",
+   "unsubscribed": 2
+  },
+  {
+   "date": "2026-05-07",
+   "unsubscribed": 3
+  },
+  {
+   "date": "2026-05-08",
+   "unsubscribed": 1
+  },
+  {
+   "date": "2026-05-11",
+   "unsubscribed": 1
+  },
+  {
+   "date": "2026-05-16",
+   "unsubscribed": 2
+  },
+  {
+   "date": "2026-05-18",
+   "unsubscribed": 1
+  },
+  {
+   "date": "2026-05-21",
+   "unsubscribed": 5
+  },
+  {
+   "date": "2026-05-22",
+   "unsubscribed": 3
+  },
+  {
+   "date": "2026-05-23",
+   "unsubscribed": 1
+  },
+  {
+   "date": "2026-05-27",
+   "unsubscribed": 1
+  },
+  {
+   "date": "2026-05-28",
+   "unsubscribed": 2
+  },
+  {
+   "date": "2026-05-29",
+   "unsubscribed": 3
+  },
+  {
+   "date": "2026-06-05",
+   "unsubscribed": 4
+  },
+  {
+   "date": "2026-06-06",
+   "unsubscribed": 1
+  },
+  {
+   "date": "2026-06-08",
+   "unsubscribed": 2
+  },
+  {
+   "date": "2026-06-19",
+   "unsubscribed": 7
+  },
+  {
+   "date": "2026-06-20",
+   "unsubscribed": 1
+  },
+  {
+   "date": "2026-06-23",
+   "unsubscribed": 1
+  },
+  {
+   "date": "2026-06-25",
+   "unsubscribed": 1
+  },
+  {
+   "date": "2026-06-26",
+   "unsubscribed": 1
+  },
+  {
+   "date": "2026-06-27",
+   "unsubscribed": 1
+  },
+  {
+   "date": "2026-06-29",
+   "unsubscribed": 1
+  },
+  {
+   "date": "2026-07-02",
+   "unsubscribed": 1
+  },
+  {
+   "date": "2026-07-05",
+   "unsubscribed": 3
+  },
+  {
+   "date": "2026-07-07",
+   "unsubscribed": 1
+  },
+  {
+   "date": "2026-07-11",
+   "unsubscribed": 1
+  },
+  {
+   "date": "2026-07-13",
+   "unsubscribed": 1
+  },
+  {
+   "date": "2026-07-14",
+   "unsubscribed": 1
+  },
+  {
+   "date": "2026-07-26",
+   "unsubscribed": 4
+  },
+  {
+   "date": "2026-07-27",
+   "unsubscribed": 3
+  },
+  {
+   "date": "2026-07-28",
+   "unsubscribed": 1
+  },
+  {
+   "date": "2026-08-02",
+   "unsubscribed": 4
+  },
+  {
+   "date": "2026-08-03",
+   "unsubscribed": 2
+  },
+  {
+   "date": "2026-08-09",
+   "unsubscribed": 1
+  },
+  {
+   "date": "2026-08-10",
+   "unsubscribed": 1
+  },
+  {
+   "date": "2026-08-16",
+   "unsubscribed": 1
+  },
+  {
+   "date": "2026-08-18",
+   "unsubscribed": 1
+  },
+  {
+   "date": "2026-08-27",
+   "unsubscribed": 2
+  },
+  {
+   "date": "2026-08-28",
+   "unsubscribed": 2
+  },
+  {
+   "date": "2026-08-30",
+   "unsubscribed": 1
+  },
+  {
+   "date": "2026-09-03",
+   "unsubscribed": 5
+  },
+  {
+   "date": "2026-09-04",
+   "unsubscribed": 1
+  },
+  {
+   "date": "2026-09-08",
+   "unsubscribed": 1
+  },
+  {
+   "date": "2026-09-17",
+   "unsubscribed": 4
+  },
+  {
+   "date": "2026-09-18",
+   "unsubscribed": 2
+  },
+  {
+   "date": "2026-09-20",
+   "unsubscribed": 1
+  },
+  {
+   "date": "2026-09-24",
+   "unsubscribed": 2
+  },
+  {
+   "date": "2026-09-25",
+   "unsubscribed": 4
+  },
+  {
+   "date": "2026-10-02",
+   "unsubscribed": 5
+  },
+  {
+   "date": "2026-10-03",
+   "unsubscribed": 1
+  },
+  {
+   "date": "2026-10-06",
+   "unsubscribed": 1
+  },
+  {
+   "date": "2026-10-09",
+   "unsubscribed": 1
+  },
+  {
+   "date": "2026-10-15",
+   "unsubscribed": 6
+  },
+  {
+   "date": "2026-10-16",
+   "unsubscribed": 1
+  }
+ ],
+ "note": "total/suscriptos/desuscriptos = contactos actuales de la lista. Spam y bloqueados = eventos acumulados de envíos a la lista (liststatistics)."
+}

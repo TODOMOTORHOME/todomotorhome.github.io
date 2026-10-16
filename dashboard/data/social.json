@@ -1,0 +1,26 @@
+{
+ "source": "Meta Graph API v21.0, página 110283964465949 (Todo Motorhome) + Instagram vinculado",
+ "fetched_at": "2026-10-16T19:55:54.361983+02:00",
+ "as_of": "2026-10-16",
+ "status": "ok",
+ "last_error": null,
+ "facebook_page_followers": {
+  "value": 4403,
+  "fan_count": 4403,
+  "rounded": false
+ },
+ "instagram_followers": {
+  "value": 9941,
+  "username": "todomotorhome.ar",
+  "rounded": false
+ },
+ "token_note": "Page token de la app Meta 'TM Dashboard' (App ID 2011676989532234). El acceso a datos vence aprox. 2027-01-14; renovar si fallan las llamadas.",
+ "history": [
+  {
+   "date": "2026-10-16",
+   "facebook_page_followers": 4403,
+   "facebook_page_fan_count": 4403,
+   "instagram_followers": 9941
+  }
+ ]
+}

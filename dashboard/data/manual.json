@@ -1,0 +1,17 @@
+{
+ "_info": "Valores cargados a mano (solo lo que no tiene API). Página de Facebook e Instagram ya NO van acá: se leen automáticamente de Meta Graph API (data/social.json). El grupo de Facebook no tiene API (Groups API discontinuada): actualizar value/as_of y agregar una entrada a history en cada lectura (vista de admin del grupo).",
+ "facebook_group_members": {
+  "label": "Miembros grupo Facebook 'Todo Motorhome Argentina'",
+  "source": "vista de administrador del grupo",
+  "value": 10801,
+  "rounded": false,
+  "as_of": "2026-10-16",
+  "status": "manual",
+  "history": [
+   {
+    "date": "2026-10-16",
+    "value": 10801
+   }
+  ]
+ }
+}

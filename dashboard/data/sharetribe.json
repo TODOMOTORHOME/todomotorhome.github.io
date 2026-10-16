@@ -1,0 +1,4524 @@
+{
+ "source": "Sharetribe Integration API",
+ "totals": {
+  "users": 4823,
+  "listings": 1828,
+  "listings_by_state": {
+   "published": 1739,
+   "draft": 44,
+   "closed": 45
+  },
+  "transactions": 671,
+  "inquiries_without_payment": 671
+ },
+ "transition_paths": {
+  "transition/inquire-without-payment": 671
+ },
+ "processes": {
+  "default-inquiry": 671
+ },
+ "inquiry_rule": "Transacción con al menos una transición de consulta (nombre contiene 'inquire') y ninguna otra transición de pago (pay/purchase/request-payment/confirm-payment/stripe). Hoy todas usan el proceso default-inquiry con la única transición 'transition/inquire-without-payment'.",
+ "daily": [
+  {
+   "date": "2023-10-23",
+   "users": 0,
+   "listings": 3,
+   "transactions": 0,
+   "inquiries": 0
+  },
+  {
+   "date": "2023-10-28",
+   "users": 0,
+   "listings": 1,
+   "transactions": 0,
+   "inquiries": 0
+  },
+  {
+   "date": "2023-10-31",
+   "users": 0,
+   "listings": 1,
+   "transactions": 0,
+   "inquiries": 0
+  },
+  {
+   "date": "2023-11-01",
+   "users": 0,
+   "listings": 1,
+   "transactions": 0,
+   "inquiries": 0
+  },
+  {
+   "date": "2023-11-02",
+   "users": 0,
+   "listings": 2,
+   "transactions": 0,
+   "inquiries": 0
+  },
+  {
+   "date": "2024-01-16",
+   "users": 0,
+   "listings": 1,
+   "transactions": 0,
+   "inquiries": 0
+  },
+  {
+   "date": "2024-01-22",
+   "users": 0,
+   "listings": 17,
+   "transactions": 0,
+   "inquiries": 0
+  },
+  {
+   "date": "2024-01-24",
+   "users": 0,
+   "listings": 4,
+   "transactions": 0,
+   "inquiries": 0
+  },
+  {
+   "date": "2024-01-26",
+   "users": 0,
+   "listings": 1,
+   "transactions": 0,
+   "inquiries": 0
+  },
+  {
+   "date": "2024-01-27",
+   "users": 0,
+   "listings": 1,
+   "transactions": 0,
+   "inquiries": 0
+  },
+  {
+   "date": "2024-01-30",
+   "users": 0,
+   "listings": 1,
+   "transactions": 0,
+   "inquiries": 0
+  },
+  {
+   "date": "2024-02-06",
+   "users": 0,
+   "listings": 1,
+   "transactions": 0,
+   "inquiries": 0
+  },
+  {
+   "date": "2024-02-07",
+   "users": 0,
+   "listings": 2,
+   "transactions": 0,
+   "inquiries": 0
+  },
+  {
+   "date": "2024-02-11",
+   "users": 0,
+   "listings": 1,
+   "transactions": 0,
+   "inquiries": 0
+  },
+  {
+   "date": "2024-02-17",
+   "users": 0,
+   "listings": 1,
+   "transactions": 0,
+   "inquiries": 0
+  },
+  {
+   "date": "2024-02-22",
+   "users": 0,
+   "listings": 1,
+   "transactions": 0,
+   "inquiries": 0
+  },
+  {
+   "date": "2024-02-25",
+   "users": 0,
+   "listings": 1,
+   "transactions": 0,
+   "inquiries": 0
+  },
+  {
+   "date": "2024-03-02",
+   "users": 0,
+   "listings": 1,
+   "transactions": 0,
+   "inquiries": 0
+  },
+  {
+   "date": "2024-03-08",
+   "users": 0,
+   "listings": 1,
+   "transactions": 0,
+   "inquiries": 0
+  },
+  {
+   "date": "2024-03-11",
+   "users": 0,
+   "listings": 2,
+   "transactions": 0,
+   "inquiries": 0
+  },
+  {
+   "date": "2024-03-18",
+   "users": 0,
+   "listings": 2,
+   "transactions": 0,
+   "inquiries": 0
+  },
+  {
+   "date": "2024-03-19",
+   "users": 0,
+   "listings": 3,
+   "transactions": 0,
+   "inquiries": 0
+  },
+  {
+   "date": "2024-03-20",
+   "users": 0,
+   "listings": 2,
+   "transactions": 0,
+   "inquiries": 0
+  },
+  {
+   "date": "2024-03-22",
+   "users": 0,
+   "listings": 3,
+   "transactions": 0,
+   "inquiries": 0
+  },
+  {
+   "date": "2024-03-25",
+   "users": 0,
+   "listings": 1,
+   "transactions": 0,
+   "inquiries": 0
+  },
+  {
+   "date": "2024-03-28",
+   "users": 0,
+   "listings": 1,
+   "transactions": 0,
+   "inquiries": 0
+  },
+  {
+   "date": "2024-04-04",
+   "users": 0,
+   "listings": 9,
+   "transactions": 0,
+   "inquiries": 0
+  },
+  {
+   "date": "2024-04-05",
+   "users": 0,
+   "listings": 3,
+   "transactions": 0,
+   "inquiries": 0
+  },
+  {
+   "date": "2024-04-10",
+   "users": 0,
+   "listings": 2,
+   "transactions": 0,
+   "inquiries": 0
+  },
+  {
+   "date": "2024-04-16",
+   "users": 0,
+   "listings": 1,
+   "transactions": 0,
+   "inquiries": 0
+  },
+  {
+   "date": "2024-04-18",
+   "users": 0,
+   "listings": 1,
+   "transactions": 0,
+   "inquiries": 0
+  },
+  {
+   "date": "2024-04-27",
+   "users": 0,
+   "listings": 7,
+   "transactions": 0,
+   "inquiries": 0
+  },
+  {
+   "date": "2024-04-28",
+   "users": 0,
+   "listings": 1,
+   "transactions": 0,
+   "inquiries": 0
+  },
+  {
+   "date": "2024-05-29",
+   "users": 0,
+   "listings": 1,
+   "transactions": 0,
+   "inquiries": 0
+  },
+  {
+   "date": "2024-06-10",
+   "users": 0,
+   "listings": 1,
+   "transactions": 0,
+   "inquiries": 0
+  },
+  {
+   "date": "2024-06-11",
+   "users": 0,
+   "listings": 2,
+   "transactions": 0,
+   "inquiries": 0
+  },
+  {
+   "date": "2024-06-13",
+   "users": 0,
+   "listings": 2,
+   "transactions": 0,
+   "inquiries": 0
+  },
+  {
+   "date": "2024-06-18",
+   "users": 0,
+   "listings": 1,
+   "transactions": 0,
+   "inquiries": 0
+  },
+  {
+   "date": "2024-06-19",
+   "users": 0,
+   "listings": 4,
+   "transactions": 0,
+   "inquiries": 0
+  },
+  {
+   "date": "2024-06-20",
+   "users": 0,
+   "listings": 37,
+   "transactions": 0,
+   "inquiries": 0
+  },
+  {
+   "date": "2024-06-28",
+   "users": 0,
+   "listings": 2,
+   "transactions": 0,
+   "inquiries": 0
+  },
+  {
+   "date": "2024-06-29",
+   "users": 0,
+   "listings": 1,
+   "transactions": 0,
+   "inquiries": 0
+  },
+  {
+   "date": "2024-07-03",
+   "users": 0,
+   "listings": 2,
+   "transactions": 0,
+   "inquiries": 0
+  },
+  {
+   "date": "2024-07-04",
+   "users": 0,
+   "listings": 10,
+   "transactions": 0,
+   "inquiries": 0
+  },
+  {
+   "date": "2024-07-05",
+   "users": 0,
+   "listings": 1,
+   "transactions": 0,
+   "inquiries": 0
+  },
+  {
+   "date": "2024-07-08",
+   "users": 0,
+   "listings": 2,
+   "transactions": 0,
+   "inquiries": 0
+  },
+  {
+   "date": "2024-07-11",
+   "users": 0,
+   "listings": 1,
+   "transactions": 0,
+   "inquiries": 0
+  },
+  {
+   "date": "2024-07-14",
+   "users": 0,
+   "listings": 4,
+   "transactions": 0,
+   "inquiries": 0
+  },
+  {
+   "date": "2024-07-15",
+   "users": 0,
+   "listings": 2,
+   "transactions": 0,
+   "inquiries": 0
+  },
+  {
+   "date": "2024-07-18",
+   "users": 0,
+   "listings": 1,
+   "transactions": 0,
+   "inquiries": 0
+  },
+  {
+   "date": "2024-07-19",
+   "users": 0,
+   "listings": 7,
+   "transactions": 0,
+   "inquiries": 0
+  },
+  {
+   "date": "2024-07-20",
+   "users": 0,
+   "listings": 2,
+   "transactions": 0,
+   "inquiries": 0
+  },
+  {
+   "date": "2024-07-22",
+   "users": 0,
+   "listings": 1,
+   "transactions": 0,
+   "inquiries": 0
+  },
+  {
+   "date": "2024-07-24",
+   "users": 0,
+   "listings": 6,
+   "transactions": 0,
+   "inquiries": 0
+  },
+  {
+   "date": "2024-07-25",
+   "users": 0,
+   "listings": 1,
+   "transactions": 0,
+   "inquiries": 0
+  },
+  {
+   "date": "2024-07-26",
+   "users": 0,
+   "listings": 1,
+   "transactions": 0,
+   "inquiries": 0
+  },
+  {
+   "date": "2024-07-27",
+   "users": 0,
+   "listings": 4,
+   "transactions": 0,
+   "inquiries": 0
+  },
+  {
+   "date": "2024-07-28",
+   "users": 0,
+   "listings": 6,
+   "transactions": 0,
+   "inquiries": 0
+  },
+  {
+   "date": "2024-07-29",
+   "users": 0,
+   "listings": 4,
+   "transactions": 0,
+   "inquiries": 0
+  },
+  {
+   "date": "2024-07-31",
+   "users": 0,
+   "listings": 3,
+   "transactions": 0,
+   "inquiries": 0
+  },
+  {
+   "date": "2024-08-05",
+   "users": 0,
+   "listings": 1,
+   "transactions": 0,
+   "inquiries": 0
+  },
+  {
+   "date": "2024-08-06",
+   "users": 0,
+   "listings": 2,
+   "transactions": 0,
+   "inquiries": 0
+  },
+  {
+   "date": "2024-08-07",
+   "users": 0,
+   "listings": 1,
+   "transactions": 0,
+   "inquiries": 0
+  },
+  {
+   "date": "2024-08-08",
+   "users": 0,
+   "listings": 2,
+   "transactions": 0,
+   "inquiries": 0
+  },
+  {
+   "date": "2024-08-10",
+   "users": 0,
+   "listings": 1,
+   "transactions": 0,
+   "inquiries": 0
+  },
+  {
+   "date": "2024-08-12",
+   "users": 0,
+   "listings": 8,
+   "transactions": 0,
+   "inquiries": 0
+  },
+  {
+   "date": "2024-08-14",
+   "users": 0,
+   "listings": 6,
+   "transactions": 0,
+   "inquiries": 0
+  },
+  {
+   "date": "2024-08-16",
+   "users": 0,
+   "listings": 2,
+   "transactions": 0,
+   "inquiries": 0
+  },
+  {
+   "date": "2024-08-17",
+   "users": 0,
+   "listings": 1,
+   "transactions": 0,
+   "inquiries": 0
+  },
+  {
+   "date": "2024-08-18",
+   "users": 0,
+   "listings": 1,
+   "transactions": 0,
+   "inquiries": 0
+  },
+  {
+   "date": "2024-08-19",
+   "users": 0,
+   "listings": 24,
+   "transactions": 0,
+   "inquiries": 0
+  },
+  {
+   "date": "2024-08-20",
+   "users": 0,
+   "listings": 6,
+   "transactions": 0,
+   "inquiries": 0
+  },
+  {
+   "date": "2024-08-22",
+   "users": 0,
+   "listings": 1,
+   "transactions": 0,
+   "inquiries": 0
+  },
+  {
+   "date": "2024-08-23",
+   "users": 0,
+   "listings": 1,
+   "transactions": 0,
+   "inquiries": 0
+  },
+  {
+   "date": "2024-08-25",
+   "users": 0,
+   "listings": 1,
+   "transactions": 0,
+   "inquiries": 0
+  },
+  {
+   "date": "2024-08-26",
+   "users": 0,
+   "listings": 2,
+   "transactions": 0,
+   "inquiries": 0
+  },
+  {
+   "date": "2024-08-27",
+   "users": 0,
+   "listings": 3,
+   "transactions": 0,
+   "inquiries": 0
+  },
+  {
+   "date": "2024-08-29",
+   "users": 0,
+   "listings": 2,
+   "transactions": 0,
+   "inquiries": 0
+  },
+  {
+   "date": "2024-08-30",
+   "users": 0,
+   "listings": 2,
+   "transactions": 0,
+   "inquiries": 0
+  },
+  {
+   "date": "2024-09-05",
+   "users": 0,
+   "listings": 1,
+   "transactions": 0,
+   "inquiries": 0
+  },
+  {
+   "date": "2024-09-09",
+   "users": 0,
+   "listings": 1,
+   "transactions": 0,
+   "inquiries": 0
+  },
+  {
+   "date": "2024-09-10",
+   "users": 0,
+   "listings": 5,
+   "transactions": 0,
+   "inquiries": 0
+  },
+  {
+   "date": "2024-09-11",
+   "users": 0,
+   "listings": 3,
+   "transactions": 0,
+   "inquiries": 0
+  },
+  {
+   "date": "2024-09-13",
+   "users": 0,
+   "listings": 1,
+   "transactions": 0,
+   "inquiries": 0
+  },
+  {
+   "date": "2024-09-14",
+   "users": 0,
+   "listings": 3,
+   "transactions": 0,
+   "inquiries": 0
+  },
+  {
+   "date": "2024-09-16",
+   "users": 0,
+   "listings": 1,
+   "transactions": 0,
+   "inquiries": 0
+  },
+  {
+   "date": "2024-09-17",
+   "users": 0,
+   "listings": 12,
+   "transactions": 0,
+   "inquiries": 0
+  },
+  {
+   "date": "2024-09-18",
+   "users": 0,
+   "listings": 24,
+   "transactions": 0,
+   "inquiries": 0
+  },
+  {
+   "date": "2024-09-19",
+   "users": 0,
+   "listings": 2,
+   "transactions": 0,
+   "inquiries": 0
+  },
+  {
+   "date": "2024-09-20",
+   "users": 0,
+   "listings": 1,
+   "transactions": 0,
+   "inquiries": 0
+  },
+  {
+   "date": "2024-09-23",
+   "users": 0,
+   "listings": 2,
+   "transactions": 0,
+   "inquiries": 0
+  },
+  {
+   "date": "2024-09-25",
+   "users": 0,
+   "listings": 1,
+   "transactions": 0,
+   "inquiries": 0
+  },
+  {
+   "date": "2024-09-27",
+   "users": 0,
+   "listings": 1,
+   "transactions": 0,
+   "inquiries": 0
+  },
+  {
+   "date": "2024-09-28",
+   "users": 0,
+   "listings": 1,
+   "transactions": 0,
+   "inquiries": 0
+  },
+  {
+   "date": "2024-10-02",
+   "users": 0,
+   "listings": 3,
+   "transactions": 0,
+   "inquiries": 0
+  },
+  {
+   "date": "2024-10-03",
+   "users": 0,
+   "listings": 1,
+   "transactions": 0,
+   "inquiries": 0
+  },
+  {
+   "date": "2024-10-04",
+   "users": 0,
+   "listings": 1,
+   "transactions": 0,
+   "inquiries": 0
+  },
+  {
+   "date": "2024-10-05",
+   "users": 0,
+   "listings": 1,
+   "transactions": 0,
+   "inquiries": 0
+  },
+  {
+   "date": "2024-10-09",
+   "users": 0,
+   "listings": 8,
+   "transactions": 0,
+   "inquiries": 0
+  },
+  {
+   "date": "2024-10-10",
+   "users": 0,
+   "listings": 3,
+   "transactions": 0,
+   "inquiries": 0
+  },
+  {
+   "date": "2024-10-12",
+   "users": 0,
+   "listings": 1,
+   "transactions": 0,
+   "inquiries": 0
+  },
+  {
+   "date": "2024-10-15",
+   "users": 0,
+   "listings": 2,
+   "transactions": 0,
+   "inquiries": 0
+  },
+  {
+   "date": "2024-10-17",
+   "users": 0,
+   "listings": 3,
+   "transactions": 0,
+   "inquiries": 0
+  },
+  {
+   "date": "2024-10-18",
+   "users": 0,
+   "listings": 1,
+   "transactions": 0,
+   "inquiries": 0
+  },
+  {
+   "date": "2024-10-19",
+   "users": 0,
+   "listings": 1,
+   "transactions": 0,
+   "inquiries": 0
+  },
+  {
+   "date": "2024-10-21",
+   "users": 0,
+   "listings": 1,
+   "transactions": 0,
+   "inquiries": 0
+  },
+  {
+   "date": "2024-10-22",
+   "users": 0,
+   "listings": 3,
+   "transactions": 0,
+   "inquiries": 0
+  },
+  {
+   "date": "2024-10-23",
+   "users": 0,
+   "listings": 1,
+   "transactions": 0,
+   "inquiries": 0
+  },
+  {
+   "date": "2024-10-24",
+   "users": 0,
+   "listings": 1,
+   "transactions": 0,
+   "inquiries": 0
+  },
+  {
+   "date": "2024-10-25",
+   "users": 0,
+   "listings": 2,
+   "transactions": 0,
+   "inquiries": 0
+  },
+  {
+   "date": "2024-10-28",
+   "users": 0,
+   "listings": 1,
+   "transactions": 0,
+   "inquiries": 0
+  },
+  {
+   "date": "2024-10-29",
+   "users": 0,
+   "listings": 1,
+   "transactions": 0,
+   "inquiries": 0
+  },
+  {
+   "date": "2024-10-30",
+   "users": 0,
+   "listings": 1,
+   "transactions": 0,
+   "inquiries": 0
+  },
+  {
+   "date": "2024-10-31",
+   "users": 0,
+   "listings": 1,
+   "transactions": 0,
+   "inquiries": 0
+  },
+  {
+   "date": "2024-11-02",
+   "users": 0,
+   "listings": 1,
+   "transactions": 0,
+   "inquiries": 0
+  },
+  {
+   "date": "2024-11-04",
+   "users": 0,
+   "listings": 1,
+   "transactions": 0,
+   "inquiries": 0
+  },
+  {
+   "date": "2024-11-05",
+   "users": 0,
+   "listings": 1,
+   "transactions": 0,
+   "inquiries": 0
+  },
+  {
+   "date": "2024-11-06",
+   "users": 0,
+   "listings": 1,
+   "transactions": 0,
+   "inquiries": 0
+  },
+  {
+   "date": "2024-11-07",
+   "users": 0,
+   "listings": 1,
+   "transactions": 0,
+   "inquiries": 0
+  },
+  {
+   "date": "2024-11-08",
+   "users": 0,
+   "listings": 1,
+   "transactions": 0,
+   "inquiries": 0
+  },
+  {
+   "date": "2024-11-09",
+   "users": 0,
+   "listings": 1,
+   "transactions": 0,
+   "inquiries": 0
+  },
+  {
+   "date": "2024-11-10",
+   "users": 0,
+   "listings": 2,
+   "transactions": 0,
+   "inquiries": 0
+  },
+  {
+   "date": "2024-11-12",
+   "users": 0,
+   "listings": 2,
+   "transactions": 0,
+   "inquiries": 0
+  },
+  {
+   "date": "2024-11-13",
+   "users": 0,
+   "listings": 2,
+   "transactions": 0,
+   "inquiries": 0
+  },
+  {
+   "date": "2024-11-17",
+   "users": 0,
+   "listings": 2,
+   "transactions": 0,
+   "inquiries": 0
+  },
+  {
+   "date": "2024-11-18",
+   "users": 0,
+   "listings": 1,
+   "transactions": 0,
+   "inquiries": 0
+  },
+  {
+   "date": "2024-11-19",
+   "users": 0,
+   "listings": 1,
+   "transactions": 0,
+   "inquiries": 0
+  },
+  {
+   "date": "2024-11-25",
+   "users": 0,
+   "listings": 1,
+   "transactions": 0,
+   "inquiries": 0
+  },
+  {
+   "date": "2024-11-29",
+   "users": 0,
+   "listings": 1,
+   "transactions": 0,
+   "inquiries": 0
+  },
+  {
+   "date": "2024-12-05",
+   "users": 0,
+   "listings": 3,
+   "transactions": 0,
+   "inquiries": 0
+  },
+  {
+   "date": "2024-12-06",
+   "users": 0,
+   "listings": 1,
+   "transactions": 0,
+   "inquiries": 0
+  },
+  {
+   "date": "2024-12-07",
+   "users": 0,
+   "listings": 1,
+   "transactions": 0,
+   "inquiries": 0
+  },
+  {
+   "date": "2024-12-09",
+   "users": 0,
+   "listings": 5,
+   "transactions": 0,
+   "inquiries": 0
+  },
+  {
+   "date": "2024-12-11",
+   "users": 0,
+   "listings": 1,
+   "transactions": 0,
+   "inquiries": 0
+  },
+  {
+   "date": "2024-12-12",
+   "users": 0,
+   "listings": 2,
+   "transactions": 0,
+   "inquiries": 0
+  },
+  {
+   "date": "2024-12-14",
+   "users": 0,
+   "listings": 5,
+   "transactions": 0,
+   "inquiries": 0
+  },
+  {
+   "date": "2024-12-16",
+   "users": 0,
+   "listings": 5,
+   "transactions": 0,
+   "inquiries": 0
+  },
+  {
+   "date": "2024-12-17",
+   "users": 0,
+   "listings": 1,
+   "transactions": 0,
+   "inquiries": 0
+  },
+  {
+   "date": "2024-12-19",
+   "users": 0,
+   "listings": 1,
+   "transactions": 0,
+   "inquiries": 0
+  },
+  {
+   "date": "2025-01-04",
+   "users": 0,
+   "listings": 1,
+   "transactions": 0,
+   "inquiries": 0
+  },
+  {
+   "date": "2025-01-09",
+   "users": 0,
+   "listings": 1,
+   "transactions": 0,
+   "inquiries": 0
+  },
+  {
+   "date": "2025-01-17",
+   "users": 0,
+   "listings": 2,
+   "transactions": 0,
+   "inquiries": 0
+  },
+  {
+   "date": "2025-01-21",
+   "users": 0,
+   "listings": 2,
+   "transactions": 0,
+   "inquiries": 0
+  },
+  {
+   "date": "2025-01-22",
+   "users": 0,
+   "listings": 1,
+   "transactions": 0,
+   "inquiries": 0
+  },
+  {
+   "date": "2025-01-25",
+   "users": 0,
+   "listings": 1,
+   "transactions": 0,
+   "inquiries": 0
+  },
+  {
+   "date": "2025-01-26",
+   "users": 0,
+   "listings": 1,
+   "transactions": 0,
+   "inquiries": 0
+  },
+  {
+   "date": "2025-01-27",
+   "users": 0,
+   "listings": 1,
+   "transactions": 0,
+   "inquiries": 0
+  },
+  {
+   "date": "2025-01-28",
+   "users": 0,
+   "listings": 1,
+   "transactions": 0,
+   "inquiries": 0
+  },
+  {
+   "date": "2025-01-29",
+   "users": 0,
+   "listings": 1,
+   "transactions": 0,
+   "inquiries": 0
+  },
+  {
+   "date": "2025-01-31",
+   "users": 0,
+   "listings": 2,
+   "transactions": 0,
+   "inquiries": 0
+  },
+  {
+   "date": "2025-02-04",
+   "users": 0,
+   "listings": 1,
+   "transactions": 0,
+   "inquiries": 0
+  },
+  {
+   "date": "2025-02-08",
+   "users": 0,
+   "listings": 1,
+   "transactions": 0,
+   "inquiries": 0
+  },
+  {
+   "date": "2025-02-13",
+   "users": 0,
+   "listings": 1,
+   "transactions": 0,
+   "inquiries": 0
+  },
+  {
+   "date": "2025-02-19",
+   "users": 0,
+   "listings": 62,
+   "transactions": 0,
+   "inquiries": 0
+  },
+  {
+   "date": "2025-02-20",
+   "users": 0,
+   "listings": 4,
+   "transactions": 0,
+   "inquiries": 0
+  },
+  {
+   "date": "2025-02-26",
+   "users": 0,
+   "listings": 1,
+   "transactions": 0,
+   "inquiries": 0
+  },
+  {
+   "date": "2025-02-27",
+   "users": 0,
+   "listings": 2,
+   "transactions": 0,
+   "inquiries": 0
+  },
+  {
+   "date": "2025-03-03",
+   "users": 0,
+   "listings": 3,
+   "transactions": 0,
+   "inquiries": 0
+  },
+  {
+   "date": "2025-03-05",
+   "users": 0,
+   "listings": 2,
+   "transactions": 0,
+   "inquiries": 0
+  },
+  {
+   "date": "2025-03-09",
+   "users": 0,
+   "listings": 1,
+   "transactions": 0,
+   "inquiries": 0
+  },
+  {
+   "date": "2025-03-10",
+   "users": 0,
+   "listings": 1,
+   "transactions": 0,
+   "inquiries": 0
+  },
+  {
+   "date": "2025-03-11",
+   "users": 0,
+   "listings": 2,
+   "transactions": 0,
+   "inquiries": 0
+  },
+  {
+   "date": "2025-03-12",
+   "users": 0,
+   "listings": 1,
+   "transactions": 0,
+   "inquiries": 0
+  },
+  {
+   "date": "2025-03-18",
+   "users": 0,
+   "listings": 1,
+   "transactions": 0,
+   "inquiries": 0
+  },
+  {
+   "date": "2025-03-21",
+   "users": 0,
+   "listings": 2,
+   "transactions": 0,
+   "inquiries": 0
+  },
+  {
+   "date": "2025-03-23",
+   "users": 0,
+   "listings": 629,
+   "transactions": 0,
+   "inquiries": 0
+  },
+  {
+   "date": "2025-03-26",
+   "users": 0,
+   "listings": 1,
+   "transactions": 0,
+   "inquiries": 0
+  },
+  {
+   "date": "2025-03-27",
+   "users": 0,
+   "listings": 1,
+   "transactions": 0,
+   "inquiries": 0
+  },
+  {
+   "date": "2025-04-05",
+   "users": 0,
+   "listings": 1,
+   "transactions": 0,
+   "inquiries": 0
+  },
+  {
+   "date": "2025-04-10",
+   "users": 0,
+   "listings": 6,
+   "transactions": 0,
+   "inquiries": 0
+  },
+  {
+   "date": "2025-04-11",
+   "users": 0,
+   "listings": 1,
+   "transactions": 0,
+   "inquiries": 0
+  },
+  {
+   "date": "2025-04-14",
+   "users": 0,
+   "listings": 1,
+   "transactions": 0,
+   "inquiries": 0
+  },
+  {
+   "date": "2025-04-20",
+   "users": 0,
+   "listings": 1,
+   "transactions": 0,
+   "inquiries": 0
+  },
+  {
+   "date": "2025-04-23",
+   "users": 0,
+   "listings": 2,
+   "transactions": 0,
+   "inquiries": 0
+  },
+  {
+   "date": "2025-04-28",
+   "users": 0,
+   "listings": 1,
+   "transactions": 0,
+   "inquiries": 0
+  },
+  {
+   "date": "2025-05-10",
+   "users": 0,
+   "listings": 1,
+   "transactions": 0,
+   "inquiries": 0
+  },
+  {
+   "date": "2025-05-11",
+   "users": 0,
+   "listings": 1,
+   "transactions": 0,
+   "inquiries": 0
+  },
+  {
+   "date": "2025-05-19",
+   "users": 0,
+   "listings": 1,
+   "transactions": 0,
+   "inquiries": 0
+  },
+  {
+   "date": "2025-05-21",
+   "users": 0,
+   "listings": 1,
+   "transactions": 0,
+   "inquiries": 0
+  },
+  {
+   "date": "2025-05-22",
+   "users": 0,
+   "listings": 2,
+   "transactions": 0,
+   "inquiries": 0
+  },
+  {
+   "date": "2025-05-27",
+   "users": 0,
+   "listings": 1,
+   "transactions": 0,
+   "inquiries": 0
+  },
+  {
+   "date": "2025-05-28",
+   "users": 0,
+   "listings": 2,
+   "transactions": 0,
+   "inquiries": 0
+  },
+  {
+   "date": "2025-06-09",
+   "users": 1037,
+   "listings": 0,
+   "transactions": 0,
+   "inquiries": 0
+  },
+  {
+   "date": "2025-06-11",
+   "users": 1,
+   "listings": 0,
+   "transactions": 3,
+   "inquiries": 3
+  },
+  {
+   "date": "2025-06-12",
+   "users": 3,
+   "listings": 0,
+   "transactions": 0,
+   "inquiries": 0
+  },
+  {
+   "date": "2025-06-13",
+   "users": 4,
+   "listings": 0,
+   "transactions": 6,
+   "inquiries": 6
+  },
+  {
+   "date": "2025-06-14",
+   "users": 6,
+   "listings": 0,
+   "transactions": 3,
+   "inquiries": 3
+  },
+  {
+   "date": "2025-06-15",
+   "users": 1,
+   "listings": 0,
+   "transactions": 1,
+   "inquiries": 1
+  },
+  {
+   "date": "2025-06-16",
+   "users": 2,
+   "listings": 1,
+   "transactions": 1,
+   "inquiries": 1
+  },
+  {
+   "date": "2025-06-17",
+   "users": 2,
+   "listings": 1,
+   "transactions": 1,
+   "inquiries": 1
+  },
+  {
+   "date": "2025-06-20",
+   "users": 1,
+   "listings": 1,
+   "transactions": 0,
+   "inquiries": 0
+  },
+  {
+   "date": "2025-06-22",
+   "users": 1,
+   "listings": 0,
+   "transactions": 4,
+   "inquiries": 4
+  },
+  {
+   "date": "2025-06-23",
+   "users": 0,
+   "listings": 2,
+   "transactions": 1,
+   "inquiries": 1
+  },
+  {
+   "date": "2025-06-24",
+   "users": 0,
+   "listings": 1,
+   "transactions": 0,
+   "inquiries": 0
+  },
+  {
+   "date": "2025-06-25",
+   "users": 1,
+   "listings": 1,
+   "transactions": 0,
+   "inquiries": 0
+  },
+  {
+   "date": "2025-06-26",
+   "users": 2,
+   "listings": 0,
+   "transactions": 0,
+   "inquiries": 0
+  },
+  {
+   "date": "2025-06-27",
+   "users": 1,
+   "listings": 0,
+   "transactions": 1,
+   "inquiries": 1
+  },
+  {
+   "date": "2025-06-28",
+   "users": 1,
+   "listings": 0,
+   "transactions": 0,
+   "inquiries": 0
+  },
+  {
+   "date": "2025-06-29",
+   "users": 1,
+   "listings": 0,
+   "transactions": 1,
+   "inquiries": 1
+  },
+  {
+   "date": "2025-06-30",
+   "users": 1,
+   "listings": 0,
+   "transactions": 1,
+   "inquiries": 1
+  },
+  {
+   "date": "2025-07-01",
+   "users": 2,
+   "listings": 2,
+   "transactions": 1,
+   "inquiries": 1
+  },
+  {
+   "date": "2025-07-02",
+   "users": 0,
+   "listings": 1,
+   "transactions": 1,
+   "inquiries": 1
+  },
+  {
+   "date": "2025-07-03",
+   "users": 1,
+   "listings": 0,
+   "transactions": 1,
+   "inquiries": 1
+  },
+  {
+   "date": "2025-07-04",
+   "users": 1,
+   "listings": 1,
+   "transactions": 0,
+   "inquiries": 0
+  },
+  {
+   "date": "2025-07-07",
+   "users": 0,
+   "listings": 0,
+   "transactions": 1,
+   "inquiries": 1
+  },
+  {
+   "date": "2025-07-08",
+   "users": 2,
+   "listings": 1,
+   "transactions": 5,
+   "inquiries": 5
+  },
+  {
+   "date": "2025-07-10",
+   "users": 0,
+   "listings": 2,
+   "transactions": 0,
+   "inquiries": 0
+  },
+  {
+   "date": "2025-07-13",
+   "users": 1,
+   "listings": 0,
+   "transactions": 1,
+   "inquiries": 1
+  },
+  {
+   "date": "2025-07-14",
+   "users": 3,
+   "listings": 0,
+   "transactions": 4,
+   "inquiries": 4
+  },
+  {
+   "date": "2025-07-15",
+   "users": 1,
+   "listings": 0,
+   "transactions": 0,
+   "inquiries": 0
+  },
+  {
+   "date": "2025-07-16",
+   "users": 3,
+   "listings": 1,
+   "transactions": 1,
+   "inquiries": 1
+  },
+  {
+   "date": "2025-07-17",
+   "users": 3,
+   "listings": 2,
+   "transactions": 1,
+   "inquiries": 1
+  },
+  {
+   "date": "2025-07-19",
+   "users": 2,
+   "listings": 0,
+   "transactions": 5,
+   "inquiries": 5
+  },
+  {
+   "date": "2025-07-20",
+   "users": 1,
+   "listings": 0,
+   "transactions": 1,
+   "inquiries": 1
+  },
+  {
+   "date": "2025-07-21",
+   "users": 2,
+   "listings": 0,
+   "transactions": 0,
+   "inquiries": 0
+  },
+  {
+   "date": "2025-07-22",
+   "users": 1,
+   "listings": 0,
+   "transactions": 0,
+   "inquiries": 0
+  },
+  {
+   "date": "2025-07-23",
+   "users": 2,
+   "listings": 1,
+   "transactions": 0,
+   "inquiries": 0
+  },
+  {
+   "date": "2025-07-24",
+   "users": 3,
+   "listings": 3,
+   "transactions": 0,
+   "inquiries": 0
+  },
+  {
+   "date": "2025-07-25",
+   "users": 4,
+   "listings": 0,
+   "transactions": 1,
+   "inquiries": 1
+  },
+  {
+   "date": "2025-07-26",
+   "users": 4,
+   "listings": 1,
+   "transactions": 0,
+   "inquiries": 0
+  },
+  {
+   "date": "2025-07-27",
+   "users": 6,
+   "listings": 3,
+   "transactions": 1,
+   "inquiries": 1
+  },
+  {
+   "date": "2025-07-28",
+   "users": 1,
+   "listings": 0,
+   "transactions": 0,
+   "inquiries": 0
+  },
+  {
+   "date": "2025-07-29",
+   "users": 3,
+   "listings": 1,
+   "transactions": 3,
+   "inquiries": 3
+  },
+  {
+   "date": "2025-07-30",
+   "users": 3,
+   "listings": 1,
+   "transactions": 3,
+   "inquiries": 3
+  },
+  {
+   "date": "2025-07-31",
+   "users": 2,
+   "listings": 1,
+   "transactions": 0,
+   "inquiries": 0
+  },
+  {
+   "date": "2025-08-01",
+   "users": 2,
+   "listings": 1,
+   "transactions": 0,
+   "inquiries": 0
+  },
+  {
+   "date": "2025-08-03",
+   "users": 1,
+   "listings": 0,
+   "transactions": 0,
+   "inquiries": 0
+  },
+  {
+   "date": "2025-08-04",
+   "users": 2,
+   "listings": 0,
+   "transactions": 0,
+   "inquiries": 0
+  },
+  {
+   "date": "2025-08-05",
+   "users": 3,
+   "listings": 2,
+   "transactions": 1,
+   "inquiries": 1
+  },
+  {
+   "date": "2025-08-06",
+   "users": 3,
+   "listings": 0,
+   "transactions": 1,
+   "inquiries": 1
+  },
+  {
+   "date": "2025-08-07",
+   "users": 3,
+   "listings": 1,
+   "transactions": 3,
+   "inquiries": 3
+  },
+  {
+   "date": "2025-08-08",
+   "users": 2,
+   "listings": 11,
+   "transactions": 2,
+   "inquiries": 2
+  },
+  {
+   "date": "2025-08-10",
+   "users": 2,
+   "listings": 0,
+   "transactions": 1,
+   "inquiries": 1
+  },
+  {
+   "date": "2025-08-11",
+   "users": 1,
+   "listings": 0,
+   "transactions": 1,
+   "inquiries": 1
+  },
+  {
+   "date": "2025-08-12",
+   "users": 3,
+   "listings": 2,
+   "transactions": 1,
+   "inquiries": 1
+  },
+  {
+   "date": "2025-08-13",
+   "users": 2,
+   "listings": 2,
+   "transactions": 0,
+   "inquiries": 0
+  },
+  {
+   "date": "2025-08-14",
+   "users": 2,
+   "listings": 0,
+   "transactions": 0,
+   "inquiries": 0
+  },
+  {
+   "date": "2025-08-15",
+   "users": 2,
+   "listings": 0,
+   "transactions": 0,
+   "inquiries": 0
+  },
+  {
+   "date": "2025-08-16",
+   "users": 2,
+   "listings": 0,
+   "transactions": 1,
+   "inquiries": 1
+  },
+  {
+   "date": "2025-08-17",
+   "users": 2,
+   "listings": 0,
+   "transactions": 0,
+   "inquiries": 0
+  },
+  {
+   "date": "2025-08-18",
+   "users": 6,
+   "listings": 3,
+   "transactions": 2,
+   "inquiries": 2
+  },
+  {
+   "date": "2025-08-19",
+   "users": 5,
+   "listings": 2,
+   "transactions": 1,
+   "inquiries": 1
+  },
+  {
+   "date": "2025-08-20",
+   "users": 3,
+   "listings": 0,
+   "transactions": 2,
+   "inquiries": 2
+  },
+  {
+   "date": "2025-08-21",
+   "users": 0,
+   "listings": 0,
+   "transactions": 1,
+   "inquiries": 1
+  },
+  {
+   "date": "2025-08-23",
+   "users": 4,
+   "listings": 0,
+   "transactions": 1,
+   "inquiries": 1
+  },
+  {
+   "date": "2025-08-24",
+   "users": 1,
+   "listings": 0,
+   "transactions": 0,
+   "inquiries": 0
+  },
+  {
+   "date": "2025-08-25",
+   "users": 2,
+   "listings": 4,
+   "transactions": 5,
+   "inquiries": 5
+  },
+  {
+   "date": "2025-08-26",
+   "users": 3,
+   "listings": 9,
+   "transactions": 2,
+   "inquiries": 2
+  },
+  {
+   "date": "2025-08-27",
+   "users": 4,
+   "listings": 1,
+   "transactions": 0,
+   "inquiries": 0
+  },
+  {
+   "date": "2025-08-28",
+   "users": 1,
+   "listings": 1,
+   "transactions": 0,
+   "inquiries": 0
+  },
+  {
+   "date": "2025-08-29",
+   "users": 1,
+   "listings": 0,
+   "transactions": 3,
+   "inquiries": 3
+  },
+  {
+   "date": "2025-08-30",
+   "users": 4,
+   "listings": 0,
+   "transactions": 3,
+   "inquiries": 3
+  },
+  {
+   "date": "2025-08-31",
+   "users": 1,
+   "listings": 0,
+   "transactions": 0,
+   "inquiries": 0
+  },
+  {
+   "date": "2025-09-01",
+   "users": 5,
+   "listings": 1,
+   "transactions": 4,
+   "inquiries": 4
+  },
+  {
+   "date": "2025-09-02",
+   "users": 2,
+   "listings": 2,
+   "transactions": 8,
+   "inquiries": 8
+  },
+  {
+   "date": "2025-09-03",
+   "users": 3,
+   "listings": 1,
+   "transactions": 1,
+   "inquiries": 1
+  },
+  {
+   "date": "2025-09-04",
+   "users": 4,
+   "listings": 0,
+   "transactions": 0,
+   "inquiries": 0
+  },
+  {
+   "date": "2025-09-05",
+   "users": 3,
+   "listings": 0,
+   "transactions": 2,
+   "inquiries": 2
+  },
+  {
+   "date": "2025-09-06",
+   "users": 1,
+   "listings": 0,
+   "transactions": 0,
+   "inquiries": 0
+  },
+  {
+   "date": "2025-09-07",
+   "users": 0,
+   "listings": 1,
+   "transactions": 0,
+   "inquiries": 0
+  },
+  {
+   "date": "2025-09-08",
+   "users": 1,
+   "listings": 2,
+   "transactions": 0,
+   "inquiries": 0
+  },
+  {
+   "date": "2025-09-09",
+   "users": 1,
+   "listings": 0,
+   "transactions": 0,
+   "inquiries": 0
+  },
+  {
+   "date": "2025-09-10",
+   "users": 5,
+   "listings": 3,
+   "transactions": 0,
+   "inquiries": 0
+  },
+  {
+   "date": "2025-09-11",
+   "users": 2,
+   "listings": 0,
+   "transactions": 1,
+   "inquiries": 1
+  },
+  {
+   "date": "2025-09-12",
+   "users": 2,
+   "listings": 1,
+   "transactions": 0,
+   "inquiries": 0
+  },
+  {
+   "date": "2025-09-13",
+   "users": 2,
+   "listings": 0,
+   "transactions": 0,
+   "inquiries": 0
+  },
+  {
+   "date": "2025-09-14",
+   "users": 2,
+   "listings": 0,
+   "transactions": 2,
+   "inquiries": 2
+  },
+  {
+   "date": "2025-09-15",
+   "users": 0,
+   "listings": 1,
+   "transactions": 0,
+   "inquiries": 0
+  },
+  {
+   "date": "2025-09-16",
+   "users": 0,
+   "listings": 1,
+   "transactions": 0,
+   "inquiries": 0
+  },
+  {
+   "date": "2025-09-17",
+   "users": 1,
+   "listings": 0,
+   "transactions": 1,
+   "inquiries": 1
+  },
+  {
+   "date": "2025-09-19",
+   "users": 1,
+   "listings": 0,
+   "transactions": 1,
+   "inquiries": 1
+  },
+  {
+   "date": "2025-09-20",
+   "users": 1,
+   "listings": 0,
+   "transactions": 1,
+   "inquiries": 1
+  },
+  {
+   "date": "2025-09-21",
+   "users": 1,
+   "listings": 0,
+   "transactions": 0,
+   "inquiries": 0
+  },
+  {
+   "date": "2025-09-22",
+   "users": 3,
+   "listings": 0,
+   "transactions": 3,
+   "inquiries": 3
+  },
+  {
+   "date": "2025-09-24",
+   "users": 3,
+   "listings": 3,
+   "transactions": 2,
+   "inquiries": 2
+  },
+  {
+   "date": "2025-09-25",
+   "users": 3,
+   "listings": 0,
+   "transactions": 2,
+   "inquiries": 2
+  },
+  {
+   "date": "2025-09-26",
+   "users": 3,
+   "listings": 1,
+   "transactions": 2,
+   "inquiries": 2
+  },
+  {
+   "date": "2025-09-27",
+   "users": 4,
+   "listings": 1,
+   "transactions": 0,
+   "inquiries": 0
+  },
+  {
+   "date": "2025-09-28",
+   "users": 2,
+   "listings": 2,
+   "transactions": 0,
+   "inquiries": 0
+  },
+  {
+   "date": "2025-09-29",
+   "users": 7,
+   "listings": 2,
+   "transactions": 3,
+   "inquiries": 3
+  },
+  {
+   "date": "2025-09-30",
+   "users": 5,
+   "listings": 6,
+   "transactions": 3,
+   "inquiries": 3
+  },
+  {
+   "date": "2025-10-01",
+   "users": 2,
+   "listings": 4,
+   "transactions": 1,
+   "inquiries": 1
+  },
+  {
+   "date": "2025-10-02",
+   "users": 4,
+   "listings": 1,
+   "transactions": 1,
+   "inquiries": 1
+  },
+  {
+   "date": "2025-10-03",
+   "users": 6,
+   "listings": 1,
+   "transactions": 7,
+   "inquiries": 7
+  },
+  {
+   "date": "2025-10-04",
+   "users": 2,
+   "listings": 0,
+   "transactions": 1,
+   "inquiries": 1
+  },
+  {
+   "date": "2025-10-05",
+   "users": 1,
+   "listings": 0,
+   "transactions": 0,
+   "inquiries": 0
+  },
+  {
+   "date": "2025-10-06",
+   "users": 7,
+   "listings": 2,
+   "transactions": 11,
+   "inquiries": 11
+  },
+  {
+   "date": "2025-10-07",
+   "users": 2,
+   "listings": 1,
+   "transactions": 2,
+   "inquiries": 2
+  },
+  {
+   "date": "2025-10-08",
+   "users": 2,
+   "listings": 2,
+   "transactions": 4,
+   "inquiries": 4
+  },
+  {
+   "date": "2025-10-09",
+   "users": 2,
+   "listings": 1,
+   "transactions": 0,
+   "inquiries": 0
+  },
+  {
+   "date": "2025-10-10",
+   "users": 2,
+   "listings": 0,
+   "transactions": 2,
+   "inquiries": 2
+  },
+  {
+   "date": "2025-10-11",
+   "users": 2,
+   "listings": 1,
+   "transactions": 2,
+   "inquiries": 2
+  },
+  {
+   "date": "2025-10-12",
+   "users": 6,
+   "listings": 0,
+   "transactions": 2,
+   "inquiries": 2
+  },
+  {
+   "date": "2025-10-13",
+   "users": 2,
+   "listings": 0,
+   "transactions": 2,
+   "inquiries": 2
+  },
+  {
+   "date": "2025-10-14",
+   "users": 3,
+   "listings": 2,
+   "transactions": 2,
+   "inquiries": 2
+  },
+  {
+   "date": "2025-10-15",
+   "users": 5,
+   "listings": 5,
+   "transactions": 6,
+   "inquiries": 6
+  },
+  {
+   "date": "2025-10-16",
+   "users": 1,
+   "listings": 2,
+   "transactions": 2,
+   "inquiries": 2
+  },
+  {
+   "date": "2025-10-17",
+   "users": 2,
+   "listings": 0,
+   "transactions": 0,
+   "inquiries": 0
+  },
+  {
+   "date": "2025-10-18",
+   "users": 3,
+   "listings": 1,
+   "transactions": 2,
+   "inquiries": 2
+  },
+  {
+   "date": "2025-10-19",
+   "users": 1,
+   "listings": 1,
+   "transactions": 0,
+   "inquiries": 0
+  },
+  {
+   "date": "2025-10-20",
+   "users": 1,
+   "listings": 2,
+   "transactions": 0,
+   "inquiries": 0
+  },
+  {
+   "date": "2025-10-21",
+   "users": 0,
+   "listings": 1,
+   "transactions": 0,
+   "inquiries": 0
+  },
+  {
+   "date": "2025-10-22",
+   "users": 3,
+   "listings": 3,
+   "transactions": 1,
+   "inquiries": 1
+  },
+  {
+   "date": "2025-10-23",
+   "users": 3,
+   "listings": 3,
+   "transactions": 1,
+   "inquiries": 1
+  },
+  {
+   "date": "2025-10-24",
+   "users": 3,
+   "listings": 1,
+   "transactions": 0,
+   "inquiries": 0
+  },
+  {
+   "date": "2025-10-25",
+   "users": 3,
+   "listings": 3,
+   "transactions": 1,
+   "inquiries": 1
+  },
+  {
+   "date": "2025-10-26",
+   "users": 1,
+   "listings": 1,
+   "transactions": 4,
+   "inquiries": 4
+  },
+  {
+   "date": "2025-10-27",
+   "users": 2,
+   "listings": 1,
+   "transactions": 1,
+   "inquiries": 1
+  },
+  {
+   "date": "2025-10-28",
+   "users": 2,
+   "listings": 5,
+   "transactions": 1,
+   "inquiries": 1
+  },
+  {
+   "date": "2025-10-29",
+   "users": 2,
+   "listings": 2,
+   "transactions": 8,
+   "inquiries": 8
+  },
+  {
+   "date": "2025-10-30",
+   "users": 12,
+   "listings": 1,
+   "transactions": 0,
+   "inquiries": 0
+  },
+  {
+   "date": "2025-10-31",
+   "users": 29,
+   "listings": 1,
+   "transactions": 0,
+   "inquiries": 0
+  },
+  {
+   "date": "2025-11-01",
+   "users": 18,
+   "listings": 1,
+   "transactions": 0,
+   "inquiries": 0
+  },
+  {
+   "date": "2025-11-02",
+   "users": 23,
+   "listings": 0,
+   "transactions": 2,
+   "inquiries": 2
+  },
+  {
+   "date": "2025-11-03",
+   "users": 25,
+   "listings": 3,
+   "transactions": 1,
+   "inquiries": 1
+  },
+  {
+   "date": "2025-11-04",
+   "users": 352,
+   "listings": 6,
+   "transactions": 1,
+   "inquiries": 1
+  },
+  {
+   "date": "2025-11-05",
+   "users": 581,
+   "listings": 2,
+   "transactions": 6,
+   "inquiries": 6
+  },
+  {
+   "date": "2025-11-06",
+   "users": 223,
+   "listings": 4,
+   "transactions": 6,
+   "inquiries": 6
+  },
+  {
+   "date": "2025-11-07",
+   "users": 77,
+   "listings": 1,
+   "transactions": 3,
+   "inquiries": 3
+  },
+  {
+   "date": "2025-11-08",
+   "users": 30,
+   "listings": 0,
+   "transactions": 0,
+   "inquiries": 0
+  },
+  {
+   "date": "2025-11-09",
+   "users": 21,
+   "listings": 0,
+   "transactions": 0,
+   "inquiries": 0
+  },
+  {
+   "date": "2025-11-10",
+   "users": 19,
+   "listings": 0,
+   "transactions": 0,
+   "inquiries": 0
+  },
+  {
+   "date": "2025-11-11",
+   "users": 12,
+   "listings": 1,
+   "transactions": 0,
+   "inquiries": 0
+  },
+  {
+   "date": "2025-11-12",
+   "users": 12,
+   "listings": 1,
+   "transactions": 0,
+   "inquiries": 0
+  },
+  {
+   "date": "2025-11-13",
+   "users": 8,
+   "listings": 0,
+   "transactions": 4,
+   "inquiries": 4
+  },
+  {
+   "date": "2025-11-14",
+   "users": 7,
+   "listings": 0,
+   "transactions": 1,
+   "inquiries": 1
+  },
+  {
+   "date": "2025-11-15",
+   "users": 9,
+   "listings": 0,
+   "transactions": 3,
+   "inquiries": 3
+  },
+  {
+   "date": "2025-11-16",
+   "users": 6,
+   "listings": 0,
+   "transactions": 0,
+   "inquiries": 0
+  },
+  {
+   "date": "2025-11-17",
+   "users": 5,
+   "listings": 1,
+   "transactions": 0,
+   "inquiries": 0
+  },
+  {
+   "date": "2025-11-18",
+   "users": 2,
+   "listings": 2,
+   "transactions": 0,
+   "inquiries": 0
+  },
+  {
+   "date": "2025-11-19",
+   "users": 4,
+   "listings": 1,
+   "transactions": 0,
+   "inquiries": 0
+  },
+  {
+   "date": "2025-11-20",
+   "users": 3,
+   "listings": 3,
+   "transactions": 0,
+   "inquiries": 0
+  },
+  {
+   "date": "2025-11-21",
+   "users": 2,
+   "listings": 0,
+   "transactions": 0,
+   "inquiries": 0
+  },
+  {
+   "date": "2025-11-22",
+   "users": 4,
+   "listings": 0,
+   "transactions": 0,
+   "inquiries": 0
+  },
+  {
+   "date": "2025-11-23",
+   "users": 1,
+   "listings": 1,
+   "transactions": 0,
+   "inquiries": 0
+  },
+  {
+   "date": "2025-11-24",
+   "users": 4,
+   "listings": 2,
+   "transactions": 0,
+   "inquiries": 0
+  },
+  {
+   "date": "2025-11-25",
+   "users": 3,
+   "listings": 0,
+   "transactions": 0,
+   "inquiries": 0
+  },
+  {
+   "date": "2025-11-26",
+   "users": 3,
+   "listings": 1,
+   "transactions": 0,
+   "inquiries": 0
+  },
+  {
+   "date": "2025-11-27",
+   "users": 1,
+   "listings": 1,
+   "transactions": 0,
+   "inquiries": 0
+  },
+  {
+   "date": "2025-11-28",
+   "users": 1,
+   "listings": 0,
+   "transactions": 2,
+   "inquiries": 2
+  },
+  {
+   "date": "2025-11-29",
+   "users": 0,
+   "listings": 1,
+   "transactions": 0,
+   "inquiries": 0
+  },
+  {
+   "date": "2025-11-30",
+   "users": 2,
+   "listings": 1,
+   "transactions": 0,
+   "inquiries": 0
+  },
+  {
+   "date": "2025-12-01",
+   "users": 4,
+   "listings": 0,
+   "transactions": 2,
+   "inquiries": 2
+  },
+  {
+   "date": "2025-12-02",
+   "users": 3,
+   "listings": 3,
+   "transactions": 1,
+   "inquiries": 1
+  },
+  {
+   "date": "2025-12-03",
+   "users": 5,
+   "listings": 2,
+   "transactions": 0,
+   "inquiries": 0
+  },
+  {
+   "date": "2025-12-04",
+   "users": 3,
+   "listings": 0,
+   "transactions": 1,
+   "inquiries": 1
+  },
+  {
+   "date": "2025-12-05",
+   "users": 1,
+   "listings": 0,
+   "transactions": 2,
+   "inquiries": 2
+  },
+  {
+   "date": "2025-12-06",
+   "users": 7,
+   "listings": 0,
+   "transactions": 1,
+   "inquiries": 1
+  },
+  {
+   "date": "2025-12-07",
+   "users": 10,
+   "listings": 1,
+   "transactions": 2,
+   "inquiries": 2
+  },
+  {
+   "date": "2025-12-08",
+   "users": 3,
+   "listings": 1,
+   "transactions": 0,
+   "inquiries": 0
+  },
+  {
+   "date": "2025-12-09",
+   "users": 13,
+   "listings": 1,
+   "transactions": 2,
+   "inquiries": 2
+  },
+  {
+   "date": "2025-12-10",
+   "users": 5,
+   "listings": 0,
+   "transactions": 1,
+   "inquiries": 1
+  },
+  {
+   "date": "2025-12-11",
+   "users": 3,
+   "listings": 0,
+   "transactions": 0,
+   "inquiries": 0
+  },
+  {
+   "date": "2025-12-12",
+   "users": 6,
+   "listings": 1,
+   "transactions": 3,
+   "inquiries": 3
+  },
+  {
+   "date": "2025-12-13",
+   "users": 5,
+   "listings": 1,
+   "transactions": 0,
+   "inquiries": 0
+  },
+  {
+   "date": "2025-12-14",
+   "users": 6,
+   "listings": 0,
+   "transactions": 0,
+   "inquiries": 0
+  },
+  {
+   "date": "2025-12-15",
+   "users": 2,
+   "listings": 1,
+   "transactions": 2,
+   "inquiries": 2
+  },
+  {
+   "date": "2025-12-16",
+   "users": 3,
+   "listings": 1,
+   "transactions": 2,
+   "inquiries": 2
+  },
+  {
+   "date": "2025-12-17",
+   "users": 2,
+   "listings": 0,
+   "transactions": 1,
+   "inquiries": 1
+  },
+  {
+   "date": "2025-12-18",
+   "users": 2,
+   "listings": 1,
+   "transactions": 0,
+   "inquiries": 0
+  },
+  {
+   "date": "2025-12-19",
+   "users": 2,
+   "listings": 0,
+   "transactions": 2,
+   "inquiries": 2
+  },
+  {
+   "date": "2025-12-21",
+   "users": 0,
+   "listings": 0,
+   "transactions": 1,
+   "inquiries": 1
+  },
+  {
+   "date": "2025-12-22",
+   "users": 1,
+   "listings": 0,
+   "transactions": 0,
+   "inquiries": 0
+  },
+  {
+   "date": "2025-12-23",
+   "users": 1,
+   "listings": 0,
+   "transactions": 0,
+   "inquiries": 0
+  },
+  {
+   "date": "2025-12-24",
+   "users": 1,
+   "listings": 0,
+   "transactions": 1,
+   "inquiries": 1
+  },
+  {
+   "date": "2025-12-25",
+   "users": 1,
+   "listings": 0,
+   "transactions": 2,
+   "inquiries": 2
+  },
+  {
+   "date": "2025-12-27",
+   "users": 1,
+   "listings": 0,
+   "transactions": 0,
+   "inquiries": 0
+  },
+  {
+   "date": "2025-12-28",
+   "users": 3,
+   "listings": 1,
+   "transactions": 1,
+   "inquiries": 1
+  },
+  {
+   "date": "2025-12-29",
+   "users": 1,
+   "listings": 0,
+   "transactions": 8,
+   "inquiries": 8
+  },
+  {
+   "date": "2025-12-31",
+   "users": 1,
+   "listings": 0,
+   "transactions": 0,
+   "inquiries": 0
+  },
+  {
+   "date": "2026-01-01",
+   "users": 2,
+   "listings": 1,
+   "transactions": 0,
+   "inquiries": 0
+  },
+  {
+   "date": "2026-01-02",
+   "users": 1,
+   "listings": 0,
+   "transactions": 7,
+   "inquiries": 7
+  },
+  {
+   "date": "2026-01-04",
+   "users": 3,
+   "listings": 0,
+   "transactions": 3,
+   "inquiries": 3
+  },
+  {
+   "date": "2026-01-05",
+   "users": 1,
+   "listings": 0,
+   "transactions": 0,
+   "inquiries": 0
+  },
+  {
+   "date": "2026-01-06",
+   "users": 1,
+   "listings": 2,
+   "transactions": 0,
+   "inquiries": 0
+  },
+  {
+   "date": "2026-01-07",
+   "users": 4,
+   "listings": 26,
+   "transactions": 1,
+   "inquiries": 1
+  },
+  {
+   "date": "2026-01-08",
+   "users": 1,
+   "listings": 20,
+   "transactions": 1,
+   "inquiries": 1
+  },
+  {
+   "date": "2026-01-09",
+   "users": 2,
+   "listings": 0,
+   "transactions": 3,
+   "inquiries": 3
+  },
+  {
+   "date": "2026-01-10",
+   "users": 0,
+   "listings": 0,
+   "transactions": 1,
+   "inquiries": 1
+  },
+  {
+   "date": "2026-01-11",
+   "users": 1,
+   "listings": 1,
+   "transactions": 0,
+   "inquiries": 0
+  },
+  {
+   "date": "2026-01-12",
+   "users": 1,
+   "listings": 10,
+   "transactions": 0,
+   "inquiries": 0
+  },
+  {
+   "date": "2026-01-13",
+   "users": 1,
+   "listings": 12,
+   "transactions": 3,
+   "inquiries": 3
+  },
+  {
+   "date": "2026-01-15",
+   "users": 2,
+   "listings": 2,
+   "transactions": 1,
+   "inquiries": 1
+  },
+  {
+   "date": "2026-01-16",
+   "users": 2,
+   "listings": 0,
+   "transactions": 4,
+   "inquiries": 4
+  },
+  {
+   "date": "2026-01-17",
+   "users": 2,
+   "listings": 1,
+   "transactions": 2,
+   "inquiries": 2
+  },
+  {
+   "date": "2026-01-18",
+   "users": 1,
+   "listings": 0,
+   "transactions": 1,
+   "inquiries": 1
+  },
+  {
+   "date": "2026-01-19",
+   "users": 2,
+   "listings": 0,
+   "transactions": 2,
+   "inquiries": 2
+  },
+  {
+   "date": "2026-01-20",
+   "users": 1,
+   "listings": 0,
+   "transactions": 1,
+   "inquiries": 1
+  },
+  {
+   "date": "2026-01-21",
+   "users": 3,
+   "listings": 1,
+   "transactions": 2,
+   "inquiries": 2
+  },
+  {
+   "date": "2026-01-22",
+   "users": 2,
+   "listings": 2,
+   "transactions": 3,
+   "inquiries": 3
+  },
+  {
+   "date": "2026-01-24",
+   "users": 0,
+   "listings": 1,
+   "transactions": 3,
+   "inquiries": 3
+  },
+  {
+   "date": "2026-01-26",
+   "users": 1,
+   "listings": 2,
+   "transactions": 0,
+   "inquiries": 0
+  },
+  {
+   "date": "2026-01-27",
+   "users": 2,
+   "listings": 0,
+   "transactions": 2,
+   "inquiries": 2
+  },
+  {
+   "date": "2026-01-28",
+   "users": 1,
+   "listings": 2,
+   "transactions": 1,
+   "inquiries": 1
+  },
+  {
+   "date": "2026-01-29",
+   "users": 2,
+   "listings": 3,
+   "transactions": 1,
+   "inquiries": 1
+  },
+  {
+   "date": "2026-01-30",
+   "users": 1,
+   "listings": 8,
+   "transactions": 0,
+   "inquiries": 0
+  },
+  {
+   "date": "2026-01-31",
+   "users": 1,
+   "listings": 0,
+   "transactions": 0,
+   "inquiries": 0
+  },
+  {
+   "date": "2026-02-01",
+   "users": 3,
+   "listings": 1,
+   "transactions": 1,
+   "inquiries": 1
+  },
+  {
+   "date": "2026-02-02",
+   "users": 1,
+   "listings": 2,
+   "transactions": 2,
+   "inquiries": 2
+  },
+  {
+   "date": "2026-02-03",
+   "users": 3,
+   "listings": 0,
+   "transactions": 2,
+   "inquiries": 2
+  },
+  {
+   "date": "2026-02-04",
+   "users": 1,
+   "listings": 0,
+   "transactions": 1,
+   "inquiries": 1
+  },
+  {
+   "date": "2026-02-05",
+   "users": 1,
+   "listings": 1,
+   "transactions": 1,
+   "inquiries": 1
+  },
+  {
+   "date": "2026-02-06",
+   "users": 1,
+   "listings": 2,
+   "transactions": 0,
+   "inquiries": 0
+  },
+  {
+   "date": "2026-02-07",
+   "users": 0,
+   "listings": 5,
+   "transactions": 0,
+   "inquiries": 0
+  },
+  {
+   "date": "2026-02-08",
+   "users": 3,
+   "listings": 0,
+   "transactions": 3,
+   "inquiries": 3
+  },
+  {
+   "date": "2026-02-09",
+   "users": 3,
+   "listings": 1,
+   "transactions": 1,
+   "inquiries": 1
+  },
+  {
+   "date": "2026-02-10",
+   "users": 0,
+   "listings": 1,
+   "transactions": 1,
+   "inquiries": 1
+  },
+  {
+   "date": "2026-02-11",
+   "users": 1,
+   "listings": 0,
+   "transactions": 0,
+   "inquiries": 0
+  },
+  {
+   "date": "2026-02-12",
+   "users": 4,
+   "listings": 4,
+   "transactions": 0,
+   "inquiries": 0
+  },
+  {
+   "date": "2026-02-13",
+   "users": 14,
+   "listings": 1,
+   "transactions": 1,
+   "inquiries": 1
+  },
+  {
+   "date": "2026-02-14",
+   "users": 2,
+   "listings": 0,
+   "transactions": 0,
+   "inquiries": 0
+  },
+  {
+   "date": "2026-02-15",
+   "users": 1,
+   "listings": 1,
+   "transactions": 0,
+   "inquiries": 0
+  },
+  {
+   "date": "2026-02-16",
+   "users": 3,
+   "listings": 2,
+   "transactions": 1,
+   "inquiries": 1
+  },
+  {
+   "date": "2026-02-17",
+   "users": 1,
+   "listings": 1,
+   "transactions": 0,
+   "inquiries": 0
+  },
+  {
+   "date": "2026-02-18",
+   "users": 22,
+   "listings": 1,
+   "transactions": 1,
+   "inquiries": 1
+  },
+  {
+   "date": "2026-02-19",
+   "users": 7,
+   "listings": 2,
+   "transactions": 1,
+   "inquiries": 1
+  },
+  {
+   "date": "2026-02-20",
+   "users": 5,
+   "listings": 0,
+   "transactions": 1,
+   "inquiries": 1
+  },
+  {
+   "date": "2026-02-21",
+   "users": 7,
+   "listings": 0,
+   "transactions": 3,
+   "inquiries": 3
+  },
+  {
+   "date": "2026-02-22",
+   "users": 22,
+   "listings": 0,
+   "transactions": 0,
+   "inquiries": 0
+  },
+  {
+   "date": "2026-02-23",
+   "users": 17,
+   "listings": 0,
+   "transactions": 0,
+   "inquiries": 0
+  },
+  {
+   "date": "2026-02-24",
+   "users": 7,
+   "listings": 1,
+   "transactions": 1,
+   "inquiries": 1
+  },
+  {
+   "date": "2026-02-25",
+   "users": 2,
+   "listings": 0,
+   "transactions": 0,
+   "inquiries": 0
+  },
+  {
+   "date": "2026-02-26",
+   "users": 3,
+   "listings": 4,
+   "transactions": 1,
+   "inquiries": 1
+  },
+  {
+   "date": "2026-02-27",
+   "users": 3,
+   "listings": 0,
+   "transactions": 0,
+   "inquiries": 0
+  },
+  {
+   "date": "2026-02-28",
+   "users": 10,
+   "listings": 1,
+   "transactions": 0,
+   "inquiries": 0
+  },
+  {
+   "date": "2026-03-01",
+   "users": 3,
+   "listings": 2,
+   "transactions": 0,
+   "inquiries": 0
+  },
+  {
+   "date": "2026-03-02",
+   "users": 101,
+   "listings": 2,
+   "transactions": 3,
+   "inquiries": 3
+  },
+  {
+   "date": "2026-03-03",
+   "users": 56,
+   "listings": 2,
+   "transactions": 0,
+   "inquiries": 0
+  },
+  {
+   "date": "2026-03-04",
+   "users": 24,
+   "listings": 2,
+   "transactions": 2,
+   "inquiries": 2
+  },
+  {
+   "date": "2026-03-05",
+   "users": 16,
+   "listings": 1,
+   "transactions": 1,
+   "inquiries": 1
+  },
+  {
+   "date": "2026-03-06",
+   "users": 13,
+   "listings": 1,
+   "transactions": 3,
+   "inquiries": 3
+  },
+  {
+   "date": "2026-03-07",
+   "users": 11,
+   "listings": 0,
+   "transactions": 3,
+   "inquiries": 3
+  },
+  {
+   "date": "2026-03-08",
+   "users": 17,
+   "listings": 1,
+   "transactions": 10,
+   "inquiries": 10
+  },
+  {
+   "date": "2026-03-09",
+   "users": 7,
+   "listings": 2,
+   "transactions": 2,
+   "inquiries": 2
+  },
+  {
+   "date": "2026-03-10",
+   "users": 8,
+   "listings": 7,
+   "transactions": 2,
+   "inquiries": 2
+  },
+  {
+   "date": "2026-03-11",
+   "users": 5,
+   "listings": 1,
+   "transactions": 0,
+   "inquiries": 0
+  },
+  {
+   "date": "2026-03-12",
+   "users": 3,
+   "listings": 0,
+   "transactions": 1,
+   "inquiries": 1
+  },
+  {
+   "date": "2026-03-13",
+   "users": 1,
+   "listings": 0,
+   "transactions": 0,
+   "inquiries": 0
+  },
+  {
+   "date": "2026-03-14",
+   "users": 4,
+   "listings": 0,
+   "transactions": 1,
+   "inquiries": 1
+  },
+  {
+   "date": "2026-03-15",
+   "users": 9,
+   "listings": 0,
+   "transactions": 2,
+   "inquiries": 2
+  },
+  {
+   "date": "2026-03-16",
+   "users": 6,
+   "listings": 2,
+   "transactions": 1,
+   "inquiries": 1
+  },
+  {
+   "date": "2026-03-17",
+   "users": 5,
+   "listings": 13,
+   "transactions": 1,
+   "inquiries": 1
+  },
+  {
+   "date": "2026-03-18",
+   "users": 11,
+   "listings": 2,
+   "transactions": 1,
+   "inquiries": 1
+  },
+  {
+   "date": "2026-03-19",
+   "users": 0,
+   "listings": 1,
+   "transactions": 2,
+   "inquiries": 2
+  },
+  {
+   "date": "2026-03-21",
+   "users": 5,
+   "listings": 1,
+   "transactions": 1,
+   "inquiries": 1
+  },
+  {
+   "date": "2026-03-22",
+   "users": 3,
+   "listings": 0,
+   "transactions": 1,
+   "inquiries": 1
+  },
+  {
+   "date": "2026-03-23",
+   "users": 1,
+   "listings": 0,
+   "transactions": 3,
+   "inquiries": 3
+  },
+  {
+   "date": "2026-03-24",
+   "users": 3,
+   "listings": 0,
+   "transactions": 3,
+   "inquiries": 3
+  },
+  {
+   "date": "2026-03-25",
+   "users": 2,
+   "listings": 0,
+   "transactions": 8,
+   "inquiries": 8
+  },
+  {
+   "date": "2026-03-26",
+   "users": 1,
+   "listings": 0,
+   "transactions": 3,
+   "inquiries": 3
+  },
+  {
+   "date": "2026-03-27",
+   "users": 7,
+   "listings": 0,
+   "transactions": 0,
+   "inquiries": 0
+  },
+  {
+   "date": "2026-03-28",
+   "users": 18,
+   "listings": 0,
+   "transactions": 0,
+   "inquiries": 0
+  },
+  {
+   "date": "2026-03-29",
+   "users": 37,
+   "listings": 1,
+   "transactions": 1,
+   "inquiries": 1
+  },
+  {
+   "date": "2026-03-30",
+   "users": 29,
+   "listings": 0,
+   "transactions": 0,
+   "inquiries": 0
+  },
+  {
+   "date": "2026-03-31",
+   "users": 8,
+   "listings": 0,
+   "transactions": 1,
+   "inquiries": 1
+  },
+  {
+   "date": "2026-04-01",
+   "users": 4,
+   "listings": 0,
+   "transactions": 0,
+   "inquiries": 0
+  },
+  {
+   "date": "2026-04-02",
+   "users": 3,
+   "listings": 1,
+   "transactions": 0,
+   "inquiries": 0
+  },
+  {
+   "date": "2026-04-03",
+   "users": 3,
+   "listings": 4,
+   "transactions": 0,
+   "inquiries": 0
+  },
+  {
+   "date": "2026-04-04",
+   "users": 1,
+   "listings": 0,
+   "transactions": 0,
+   "inquiries": 0
+  },
+  {
+   "date": "2026-04-05",
+   "users": 1,
+   "listings": 0,
+   "transactions": 0,
+   "inquiries": 0
+  },
+  {
+   "date": "2026-04-06",
+   "users": 6,
+   "listings": 1,
+   "transactions": 1,
+   "inquiries": 1
+  },
+  {
+   "date": "2026-04-07",
+   "users": 3,
+   "listings": 3,
+   "transactions": 1,
+   "inquiries": 1
+  },
+  {
+   "date": "2026-04-08",
+   "users": 2,
+   "listings": 2,
+   "transactions": 5,
+   "inquiries": 5
+  },
+  {
+   "date": "2026-04-09",
+   "users": 1,
+   "listings": 2,
+   "transactions": 0,
+   "inquiries": 0
+  },
+  {
+   "date": "2026-04-10",
+   "users": 4,
+   "listings": 2,
+   "transactions": 1,
+   "inquiries": 1
+  },
+  {
+   "date": "2026-04-11",
+   "users": 1,
+   "listings": 0,
+   "transactions": 0,
+   "inquiries": 0
+  },
+  {
+   "date": "2026-04-12",
+   "users": 3,
+   "listings": 0,
+   "transactions": 0,
+   "inquiries": 0
+  },
+  {
+   "date": "2026-04-13",
+   "users": 2,
+   "listings": 0,
+   "transactions": 0,
+   "inquiries": 0
+  },
+  {
+   "date": "2026-04-14",
+   "users": 5,
+   "listings": 1,
+   "transactions": 2,
+   "inquiries": 2
+  },
+  {
+   "date": "2026-04-15",
+   "users": 2,
+   "listings": 1,
+   "transactions": 0,
+   "inquiries": 0
+  },
+  {
+   "date": "2026-04-16",
+   "users": 9,
+   "listings": 4,
+   "transactions": 5,
+   "inquiries": 5
+  },
+  {
+   "date": "2026-04-17",
+   "users": 2,
+   "listings": 1,
+   "transactions": 5,
+   "inquiries": 5
+  },
+  {
+   "date": "2026-04-18",
+   "users": 0,
+   "listings": 75,
+   "transactions": 0,
+   "inquiries": 0
+  },
+  {
+   "date": "2026-04-19",
+   "users": 2,
+   "listings": 0,
+   "transactions": 1,
+   "inquiries": 1
+  },
+  {
+   "date": "2026-04-20",
+   "users": 3,
+   "listings": 0,
+   "transactions": 2,
+   "inquiries": 2
+  },
+  {
+   "date": "2026-04-21",
+   "users": 25,
+   "listings": 1,
+   "transactions": 6,
+   "inquiries": 6
+  },
+  {
+   "date": "2026-04-22",
+   "users": 55,
+   "listings": 3,
+   "transactions": 1,
+   "inquiries": 1
+  },
+  {
+   "date": "2026-04-23",
+   "users": 5,
+   "listings": 3,
+   "transactions": 3,
+   "inquiries": 3
+  },
+  {
+   "date": "2026-04-25",
+   "users": 5,
+   "listings": 1,
+   "transactions": 1,
+   "inquiries": 1
+  },
+  {
+   "date": "2026-04-26",
+   "users": 2,
+   "listings": 1,
+   "transactions": 2,
+   "inquiries": 2
+  },
+  {
+   "date": "2026-04-27",
+   "users": 2,
+   "listings": 0,
+   "transactions": 0,
+   "inquiries": 0
+  },
+  {
+   "date": "2026-04-29",
+   "users": 8,
+   "listings": 2,
+   "transactions": 1,
+   "inquiries": 1
+  },
+  {
+   "date": "2026-04-30",
+   "users": 3,
+   "listings": 0,
+   "transactions": 0,
+   "inquiries": 0
+  },
+  {
+   "date": "2026-05-01",
+   "users": 27,
+   "listings": 1,
+   "transactions": 3,
+   "inquiries": 3
+  },
+  {
+   "date": "2026-05-02",
+   "users": 24,
+   "listings": 4,
+   "transactions": 4,
+   "inquiries": 4
+  },
+  {
+   "date": "2026-05-03",
+   "users": 35,
+   "listings": 1,
+   "transactions": 1,
+   "inquiries": 1
+  },
+  {
+   "date": "2026-05-04",
+   "users": 15,
+   "listings": 0,
+   "transactions": 1,
+   "inquiries": 1
+  },
+  {
+   "date": "2026-05-05",
+   "users": 1,
+   "listings": 1,
+   "transactions": 0,
+   "inquiries": 0
+  },
+  {
+   "date": "2026-05-06",
+   "users": 5,
+   "listings": 0,
+   "transactions": 4,
+   "inquiries": 4
+  },
+  {
+   "date": "2026-05-07",
+   "users": 9,
+   "listings": 1,
+   "transactions": 8,
+   "inquiries": 8
+  },
+  {
+   "date": "2026-05-08",
+   "users": 2,
+   "listings": 0,
+   "transactions": 5,
+   "inquiries": 5
+  },
+  {
+   "date": "2026-05-09",
+   "users": 3,
+   "listings": 2,
+   "transactions": 1,
+   "inquiries": 1
+  },
+  {
+   "date": "2026-05-10",
+   "users": 3,
+   "listings": 1,
+   "transactions": 2,
+   "inquiries": 2
+  },
+  {
+   "date": "2026-05-11",
+   "users": 9,
+   "listings": 2,
+   "transactions": 3,
+   "inquiries": 3
+  },
+  {
+   "date": "2026-05-12",
+   "users": 3,
+   "listings": 0,
+   "transactions": 4,
+   "inquiries": 4
+  },
+  {
+   "date": "2026-05-13",
+   "users": 0,
+   "listings": 1,
+   "transactions": 0,
+   "inquiries": 0
+  },
+  {
+   "date": "2026-05-15",
+   "users": 3,
+   "listings": 0,
+   "transactions": 0,
+   "inquiries": 0
+  },
+  {
+   "date": "2026-05-16",
+   "users": 3,
+   "listings": 0,
+   "transactions": 1,
+   "inquiries": 1
+  },
+  {
+   "date": "2026-05-17",
+   "users": 4,
+   "listings": 0,
+   "transactions": 4,
+   "inquiries": 4
+  },
+  {
+   "date": "2026-05-18",
+   "users": 1,
+   "listings": 1,
+   "transactions": 0,
+   "inquiries": 0
+  },
+  {
+   "date": "2026-05-19",
+   "users": 4,
+   "listings": 3,
+   "transactions": 0,
+   "inquiries": 0
+  },
+  {
+   "date": "2026-05-21",
+   "users": 4,
+   "listings": 5,
+   "transactions": 4,
+   "inquiries": 4
+  },
+  {
+   "date": "2026-05-22",
+   "users": 1,
+   "listings": 0,
+   "transactions": 2,
+   "inquiries": 2
+  },
+  {
+   "date": "2026-05-23",
+   "users": 15,
+   "listings": 0,
+   "transactions": 3,
+   "inquiries": 3
+  },
+  {
+   "date": "2026-05-24",
+   "users": 61,
+   "listings": 1,
+   "transactions": 0,
+   "inquiries": 0
+  },
+  {
+   "date": "2026-05-25",
+   "users": 21,
+   "listings": 2,
+   "transactions": 3,
+   "inquiries": 3
+  },
+  {
+   "date": "2026-05-26",
+   "users": 3,
+   "listings": 2,
+   "transactions": 2,
+   "inquiries": 2
+  },
+  {
+   "date": "2026-05-27",
+   "users": 8,
+   "listings": 0,
+   "transactions": 2,
+   "inquiries": 2
+  },
+  {
+   "date": "2026-05-28",
+   "users": 1,
+   "listings": 1,
+   "transactions": 2,
+   "inquiries": 2
+  },
+  {
+   "date": "2026-05-29",
+   "users": 4,
+   "listings": 1,
+   "transactions": 3,
+   "inquiries": 3
+  },
+  {
+   "date": "2026-05-30",
+   "users": 1,
+   "listings": 0,
+   "transactions": 1,
+   "inquiries": 1
+  },
+  {
+   "date": "2026-06-01",
+   "users": 2,
+   "listings": 1,
+   "transactions": 0,
+   "inquiries": 0
+  },
+  {
+   "date": "2026-06-02",
+   "users": 1,
+   "listings": 1,
+   "transactions": 1,
+   "inquiries": 1
+  },
+  {
+   "date": "2026-06-03",
+   "users": 2,
+   "listings": 2,
+   "transactions": 7,
+   "inquiries": 7
+  },
+  {
+   "date": "2026-06-04",
+   "users": 1,
+   "listings": 1,
+   "transactions": 0,
+   "inquiries": 0
+  },
+  {
+   "date": "2026-06-05",
+   "users": 3,
+   "listings": 0,
+   "transactions": 6,
+   "inquiries": 6
+  },
+  {
+   "date": "2026-06-07",
+   "users": 1,
+   "listings": 1,
+   "transactions": 0,
+   "inquiries": 0
+  },
+  {
+   "date": "2026-06-08",
+   "users": 1,
+   "listings": 2,
+   "transactions": 1,
+   "inquiries": 1
+  },
+  {
+   "date": "2026-06-09",
+   "users": 2,
+   "listings": 2,
+   "transactions": 1,
+   "inquiries": 1
+  },
+  {
+   "date": "2026-06-10",
+   "users": 1,
+   "listings": 1,
+   "transactions": 2,
+   "inquiries": 2
+  },
+  {
+   "date": "2026-06-11",
+   "users": 1,
+   "listings": 1,
+   "transactions": 0,
+   "inquiries": 0
+  },
+  {
+   "date": "2026-06-12",
+   "users": 1,
+   "listings": 1,
+   "transactions": 2,
+   "inquiries": 2
+  },
+  {
+   "date": "2026-06-13",
+   "users": 3,
+   "listings": 2,
+   "transactions": 0,
+   "inquiries": 0
+  },
+  {
+   "date": "2026-06-14",
+   "users": 1,
+   "listings": 1,
+   "transactions": 1,
+   "inquiries": 1
+  },
+  {
+   "date": "2026-06-15",
+   "users": 1,
+   "listings": 0,
+   "transactions": 1,
+   "inquiries": 1
+  },
+  {
+   "date": "2026-06-16",
+   "users": 1,
+   "listings": 0,
+   "transactions": 1,
+   "inquiries": 1
+  },
+  {
+   "date": "2026-06-17",
+   "users": 1,
+   "listings": 1,
+   "transactions": 0,
+   "inquiries": 0
+  },
+  {
+   "date": "2026-06-18",
+   "users": 1,
+   "listings": 1,
+   "transactions": 0,
+   "inquiries": 0
+  },
+  {
+   "date": "2026-06-19",
+   "users": 2,
+   "listings": 1,
+   "transactions": 2,
+   "inquiries": 2
+  },
+  {
+   "date": "2026-06-20",
+   "users": 3,
+   "listings": 0,
+   "transactions": 1,
+   "inquiries": 1
+  },
+  {
+   "date": "2026-06-21",
+   "users": 16,
+   "listings": 1,
+   "transactions": 1,
+   "inquiries": 1
+  },
+  {
+   "date": "2026-06-22",
+   "users": 16,
+   "listings": 0,
+   "transactions": 3,
+   "inquiries": 3
+  },
+  {
+   "date": "2026-06-23",
+   "users": 5,
+   "listings": 1,
+   "transactions": 1,
+   "inquiries": 1
+  },
+  {
+   "date": "2026-06-24",
+   "users": 6,
+   "listings": 3,
+   "transactions": 0,
+   "inquiries": 0
+  },
+  {
+   "date": "2026-06-25",
+   "users": 5,
+   "listings": 0,
+   "transactions": 3,
+   "inquiries": 3
+  },
+  {
+   "date": "2026-06-26",
+   "users": 4,
+   "listings": 1,
+   "transactions": 10,
+   "inquiries": 10
+  },
+  {
+   "date": "2026-06-27",
+   "users": 3,
+   "listings": 1,
+   "transactions": 2,
+   "inquiries": 2
+  },
+  {
+   "date": "2026-06-28",
+   "users": 5,
+   "listings": 0,
+   "transactions": 6,
+   "inquiries": 6
+  },
+  {
+   "date": "2026-06-29",
+   "users": 2,
+   "listings": 0,
+   "transactions": 0,
+   "inquiries": 0
+  },
+  {
+   "date": "2026-06-30",
+   "users": 5,
+   "listings": 0,
+   "transactions": 1,
+   "inquiries": 1
+  },
+  {
+   "date": "2026-07-01",
+   "users": 0,
+   "listings": 0,
+   "transactions": 1,
+   "inquiries": 1
+  },
+  {
+   "date": "2026-07-02",
+   "users": 3,
+   "listings": 2,
+   "transactions": 1,
+   "inquiries": 1
+  },
+  {
+   "date": "2026-07-04",
+   "users": 1,
+   "listings": 0,
+   "transactions": 0,
+   "inquiries": 0
+  },
+  {
+   "date": "2026-07-05",
+   "users": 2,
+   "listings": 0,
+   "transactions": 0,
+   "inquiries": 0
+  },
+  {
+   "date": "2026-07-06",
+   "users": 4,
+   "listings": 2,
+   "transactions": 3,
+   "inquiries": 3
+  },
+  {
+   "date": "2026-07-07",
+   "users": 1,
+   "listings": 0,
+   "transactions": 0,
+   "inquiries": 0
+  },
+  {
+   "date": "2026-07-09",
+   "users": 2,
+   "listings": 1,
+   "transactions": 0,
+   "inquiries": 0
+  },
+  {
+   "date": "2026-07-10",
+   "users": 5,
+   "listings": 0,
+   "transactions": 3,
+   "inquiries": 3
+  },
+  {
+   "date": "2026-07-11",
+   "users": 2,
+   "listings": 0,
+   "transactions": 1,
+   "inquiries": 1
+  },
+  {
+   "date": "2026-07-12",
+   "users": 3,
+   "listings": 0,
+   "transactions": 0,
+   "inquiries": 0
+  },
+  {
+   "date": "2026-07-13",
+   "users": 6,
+   "listings": 0,
+   "transactions": 3,
+   "inquiries": 3
+  },
+  {
+   "date": "2026-07-14",
+   "users": 3,
+   "listings": 2,
+   "transactions": 5,
+   "inquiries": 5
+  },
+  {
+   "date": "2026-07-15",
+   "users": 5,
+   "listings": 2,
+   "transactions": 2,
+   "inquiries": 2
+  },
+  {
+   "date": "2026-07-16",
+   "users": 2,
+   "listings": 2,
+   "transactions": 1,
+   "inquiries": 1
+  },
+  {
+   "date": "2026-07-17",
+   "users": 2,
+   "listings": 4,
+   "transactions": 0,
+   "inquiries": 0
+  },
+  {
+   "date": "2026-07-18",
+   "users": 5,
+   "listings": 1,
+   "transactions": 1,
+   "inquiries": 1
+  },
+  {
+   "date": "2026-07-19",
+   "users": 2,
+   "listings": 1,
+   "transactions": 0,
+   "inquiries": 0
+  },
+  {
+   "date": "2026-07-21",
+   "users": 5,
+   "listings": 0,
+   "transactions": 3,
+   "inquiries": 3
+  },
+  {
+   "date": "2026-07-22",
+   "users": 2,
+   "listings": 0,
+   "transactions": 2,
+   "inquiries": 2
+  },
+  {
+   "date": "2026-07-23",
+   "users": 3,
+   "listings": 1,
+   "transactions": 1,
+   "inquiries": 1
+  },
+  {
+   "date": "2026-07-24",
+   "users": 2,
+   "listings": 0,
+   "transactions": 0,
+   "inquiries": 0
+  },
+  {
+   "date": "2026-07-26",
+   "users": 2,
+   "listings": 2,
+   "transactions": 3,
+   "inquiries": 3
+  },
+  {
+   "date": "2026-07-27",
+   "users": 4,
+   "listings": 0,
+   "transactions": 0,
+   "inquiries": 0
+  },
+  {
+   "date": "2026-07-28",
+   "users": 4,
+   "listings": 2,
+   "transactions": 2,
+   "inquiries": 2
+  },
+  {
+   "date": "2026-07-29",
+   "users": 1,
+   "listings": 1,
+   "transactions": 2,
+   "inquiries": 2
+  },
+  {
+   "date": "2026-07-30",
+   "users": 6,
+   "listings": 1,
+   "transactions": 2,
+   "inquiries": 2
+  },
+  {
+   "date": "2026-07-31",
+   "users": 7,
+   "listings": 1,
+   "transactions": 1,
+   "inquiries": 1
+  },
+  {
+   "date": "2026-08-01",
+   "users": 2,
+   "listings": 0,
+   "transactions": 0,
+   "inquiries": 0
+  },
+  {
+   "date": "2026-08-02",
+   "users": 2,
+   "listings": 2,
+   "transactions": 0,
+   "inquiries": 0
+  },
+  {
+   "date": "2026-08-03",
+   "users": 2,
+   "listings": 0,
+   "transactions": 3,
+   "inquiries": 3
+  },
+  {
+   "date": "2026-08-04",
+   "users": 1,
+   "listings": 2,
+   "transactions": 3,
+   "inquiries": 3
+  },
+  {
+   "date": "2026-08-05",
+   "users": 4,
+   "listings": 2,
+   "transactions": 1,
+   "inquiries": 1
+  },
+  {
+   "date": "2026-08-06",
+   "users": 2,
+   "listings": 1,
+   "transactions": 1,
+   "inquiries": 1
+  },
+  {
+   "date": "2026-08-07",
+   "users": 10,
+   "listings": 1,
+   "transactions": 3,
+   "inquiries": 3
+  },
+  {
+   "date": "2026-08-08",
+   "users": 20,
+   "listings": 2,
+   "transactions": 0,
+   "inquiries": 0
+  },
+  {
+   "date": "2026-08-09",
+   "users": 11,
+   "listings": 1,
+   "transactions": 3,
+   "inquiries": 3
+  },
+  {
+   "date": "2026-08-10",
+   "users": 6,
+   "listings": 1,
+   "transactions": 4,
+   "inquiries": 4
+  },
+  {
+   "date": "2026-08-11",
+   "users": 7,
+   "listings": 1,
+   "transactions": 1,
+   "inquiries": 1
+  },
+  {
+   "date": "2026-08-12",
+   "users": 3,
+   "listings": 1,
+   "transactions": 1,
+   "inquiries": 1
+  },
+  {
+   "date": "2026-08-13",
+   "users": 2,
+   "listings": 0,
+   "transactions": 0,
+   "inquiries": 0
+  },
+  {
+   "date": "2026-08-14",
+   "users": 1,
+   "listings": 0,
+   "transactions": 0,
+   "inquiries": 0
+  },
+  {
+   "date": "2026-08-15",
+   "users": 1,
+   "listings": 0,
+   "transactions": 4,
+   "inquiries": 4
+  },
+  {
+   "date": "2026-08-16",
+   "users": 4,
+   "listings": 2,
+   "transactions": 0,
+   "inquiries": 0
+  },
+  {
+   "date": "2026-08-17",
+   "users": 1,
+   "listings": 0,
+   "transactions": 4,
+   "inquiries": 4
+  },
+  {
+   "date": "2026-08-18",
+   "users": 5,
+   "listings": 0,
+   "transactions": 11,
+   "inquiries": 11
+  },
+  {
+   "date": "2026-08-19",
+   "users": 2,
+   "listings": 4,
+   "transactions": 0,
+   "inquiries": 0
+  },
+  {
+   "date": "2026-08-20",
+   "users": 3,
+   "listings": 8,
+   "transactions": 1,
+   "inquiries": 1
+  },
+  {
+   "date": "2026-08-21",
+   "users": 3,
+   "listings": 1,
+   "transactions": 0,
+   "inquiries": 0
+  },
+  {
+   "date": "2026-08-22",
+   "users": 2,
+   "listings": 0,
+   "transactions": 0,
+   "inquiries": 0
+  },
+  {
+   "date": "2026-08-23",
+   "users": 1,
+   "listings": 0,
+   "transactions": 1,
+   "inquiries": 1
+  },
+  {
+   "date": "2026-08-24",
+   "users": 5,
+   "listings": 19,
+   "transactions": 0,
+   "inquiries": 0
+  },
+  {
+   "date": "2026-08-25",
+   "users": 0,
+   "listings": 10,
+   "transactions": 0,
+   "inquiries": 0
+  },
+  {
+   "date": "2026-08-26",
+   "users": 5,
+   "listings": 20,
+   "transactions": 1,
+   "inquiries": 1
+  },
+  {
+   "date": "2026-08-27",
+   "users": 6,
+   "listings": 3,
+   "transactions": 7,
+   "inquiries": 7
+  },
+  {
+   "date": "2026-08-28",
+   "users": 1,
+   "listings": 2,
+   "transactions": 1,
+   "inquiries": 1
+  },
+  {
+   "date": "2026-08-29",
+   "users": 1,
+   "listings": 1,
+   "transactions": 3,
+   "inquiries": 3
+  },
+  {
+   "date": "2026-08-31",
+   "users": 2,
+   "listings": 2,
+   "transactions": 1,
+   "inquiries": 1
+  },
+  {
+   "date": "2026-09-01",
+   "users": 4,
+   "listings": 1,
+   "transactions": 3,
+   "inquiries": 3
+  },
+  {
+   "date": "2026-09-02",
+   "users": 1,
+   "listings": 0,
+   "transactions": 0,
+   "inquiries": 0
+  },
+  {
+   "date": "2026-09-03",
+   "users": 1,
+   "listings": 3,
+   "transactions": 0,
+   "inquiries": 0
+  },
+  {
+   "date": "2026-09-04",
+   "users": 1,
+   "listings": 0,
+   "transactions": 2,
+   "inquiries": 2
+  },
+  {
+   "date": "2026-09-05",
+   "users": 8,
+   "listings": 0,
+   "transactions": 1,
+   "inquiries": 1
+  },
+  {
+   "date": "2026-09-06",
+   "users": 3,
+   "listings": 0,
+   "transactions": 0,
+   "inquiries": 0
+  },
+  {
+   "date": "2026-09-07",
+   "users": 7,
+   "listings": 4,
+   "transactions": 4,
+   "inquiries": 4
+  },
+  {
+   "date": "2026-09-08",
+   "users": 1,
+   "listings": 1,
+   "transactions": 2,
+   "inquiries": 2
+  },
+  {
+   "date": "2026-09-09",
+   "users": 1,
+   "listings": 0,
+   "transactions": 0,
+   "inquiries": 0
+  },
+  {
+   "date": "2026-09-10",
+   "users": 1,
+   "listings": 0,
+   "transactions": 0,
+   "inquiries": 0
+  },
+  {
+   "date": "2026-09-11",
+   "users": 3,
+   "listings": 2,
+   "transactions": 2,
+   "inquiries": 2
+  },
+  {
+   "date": "2026-09-12",
+   "users": 3,
+   "listings": 0,
+   "transactions": 2,
+   "inquiries": 2
+  },
+  {
+   "date": "2026-09-13",
+   "users": 3,
+   "listings": 0,
+   "transactions": 1,
+   "inquiries": 1
+  },
+  {
+   "date": "2026-09-14",
+   "users": 4,
+   "listings": 2,
+   "transactions": 1,
+   "inquiries": 1
+  },
+  {
+   "date": "2026-09-15",
+   "users": 8,
+   "listings": 5,
+   "transactions": 2,
+   "inquiries": 2
+  },
+  {
+   "date": "2026-09-16",
+   "users": 1,
+   "listings": 1,
+   "transactions": 0,
+   "inquiries": 0
+  },
+  {
+   "date": "2026-09-17",
+   "users": 3,
+   "listings": 1,
+   "transactions": 2,
+   "inquiries": 2
+  },
+  {
+   "date": "2026-09-18",
+   "users": 14,
+   "listings": 0,
+   "transactions": 3,
+   "inquiries": 3
+  },
+  {
+   "date": "2026-09-19",
+   "users": 17,
+   "listings": 0,
+   "transactions": 1,
+   "inquiries": 1
+  },
+  {
+   "date": "2026-09-20",
+   "users": 6,
+   "listings": 2,
+   "transactions": 3,
+   "inquiries": 3
+  },
+  {
+   "date": "2026-09-21",
+   "users": 2,
+   "listings": 0,
+   "transactions": 1,
+   "inquiries": 1
+  },
+  {
+   "date": "2026-09-22",
+   "users": 2,
+   "listings": 0,
+   "transactions": 1,
+   "inquiries": 1
+  },
+  {
+   "date": "2026-09-23",
+   "users": 2,
+   "listings": 0,
+   "transactions": 1,
+   "inquiries": 1
+  },
+  {
+   "date": "2026-09-24",
+   "users": 8,
+   "listings": 1,
+   "transactions": 1,
+   "inquiries": 1
+  },
+  {
+   "date": "2026-09-25",
+   "users": 48,
+   "listings": 0,
+   "transactions": 2,
+   "inquiries": 2
+  },
+  {
+   "date": "2026-09-26",
+   "users": 90,
+   "listings": 3,
+   "transactions": 1,
+   "inquiries": 1
+  },
+  {
+   "date": "2026-09-27",
+   "users": 51,
+   "listings": 2,
+   "transactions": 3,
+   "inquiries": 3
+  },
+  {
+   "date": "2026-09-28",
+   "users": 33,
+   "listings": 0,
+   "transactions": 3,
+   "inquiries": 3
+  },
+  {
+   "date": "2026-09-29",
+   "users": 54,
+   "listings": 5,
+   "transactions": 2,
+   "inquiries": 2
+  },
+  {
+   "date": "2026-09-30",
+   "users": 39,
+   "listings": 1,
+   "transactions": 0,
+   "inquiries": 0
+  },
+  {
+   "date": "2026-10-01",
+   "users": 19,
+   "listings": 5,
+   "transactions": 2,
+   "inquiries": 2
+  },
+  {
+   "date": "2026-10-02",
+   "users": 28,
+   "listings": 1,
+   "transactions": 1,
+   "inquiries": 1
+  },
+  {
+   "date": "2026-10-03",
+   "users": 12,
+   "listings": 1,
+   "transactions": 3,
+   "inquiries": 3
+  },
+  {
+   "date": "2026-10-04",
+   "users": 23,
+   "listings": 2,
+   "transactions": 1,
+   "inquiries": 1
+  },
+  {
+   "date": "2026-10-05",
+   "users": 7,
+   "listings": 1,
+   "transactions": 0,
+   "inquiries": 0
+  },
+  {
+   "date": "2026-10-06",
+   "users": 11,
+   "listings": 0,
+   "transactions": 3,
+   "inquiries": 3
+  },
+  {
+   "date": "2026-10-07",
+   "users": 5,
+   "listings": 1,
+   "transactions": 0,
+   "inquiries": 0
+  },
+  {
+   "date": "2026-10-08",
+   "users": 7,
+   "listings": 3,
+   "transactions": 1,
+   "inquiries": 1
+  },
+  {
+   "date": "2026-10-09",
+   "users": 5,
+   "listings": 0,
+   "transactions": 1,
+   "inquiries": 1
+  },
+  {
+   "date": "2026-10-10",
+   "users": 4,
+   "listings": 0,
+   "transactions": 2,
+   "inquiries": 2
+  },
+  {
+   "date": "2026-10-11",
+   "users": 14,
+   "listings": 0,
+   "transactions": 1,
+   "inquiries": 1
+  },
+  {
+   "date": "2026-10-12",
+   "users": 8,
+   "listings": 0,
+   "transactions": 0,
+   "inquiries": 0
+  },
+  {
+   "date": "2026-10-13",
+   "users": 2,
+   "listings": 0,
+   "transactions": 0,
+   "inquiries": 0
+  },
+  {
+   "date": "2026-10-14",
+   "users": 5,
+   "listings": 0,
+   "transactions": 0,
+   "inquiries": 0
+  },
+  {
+   "date": "2026-10-15",
+   "users": 4,
+   "listings": 1,
+   "transactions": 0,
+   "inquiries": 0
+  },
+  {
+   "date": "2026-10-16",
+   "users": 2,
+   "listings": 0,
+   "transactions": 0,
+   "inquiries": 0
+  }
+ ]
+}

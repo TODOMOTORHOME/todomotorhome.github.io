@@ -1,0 +1,58 @@
+{
+ "date": "2026-10-16",
+ "taken_at": "2026-10-16T19:55:54.361983+02:00",
+ "metrics": {
+  "censo_unique_users": 2592,
+  "censo_responses": 2721,
+  "ga_users_last7": 871,
+  "ga_sessions_last7": 1084,
+  "st_users": 4823,
+  "st_listings": 1828,
+  "st_listings_published": 1739,
+  "st_transactions": 671,
+  "st_inquiries": 671,
+  "mj_total": 4825,
+  "mj_subscribed": 4671,
+  "mj_unsubscribed": 154,
+  "mj_spam": 18,
+  "mj_blocked": 1652,
+  "fb_page_followers": 4403,
+  "ig_followers": 9941,
+  "fb_group_members": 10801
+ },
+ "mailjet_lists": [
+  {
+   "id": 10590623,
+   "name": "Base de registrados",
+   "total": 4825,
+   "subscribed": 4671,
+   "unsubscribed": 154,
+   "spam_complaints": 18,
+   "blocked": 1652,
+   "hard_bounced": 116,
+   "main": true
+  },
+  {
+   "id": 10607649,
+   "name": "Base de No censados (Sharetribe menos supabase)",
+   "total": 2005,
+   "subscribed": 1997,
+   "unsubscribed": 8,
+   "spam_complaints": 0,
+   "blocked": 46,
+   "hard_bounced": 0,
+   "main": false
+  },
+  {
+   "id": 10692387,
+   "name": "Tiendas Oficiales - Expomotorhome 2026",
+   "total": 114,
+   "subscribed": 114,
+   "unsubscribed": 0,
+   "spam_complaints": 0,
+   "blocked": 0,
+   "hard_bounced": 1,
+   "main": false
+  }
+ ]
+}

@@ -1,0 +1,23 @@
+*{box-sizing:border-box}body{margin:0;font-family:system-ui,-apple-system,"Segoe UI",Roboto,Arial,sans-serif;background:#f5f7fa;color:#202124}
+header{display:flex;flex-wrap:wrap;justify-content:space-between;gap:16px;align-items:flex-end;padding:20px 28px;background:#fff;border-bottom:1px solid #e0e0e0;position:sticky;top:0;z-index:5}
+h1{margin:0 0 4px;font-size:22px}h2{font-size:16px;margin:24px 0 10px;color:#3c4043}
+main{padding:0 28px 40px;max-width:1400px;margin:0 auto}
+.muted{color:#5f6368}.small{font-size:12px}
+.range{display:flex;flex-direction:column;gap:8px;align-items:flex-end}
+.presets button{border:1px solid #dadce0;background:#fff;border-radius:16px;padding:4px 10px;margin-left:4px;cursor:pointer;font-size:12px}
+.presets button.on{background:#e8f0fe;border-color:#1a73e8;color:#1a73e8}
+.dates{display:flex;align-items:center;gap:8px}.dash{color:#5f6368}
+.dates label{position:relative;display:block}
+.dates label span{position:absolute;top:-8px;left:10px;background:#fff;padding:0 4px;font-size:11px;color:#1a73e8}
+.dates input{border:2px solid #1a73e8;border-radius:6px;padding:9px 10px;font-size:15px;font-family:inherit}
+.cards{display:grid;grid-template-columns:repeat(auto-fill,minmax(230px,1fr));gap:12px}
+.card{background:#fff;border:1px solid #e0e0e0;border-radius:10px;padding:14px 16px}
+.card .t{font-size:13px;color:#5f6368;margin-bottom:6px}.card .v{font-size:28px;font-weight:600}
+.card .d{font-size:13px;margin-top:4px}.card .s{font-size:12px;color:#5f6368;margin-top:6px}
+.up{color:#188038}.down{color:#d93025}.flat{color:#5f6368}.pending .v{font-size:16px;color:#9aa0a6;font-weight:500}
+.charts{display:grid;grid-template-columns:repeat(auto-fill,minmax(420px,1fr));gap:12px}
+.chart{background:#fff;border:1px solid #e0e0e0;border-radius:10px;padding:12px;height:280px}
+table{border-collapse:collapse;width:100%;background:#fff;border:1px solid #e0e0e0;border-radius:10px;margin-top:12px;font-size:13px}
+th,td{padding:8px 10px;border-bottom:1px solid #eee;text-align:right}th:first-child,td:first-child{text-align:left}
+footer{margin-top:28px;line-height:1.6}
+@media(max-width:700px){header{position:static}.range{align-items:flex-start}.charts{grid-template-columns:1fr}}

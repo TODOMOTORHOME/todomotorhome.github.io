@@ -1,0 +1,8 @@
+.secrets/
+*.token
+.env
+.env.*
+*.pem
+*.key
+service_account*.json
+__pycache__/
