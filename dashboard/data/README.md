@@ -36,4 +36,4 @@ nunca toca `index.html`, `assets/` ni otros archivos (este README tampoco).
   (desde el 16/10/2026). Es lo que muestran el dashboard (columna "Bloqueados (última campaña)" y tarjeta) y el email semanal.
 
 Otros archivos del sitio que usa el email (no borrar ni renombrar): `assets/todomotorhome-logo.png`
-(logo del email semanal, se carga desde `https://patriciobrunoar.github.io/todomotorhome/dashboard/assets/todomotorhome-logo.png`).
+(logo del email semanal, se carga desde `https://todomotorhome.github.io/dashboard/assets/todomotorhome-logo.png`).
