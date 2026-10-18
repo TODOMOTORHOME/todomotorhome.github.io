@@ -163,7 +163,7 @@
     document.getElementById('cards-social').innerHTML =
       snapCard('Seguidores página Facebook', 'fb_page_followers', 'facebook_page_followers', R, { note: socialNote('Dato exacto de Meta (Graph API)') }) +
       snapCard('Seguidores de Instagram', 'ig_followers', 'instagram_followers', R, { note: socialNote('Dato exacto de Meta (Graph API), @' + ((social && social.instagram_followers && social.instagram_followers.username) || 'todomotorhome.ar')) }) +
-      snapCard('Miembros grupo de Facebook', 'fb_group_members', 'facebook_group_members', R, { note: 'Carga manual (vista de admin)' });
+      snapCard('Miembros grupo de Facebook', 'fb_group_members', 'facebook_group_members', R);
     snapChart('ch-social', 'Seguidores y miembros', [['Página Facebook', snapHistory('fb_page_followers', 'facebook_page_followers')], ['Instagram', snapHistory('ig_followers', 'instagram_followers')], ['Grupo Facebook', snapHistory('fb_group_members', 'facebook_group_members')]], 'charts-social');
 
     document.getElementById('cards-censo').innerHTML =
