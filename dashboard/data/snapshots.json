@@ -89,5 +89,187 @@
     }
    }
   ]
+ },
+ {
+  "date": "2026-10-18",
+  "metrics": {
+   "censo_unique_users": 2597,
+   "censo_responses": 2726,
+   "ga_users_last7": 958,
+   "ga_sessions_last7": 1166,
+   "ga_page_views_last7": 4805,
+   "st_users": 4830,
+   "st_listings": 1829,
+   "st_listings_published": 1740,
+   "st_transactions": 673,
+   "st_inquiries": 673,
+   "mj_total": 4825,
+   "mj_subscribed": 4670,
+   "mj_unsubscribed": 155,
+   "mj_spam": 18,
+   "mj_blocked": 1652,
+   "mj_blocked_rate_last": 2.1,
+   "mj_blocked_last": 98,
+   "mj_processed_last": 4659,
+   "fb_page_followers": 4403,
+   "ig_followers": 9939,
+   "fb_group_members": 10852
+  },
+  "mailjet_lists": [
+   {
+    "id": 10590623,
+    "name": "Base de registrados",
+    "total": 4825,
+    "subscribed": 4670,
+    "unsubscribed": 155,
+    "spam_complaints": 18,
+    "blocked": 1652,
+    "hard_bounced": 116,
+    "main": true,
+    "last_campaign": {
+     "id": 7769232198,
+     "name": "Email semanal 22",
+     "subject": "🚐 [[data:firstname:\"\"]], 6 Hallazgos de la semana en Todo Motorhome",
+     "sent_at": "2026-10-15T12:00:02-03:00",
+     "sent_label": "15/10/2026 12:00",
+     "processed": 4659,
+     "blocked": 98,
+     "blocked_rate": 2.1
+    }
+   },
+   {
+    "id": 10607649,
+    "name": "Base de No censados (Sharetribe menos supabase)",
+    "total": 2005,
+    "subscribed": 1997,
+    "unsubscribed": 8,
+    "spam_complaints": 0,
+    "blocked": 46,
+    "hard_bounced": 0,
+    "main": false,
+    "last_campaign": {
+     "id": 7761460710,
+     "name": "Censo Rodantero a registrados de todomotorhome, no censados",
+     "subject": "¿[[data:firstname:\"\"]]Ya sos parte del Censo Rodantero? 🇦🇷🚐",
+     "sent_at": "2026-06-28T19:30:01-03:00",
+     "sent_label": "28/06/2026 19:30",
+     "processed": 2005,
+     "blocked": 46,
+     "blocked_rate": 2.29
+    }
+   },
+   {
+    "id": 10692387,
+    "name": "Tiendas Oficiales - Expomotorhome 2026",
+    "total": 114,
+    "subscribed": 114,
+    "unsubscribed": 0,
+    "spam_complaints": 0,
+    "blocked": 0,
+    "hard_bounced": 1,
+    "main": false,
+    "last_campaign": {
+     "id": 7761768838,
+     "name": "Invitación Viaje Expomotorhome 2026 - Tiendas Oficiales",
+     "subject": "🚐 Sumá tu tienda al viaje empresarial a la 10ª Expo Motorhome 2026 (Curitiba, Brasil)",
+     "sent_at": "2026-07-15T09:00:01-03:00",
+     "sent_label": "15/07/2026 09:00",
+     "processed": 114,
+     "blocked": 0,
+     "blocked_rate": 0.0
+    }
+   }
+  ]
+ },
+ {
+  "date": "2026-10-25",
+  "metrics": {
+   "censo_unique_users": 6086,
+   "censo_responses": 6311,
+   "ga_users_last7": 14090,
+   "ga_sessions_last7": 15791,
+   "ga_page_views_last7": 70404,
+   "st_users": 10046,
+   "st_listings": 1858,
+   "st_listings_published": 1766,
+   "st_transactions": 703,
+   "st_inquiries": 703,
+   "mj_total": 9595,
+   "mj_subscribed": 9437,
+   "mj_unsubscribed": 158,
+   "mj_spam": 18,
+   "mj_blocked": 1754,
+   "mj_blocked_rate_last": 2.18,
+   "mj_blocked_last": 102,
+   "mj_processed_last": 4669,
+   "fb_page_followers": 4431,
+   "ig_followers": 16977,
+   "fb_group_members": 11376
+  },
+  "mailjet_lists": [
+   {
+    "id": 10590623,
+    "name": "Base de registrados",
+    "total": 9595,
+    "subscribed": 9437,
+    "unsubscribed": 158,
+    "spam_complaints": 18,
+    "blocked": 1754,
+    "hard_bounced": 116,
+    "main": true,
+    "last_campaign": {
+     "id": 7769387872,
+     "name": "Email semanal 23",
+     "subject": "🚐 [[data:firstname:\"\"]], 6 Hallazgos de la semana en Todo Motorhome",
+     "sent_at": "2026-10-22T12:00:01-03:00",
+     "sent_label": "22/10/2026 12:00",
+     "processed": 4669,
+     "blocked": 102,
+     "blocked_rate": 2.18
+    }
+   },
+   {
+    "id": 10607649,
+    "name": "Base de No censados (Sharetribe menos supabase)",
+    "total": 2005,
+    "subscribed": 1997,
+    "unsubscribed": 8,
+    "spam_complaints": 0,
+    "blocked": 46,
+    "hard_bounced": 0,
+    "main": false,
+    "last_campaign": {
+     "id": 7761460710,
+     "name": "Censo Rodantero a registrados de todomotorhome, no censados",
+     "subject": "¿[[data:firstname:\"\"]]Ya sos parte del Censo Rodantero? 🇦🇷🚐",
+     "sent_at": "2026-06-28T19:30:01-03:00",
+     "sent_label": "28/06/2026 19:30",
+     "processed": 2005,
+     "blocked": 46,
+     "blocked_rate": 2.29
+    }
+   },
+   {
+    "id": 10692387,
+    "name": "Tiendas Oficiales - Expomotorhome 2026",
+    "total": 114,
+    "subscribed": 114,
+    "unsubscribed": 0,
+    "spam_complaints": 0,
+    "blocked": 0,
+    "hard_bounced": 1,
+    "main": false,
+    "last_campaign": {
+     "id": 7761768838,
+     "name": "Invitación Viaje Expomotorhome 2026 - Tiendas Oficiales",
+     "subject": "🚐 Sumá tu tienda al viaje empresarial a la 10ª Expo Motorhome 2026 (Curitiba, Brasil)",
+     "sent_at": "2026-07-15T09:00:01-03:00",
+     "sent_label": "15/07/2026 09:00",
+     "processed": 114,
+     "blocked": 0,
+     "blocked_rate": 0.0
+    }
+   }
+  ]
  }
 ]

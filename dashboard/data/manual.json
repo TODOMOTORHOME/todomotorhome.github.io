@@ -1,17 +1,30 @@
 {
- "_info": "Valores cargados a mano (solo lo que no tiene API). Página de Facebook e Instagram ya NO van acá: se leen automáticamente de Meta Graph API (data/social.json). El grupo de Facebook no tiene API (Groups API discontinuada): actualizar value/as_of y agregar una entrada a history en cada lectura (vista de admin del grupo).",
+ "_info": "Miembros del grupo de Facebook 'Todo Motorhome Argentina': se leen automáticamente de Meta Graph API (grupo 425130551924347, campo member_count) en cada corrida de collect.py. Si la lectura falla, se conserva el último valor con status 'stale' y last_error. Solo si deja de funcionar: actualizar value/as_of y agregar una entrada a history a mano (vista de admin del grupo). Página de Facebook e Instagram van en data/social.json.",
  "facebook_group_members": {
   "label": "Miembros grupo Facebook 'Todo Motorhome Argentina'",
-  "source": "vista de administrador del grupo",
-  "value": 10801,
+  "source": "Meta Graph API v21.0, grupo 425130551924347 (Todo Motorhome Argentina), campo member_count",
+  "value": 11376,
   "rounded": false,
-  "as_of": "2026-10-16",
-  "status": "manual",
+  "as_of": "2026-10-25",
+  "status": "ok",
   "history": [
    {
     "date": "2026-10-16",
-    "value": 10801
+    "value": 10801,
+    "rounded": false
+   },
+   {
+    "date": "2026-10-18",
+    "value": 10852,
+    "rounded": false
+   },
+   {
+    "date": "2026-10-25",
+    "value": 11376,
+    "rounded": false
    }
-  ]
+  ],
+  "fetched_at": "2026-10-25T19:52:10.301674-03:00",
+  "last_error": null
  }
 }

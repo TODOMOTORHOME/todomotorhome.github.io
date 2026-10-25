@@ -1,21 +1,21 @@
 {
  "source": "Sharetribe Integration API",
  "totals": {
-  "users": 4823,
-  "listings": 1828,
+  "users": 10046,
+  "listings": 1858,
   "listings_by_state": {
-   "published": 1739,
-   "draft": 44,
+   "published": 1766,
+   "draft": 47,
    "closed": 45
   },
-  "transactions": 671,
-  "inquiries_without_payment": 671
+  "transactions": 703,
+  "inquiries_without_payment": 703
  },
  "transition_paths": {
-  "transition/inquire-without-payment": 671
+  "transition/inquire-without-payment": 703
  },
  "processes": {
-  "default-inquiry": 671
+  "default-inquiry": 703
  },
  "inquiry_rule": "Transacción con al menos una transición de consulta (nombre contiene 'inquire') y ninguna otra transición de pago (pay/purchase/request-payment/confirm-payment/stripe). Hoy todas usan el proceso default-inquiry con la única transición 'transition/inquire-without-payment'.",
  "daily": [
@@ -4361,7 +4361,7 @@
   },
   {
    "date": "2026-09-24",
-   "users": 8,
+   "users": 9,
    "listings": 1,
    "transactions": 1,
    "inquiries": 1
@@ -4515,10 +4515,73 @@
   },
   {
    "date": "2026-10-16",
-   "users": 2,
+   "users": 5,
    "listings": 0,
+   "transactions": 1,
+   "inquiries": 1
+  },
+  {
+   "date": "2026-10-17",
+   "users": 4,
+   "listings": 1,
+   "transactions": 1,
+   "inquiries": 1
+  },
+  {
+   "date": "2026-10-18",
+   "users": 1088,
+   "listings": 1,
+   "transactions": 5,
+   "inquiries": 5
+  },
+  {
+   "date": "2026-10-19",
+   "users": 1608,
+   "listings": 7,
+   "transactions": 2,
+   "inquiries": 2
+  },
+  {
+   "date": "2026-10-20",
+   "users": 737,
+   "listings": 6,
+   "transactions": 7,
+   "inquiries": 7
+  },
+  {
+   "date": "2026-10-21",
+   "users": 249,
+   "listings": 1,
+   "transactions": 4,
+   "inquiries": 4
+  },
+  {
+   "date": "2026-10-22",
+   "users": 218,
+   "listings": 2,
+   "transactions": 4,
+   "inquiries": 4
+  },
+  {
+   "date": "2026-10-23",
+   "users": 249,
+   "listings": 2,
+   "transactions": 5,
+   "inquiries": 5
+  },
+  {
+   "date": "2026-10-24",
+   "users": 516,
+   "listings": 6,
    "transactions": 0,
    "inquiries": 0
+  },
+  {
+   "date": "2026-10-25",
+   "users": 550,
+   "listings": 4,
+   "transactions": 3,
+   "inquiries": 3
   }
  ]
 }

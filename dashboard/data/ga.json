@@ -7539,6 +7539,69 @@
    "sessions": 284,
    "new_users": 142,
    "page_views": 980
+  },
+  {
+   "date": "2026-10-16",
+   "users": 155,
+   "sessions": 183,
+   "new_users": 124,
+   "page_views": 949
+  },
+  {
+   "date": "2026-10-17",
+   "users": 115,
+   "sessions": 125,
+   "new_users": 98,
+   "page_views": 515
+  },
+  {
+   "date": "2026-10-18",
+   "users": 2832,
+   "sessions": 3048,
+   "new_users": 2798,
+   "page_views": 16580
+  },
+  {
+   "date": "2026-10-19",
+   "users": 4621,
+   "sessions": 4922,
+   "new_users": 4513,
+   "page_views": 23927
+  },
+  {
+   "date": "2026-10-20",
+   "users": 2164,
+   "sessions": 2426,
+   "new_users": 2045,
+   "page_views": 10661
+  },
+  {
+   "date": "2026-10-21",
+   "users": 892,
+   "sessions": 1019,
+   "new_users": 822,
+   "page_views": 4597
+  },
+  {
+   "date": "2026-10-22",
+   "users": 920,
+   "sessions": 1106,
+   "new_users": 778,
+   "page_views": 4183
+  },
+  {
+   "date": "2026-10-23",
+   "users": 1027,
+   "sessions": 1204,
+   "new_users": 922,
+   "page_views": 4057
+  },
+  {
+   "date": "2026-10-24",
+   "users": 1634,
+   "sessions": 2066,
+   "new_users": 1507,
+   "page_views": 6399
   }
  ],
  "periods": {
@@ -7558,17 +7621,17 @@
   },
   "mtd": {
    "start": "2026-10-01",
-   "end": "2026-10-16",
-   "users": 1975,
-   "sessions": 2734,
-   "page_views": 11345
+   "end": "2026-10-25",
+   "users": 17056,
+   "sessions": 20657,
+   "page_views": 88387
   },
   "mtd_prev": {
    "start": "2026-09-01",
-   "end": "2026-09-16",
-   "users": 1553,
-   "sessions": 2079,
-   "page_views": 8642
+   "end": "2026-09-25",
+   "users": 2859,
+   "sessions": 3973,
+   "page_views": 15376
   }
  },
  "periods_note": "usuarios únicos por período (runReport con ese rango de fechas, sin sumar días)",

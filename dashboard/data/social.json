@@ -1,16 +1,16 @@
 {
  "source": "Meta Graph API v21.0, página 110283964465949 (Todo Motorhome) + Instagram vinculado",
- "fetched_at": "2026-10-16T17:39:01.506419-03:00",
- "as_of": "2026-10-16",
+ "fetched_at": "2026-10-25T19:52:10.301674-03:00",
+ "as_of": "2026-10-25",
  "status": "ok",
  "last_error": null,
  "facebook_page_followers": {
-  "value": 4403,
-  "fan_count": 4403,
+  "value": 4431,
+  "fan_count": 4431,
   "rounded": false
  },
  "instagram_followers": {
-  "value": 9941,
+  "value": 16977,
   "username": "todomotorhome.ar",
   "rounded": false
  },
@@ -21,6 +21,18 @@
    "facebook_page_followers": 4403,
    "facebook_page_fan_count": 4403,
    "instagram_followers": 9941
+  },
+  {
+   "date": "2026-10-18",
+   "facebook_page_followers": 4403,
+   "facebook_page_fan_count": 4403,
+   "instagram_followers": 9939
+  },
+  {
+   "date": "2026-10-25",
+   "facebook_page_followers": 4431,
+   "facebook_page_fan_count": 4431,
+   "instagram_followers": 16977
   }
  ]
 }
