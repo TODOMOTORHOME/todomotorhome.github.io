@@ -69,6 +69,10 @@
       const tot = sum(m, '0000', R.e), totPrev = sum(m, '0000', R.pe);
       s = `Total acumulado al ${dmy(R.e)}: <b>${fmt(tot)}</b> ${delta(tot, totPrev)}` + (s ? '<br>' + s : '');
     }
+    if (opts.startTotal) {  // running total at the start date = total at end − change over the range
+      const first = Object.keys(m).sort()[0];
+      s = (first && R.s > first ? `Total al ${dmy(R.s)}: <b>${fmt(sum(m, '0000', R.e) - cur)}</b>` : `Total al ${dmy(R.s)}: sin datos <span class="muted small">(historial desde ${dmy(first)})</span>`) + (s ? '<br>' + s : '');
+    }
     return card(t, fmt(cur), delta(cur, prev, opts.invert) + ' <span class="muted small">vs período anterior</span>', s);
   }
   function snapCard(t, key, manualKey, R, opts = {}) {
@@ -78,7 +82,9 @@
     const approx = cur.r ? ' <span class="muted small">(aprox.)</span>' : '';
     const d = prev && prev.date !== cur.date ? delta(cur.v, prev.v, opts.invert) + ` <span class="muted small">vs medición del ${dmy(prev.date)}</span>`
       : '<span class="flat">sin medición semanal anterior para comparar</span>';
-    return card(t, fmt(cur.v) + approx, d, `Medición semanal del ${dmy(cur.date)}` + (opts.note ? '. ' + opts.note : ''));
+    const st0 = !opts.startTotal ? '' : '<br>' + (prev ? `Total al ${dmy(R.s)}: <b>${fmt(prev.v)}</b> <span class="muted small">(medición del ${dmy(prev.date)})</span>`
+      : `Total al ${dmy(R.s)}: sin datos <span class="muted small">(primera medición: ${dmy(hist[0].date)})</span>`);
+    return card(t, fmt(cur.v) + approx, d, `Medición semanal del ${dmy(cur.date)}` + (opts.note ? '. ' + opts.note : '') + st0);
   }
 
   // ---- charts ----
@@ -154,25 +160,25 @@
 
     // Section order: Sharetribe, Redes sociales, Censo Rodantero, Email (Mailjet), Google Analytics
     document.getElementById('cards-st').innerHTML =
-      flowCard('Nuevos usuarios', S.stUsers, R, { total: true }) +
-      flowCard('Nuevos anuncios', S.stList, R, { total: true, note: st ? `Hoy: ${fmt(st.totals.listings_by_state.published)} publicados · ${fmt(st.totals.listings_by_state.closed)} cerrados · ${fmt(st.totals.listings_by_state.draft)} borradores` : '' }) +
+      flowCard('Nuevos usuarios', S.stUsers, R, { total: true, startTotal: true }) +
+      flowCard('Nuevos anuncios', S.stList, R, { total: true, startTotal: true, note: st ? `Hoy: ${fmt(st.totals.listings_by_state.published)} publicados · ${fmt(st.totals.listings_by_state.closed)} cerrados · ${fmt(st.totals.listings_by_state.draft)} borradores` : '' }) +
       flowCard('Consultas sin pago', S.stInq, R, { total: true, note: st ? `Transacciones totales: ${fmt(st.totals.transactions)}` : '' });
     lineChart('ch-st', 'Nuevos usuarios y anuncios', [['Usuarios', S.stUsers], ['Anuncios', S.stList]], R, 'charts-st');
     lineChart('ch-inq', 'Consultas sin pago', [['Consultas', S.stInq]], R, 'charts-st');
 
     document.getElementById('cards-social').innerHTML =
       snapCard('Seguidores página Facebook', 'fb_page_followers', 'facebook_page_followers', R, { note: socialNote('Dato exacto de Meta (Graph API)') }) +
-      snapCard('Seguidores de Instagram', 'ig_followers', 'instagram_followers', R, { note: socialNote('Dato exacto de Meta (Graph API), @' + ((social && social.instagram_followers && social.instagram_followers.username) || 'todomotorhome.ar')) }) +
-      snapCard('Miembros grupo de Facebook', 'fb_group_members', 'facebook_group_members', R);
+      snapCard('Seguidores de Instagram', 'ig_followers', 'instagram_followers', R, { note: socialNote('Dato exacto de Meta (Graph API), @' + ((social && social.instagram_followers && social.instagram_followers.username) || 'todomotorhome.ar')), startTotal: true }) +
+      snapCard('Miembros grupo de Facebook', 'fb_group_members', 'facebook_group_members', R, { startTotal: true });
     snapChart('ch-social', 'Seguidores y miembros', [['Página Facebook', snapHistory('fb_page_followers', 'facebook_page_followers')], ['Instagram', snapHistory('ig_followers', 'instagram_followers')], ['Grupo Facebook', snapHistory('fb_group_members', 'facebook_group_members')]], 'charts-social');
 
     document.getElementById('cards-censo').innerHTML =
-      flowCard('Nuevos registrados únicos', S.censo, R, { total: true, note: censo ? `Hoy: ${fmt(censo.totals.unique_users)} únicos por usuario · ${fmt(censo.totals.unique_emails)} por email · ${fmt(censo.totals.responses)} respuestas` : '' });
+      flowCard('Nuevos registrados únicos', S.censo, R, { total: true, startTotal: true, note: censo ? `Hoy: ${fmt(censo.totals.unique_users)} únicos por usuario · ${fmt(censo.totals.unique_emails)} por email · ${fmt(censo.totals.responses)} respuestas` : '' });
     lineChart('ch-censo', 'Nuevos registrados', [['Nuevos registrados', S.censo]], R, 'charts-censo');
 
     document.getElementById('cards-mj').innerHTML =
       snapCard('Contactos totales – Base de registrados', 'mj_total', null, R) +
-      snapCard('Suscriptos', 'mj_subscribed', null, R) +
+      snapCard('Suscriptos', 'mj_subscribed', null, R, { startTotal: true }) +
       snapCard('Desuscriptos', 'mj_unsubscribed', null, R, { invert: true }) +
       snapCard('Quejas por spam (acumulado)', 'mj_spam', null, R, { invert: true }) +
       blockedCard();
