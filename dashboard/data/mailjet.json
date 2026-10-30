@@ -5,21 +5,21 @@
    "id": 10590623,
    "name": "Base de registrados",
    "total": 9595,
-   "subscribed": 9437,
-   "unsubscribed": 158,
-   "spam_complaints": 18,
-   "blocked": 1754,
-   "hard_bounced": 116,
+   "subscribed": 9423,
+   "unsubscribed": 172,
+   "spam_complaints": 19,
+   "blocked": 1827,
+   "hard_bounced": 191,
    "main": true,
    "last_campaign": {
-    "id": 7769387872,
-    "name": "Email semanal 23",
+    "id": 7769566468,
+    "name": "Email semanal 24",
     "subject": "🚐 [[data:firstname:\"\"]], 6 Hallazgos de la semana en Todo Motorhome",
-    "sent_at": "2026-10-22T12:00:01-03:00",
-    "sent_label": "22/10/2026 12:00",
-    "processed": 4669,
-    "blocked": 102,
-    "blocked_rate": 2.18
+    "sent_at": "2026-10-29T12:00:02-03:00",
+    "sent_label": "29/10/2026 12:00",
+    "processed": 9436,
+    "blocked": 73,
+    "blocked_rate": 0.77
    }
   },
   {
@@ -352,6 +352,18 @@
   },
   {
    "date": "2026-10-24",
+   "unsubscribed": 1
+  },
+  {
+   "date": "2026-10-27",
+   "unsubscribed": 1
+  },
+  {
+   "date": "2026-10-29",
+   "unsubscribed": 12
+  },
+  {
+   "date": "2026-10-30",
    "unsubscribed": 1
   }
  ],

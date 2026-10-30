@@ -1,21 +1,21 @@
 {
  "source": "Sharetribe Integration API",
  "totals": {
-  "users": 10046,
-  "listings": 1858,
+  "users": 12053,
+  "listings": 1868,
   "listings_by_state": {
-   "published": 1766,
-   "draft": 47,
-   "closed": 45
+   "published": 1774,
+   "draft": 48,
+   "closed": 46
   },
-  "transactions": 703,
-  "inquiries_without_payment": 703
+  "transactions": 716,
+  "inquiries_without_payment": 716
  },
  "transition_paths": {
-  "transition/inquire-without-payment": 703
+  "transition/inquire-without-payment": 716
  },
  "processes": {
-  "default-inquiry": 703
+  "default-inquiry": 716
  },
  "inquiry_rule": "Transacción con al menos una transición de consulta (nombre contiene 'inquire') y ninguna otra transición de pago (pay/purchase/request-payment/confirm-payment/stripe). Hoy todas usan el proceso default-inquiry con la única transición 'transition/inquire-without-payment'.",
  "daily": [
@@ -4361,7 +4361,7 @@
   },
   {
    "date": "2026-09-24",
-   "users": 9,
+   "users": 8,
    "listings": 1,
    "transactions": 1,
    "inquiries": 1
@@ -4543,7 +4543,7 @@
   },
   {
    "date": "2026-10-20",
-   "users": 737,
+   "users": 736,
    "listings": 6,
    "transactions": 7,
    "inquiries": 7
@@ -4578,10 +4578,45 @@
   },
   {
    "date": "2026-10-25",
-   "users": 550,
+   "users": 612,
    "listings": 4,
    "transactions": 3,
    "inquiries": 3
+  },
+  {
+   "date": "2026-10-26",
+   "users": 145,
+   "listings": 1,
+   "transactions": 2,
+   "inquiries": 2
+  },
+  {
+   "date": "2026-10-27",
+   "users": 272,
+   "listings": 3,
+   "transactions": 3,
+   "inquiries": 3
+  },
+  {
+   "date": "2026-10-28",
+   "users": 1180,
+   "listings": 4,
+   "transactions": 3,
+   "inquiries": 3
+  },
+  {
+   "date": "2026-10-29",
+   "users": 276,
+   "listings": 2,
+   "transactions": 5,
+   "inquiries": 5
+  },
+  {
+   "date": "2026-10-30",
+   "users": 74,
+   "listings": 0,
+   "transactions": 0,
+   "inquiries": 0
   }
  ]
 }

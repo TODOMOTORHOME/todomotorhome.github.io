@@ -1,17 +1,17 @@
 {
- "updated_at": "2026-10-25T19:52:10.301674-03:00",
- "updated_label": "25/10/2026 19:52 (hora de Argentina)",
+ "updated_at": "2026-10-30T17:39:08.683305-03:00",
+ "updated_label": "30/10/2026 17:39 (hora de Argentina)",
  "errors": [],
  "social": {
   "status": "ok",
-  "as_of": "2026-10-25",
-  "fetched_at": "2026-10-25T19:52:10.301674-03:00",
+  "as_of": "2026-10-30",
+  "fetched_at": "2026-10-30T17:39:08.683305-03:00",
   "last_error": null
  },
  "facebook_group": {
   "status": "ok",
-  "as_of": "2026-10-25",
-  "fetched_at": "2026-10-25T19:52:10.301674-03:00",
+  "as_of": "2026-10-30",
+  "fetched_at": "2026-10-30T17:39:08.683305-03:00",
   "last_error": null
  },
  "dashboard_url": "https://todomotorhome.github.io/dashboard/"

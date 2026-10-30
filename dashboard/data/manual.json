@@ -3,9 +3,9 @@
  "facebook_group_members": {
   "label": "Miembros grupo Facebook 'Todo Motorhome Argentina'",
   "source": "Meta Graph API v21.0, grupo 425130551924347 (Todo Motorhome Argentina), campo member_count",
-  "value": 11376,
+  "value": 11720,
   "rounded": false,
-  "as_of": "2026-10-25",
+  "as_of": "2026-10-30",
   "status": "ok",
   "history": [
    {
@@ -22,9 +22,14 @@
     "date": "2026-10-25",
     "value": 11376,
     "rounded": false
+   },
+   {
+    "date": "2026-10-30",
+    "value": 11720,
+    "rounded": false
    }
   ],
-  "fetched_at": "2026-10-25T19:52:10.301674-03:00",
+  "fetched_at": "2026-10-30T17:39:08.683305-03:00",
   "last_error": null
  }
 }

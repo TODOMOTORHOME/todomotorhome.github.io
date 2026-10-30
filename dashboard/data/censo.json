@@ -1,10 +1,10 @@
 {
  "source": "Supabase public.censo_responses (deleted_at is null)",
- "queried_at": "2026-10-25T22:51:44.679818+00:00",
+ "queried_at": "2026-10-30T20:39:03.174839+00:00",
  "totals": {
-  "unique_users": 6086,
-  "unique_emails": 6085,
-  "responses": 6311
+  "unique_users": 7675,
+  "unique_emails": 7674,
+  "responses": 7944
  },
  "daily": [
   {
@@ -1013,7 +1013,27 @@
   },
   {
    "date": "2026-10-25",
-   "new_users": 435
+   "new_users": 491
+  },
+  {
+   "date": "2026-10-26",
+   "new_users": 132
+  },
+  {
+   "date": "2026-10-27",
+   "new_users": 220
+  },
+  {
+   "date": "2026-10-28",
+   "new_users": 891
+  },
+  {
+   "date": "2026-10-29",
+   "new_users": 224
+  },
+  {
+   "date": "2026-10-30",
+   "new_users": 66
   }
  ],
  "daily_responses": [
@@ -2023,7 +2043,27 @@
   },
   {
    "date": "2026-10-25",
-   "responses": 451
+   "responses": 508
+  },
+  {
+   "date": "2026-10-26",
+   "responses": 136
+  },
+  {
+   "date": "2026-10-27",
+   "responses": 226
+  },
+  {
+   "date": "2026-10-28",
+   "responses": 918
+  },
+  {
+   "date": "2026-10-29",
+   "responses": 229
+  },
+  {
+   "date": "2026-10-30",
+   "responses": 67
   }
  ]
 }
